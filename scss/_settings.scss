@@ -71,7 +71,7 @@ $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
-	primary: #1779ba,
+	primary: #2ba6cb, // #1779ba
 	secondary: #767676,
 	success: #3adb76,
 	warning: #ffae00,
@@ -144,11 +144,11 @@ $header-color: inherit;
 $header-lineheight: 1.4;
 $header-margin-bottom: 0.5rem;
 $header-styles: (
-	small: ( // Inspired by http://typecast.com/blog/a-more-modern-scale-for-web-typography
-		'h1': ('font-size': 32),
-		'h2': ('font-size': 26),
-		'h3': ('font-size': 22),
-		'h4': ('font-size': 18),
+	small: (
+		'h1': ('font-size': 39),
+		'h2': ('font-size': 31),
+		'h3': ('font-size': 25),
+		'h4': ('font-size': 21),
 		'h5': ('font-size': 16),
 		'h6': ('font-size': 14),
 	),
@@ -174,7 +174,7 @@ $code-background: $light-gray;
 $code-border: 1px solid $medium-gray;
 $code-padding: rem-calc(2 5 1);
 $anchor-color: $primary-color;
-$anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
+$anchor-color-hover: #258faf; // scale-color($anchor-color, $lightness: -14%);
 $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
 $hr-width: $global-width;
