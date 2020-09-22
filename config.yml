@@ -1,0 +1,67 @@
+
+# UnCSS will use these settings
+UNCSS_OPTIONS:
+  html:
+    - "dist/**/*.{html,php,htm}"
+  ignore:
+    - !!js/regexp .foundation-mq
+    - !!js/regexp ^\.is-.*
+
+# Gulp will reference these paths when it copies files
+PATHS:
+  # Path to dist folder
+  dist: "dist"
+  # Paths to static assets that aren't images, CSS, or JavaScript
+  assets:
+    - "assets/.htaccess" # <- specify import invisible file .htaccess
+    - "assets/**" # <- import all files inside assets/
+  # Paths to Sass libraries, which can then be loaded with @import
+  sass:
+    - "node_modules/foundation-sites/scss"
+    - "node_modules/motion-ui/src"
+  # Paths to JavaScript libraries, which are compined into one file
+  javascript:
+    # Libraries requried by Foundation
+    # - "node_modules/jquery/dist/jquery.js" # <- alternatively utilize Google jQuery CDN
+    - "node_modules/what-input/dist/what-input.js"
+
+    # Core Foundation files
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.core.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.*.js"
+
+    # Individual util files
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.box.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.keyboard.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.motion.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.nest.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.timer.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.touch.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.triggers.js"
+
+    # Individual Foundation components
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.abide.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.accordion.js" # keyboard
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.accordionMenu.js" # keyboard / nest
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.drilldown.js" # box / keyboard / nest
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.dropdown.js" # box / keyboard / triggers
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js" # box / keyboard / nest
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js" # imageLoader / mediaQuery
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.interchange.js" # mediaQuery
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.magellan.js" # smoothScroll
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.offcanvas.js" # keyboard / mediaQuery / triggers
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.orbit.js" # imageLoader / keyboard / motion / timer / touch
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveAccordionTabs.js" # accordion / motion / tabs
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveMenu.js" # mediaQuery / triggers
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveToggle.js" # mediaQuery / motion
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.reveal.js" # keyboard / mediaQuery / motion / triggers
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.slider.js" # keyboard / motion / touch / triggers
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.sticky.js" # mediaQuery / triggers
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.tabs.js" # imageLoader / keyboard
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.toggler.js" # motion / triggers
+    # - "node_modules/foundation-sites/dist/js/plugins/foundation.tooltip.js" # box / mediaQuery / triggers
+
+    # Main JS file (imports everything above)
+    - "js/app-min.js"
