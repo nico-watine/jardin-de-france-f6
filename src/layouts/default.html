@@ -2,18 +2,50 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="en-US">
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>{{ title }}</title>
 	<meta name="description" content="{{ description }}">
-	<link href="http://url.com{{ url }}" rel="canonical">
+	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
+	<link href="https://jardindefrancetx.com{{ url }}" rel="canonical">
 	<link href="/humans.txt" rel="author">
+
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ og-title }}">
+	<meta property="og:description" content="{{ og-description }}">
+	<meta property="og:url" content="https://jardindefrancetx.com{{ url }}">
+	<meta property="og:site_name" content="Jardin de France">
+	<meta property="og:image" content="https://jardindefrancetx.com{{ og-image }}">
 
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "LocalBusiness",
+	  "name": "Jardin de France",
+	  "logo": "http://jardindefrancetx.com/img/assets/logo/schema/jardin-de-france-logo.png",
+	  "description": "Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design",
+	  "url" : "http://jardindefrancetx.com",
+	  "telephone": "832-651-3136",
+	  "address": {
+	    "@type": "PostalAddress",
+	    "addressLocality": "Houston",
+	    "addressRegion": "TX",
+	    "postalCode": "77007",
+	    "streetAddress": "4819 Blossom St"
+	  },
+	  "sameAs" : [
+	    "https://www.google.com/+JardindeFranceHouston",
+	    "https://www.pinterest.com/lebasi68/jardin-de-france/",
+	    "https://www.instagram.com/jardindefrancetx/"
+	  ]
+	}
+	</script>
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
 
