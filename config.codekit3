@@ -1306,19 +1306,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/scss/_old.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/_old.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
 	"/scss/_settings.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1666,6 +1653,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/css/_pages.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
+	"/scss/pages/index/_index-old.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_index-old.css",
 		"oF": 0,
 		"oS": 0,
 		"sct": 1
