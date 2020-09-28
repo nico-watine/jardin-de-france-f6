@@ -8673,10 +8673,6 @@ a.colophon:hover {
 .min-width-25 {
   min-width: 25%; }
 
-html,
-body {
-  height: 100%; }
-
 a.button {
   border: none;
   cursor: pointer;
@@ -8698,11 +8694,7 @@ a.button:hover {
   background: #fffe90;
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
 
-/* Slider */
 body {
-  background: url("/img/assets/backgrounds/linen.jpg") repeat; }
-
-.linen-bg {
   background: url("/img/assets/backgrounds/linen.jpg") repeat; }
 
 header {
