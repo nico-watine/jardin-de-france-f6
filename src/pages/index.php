@@ -28,7 +28,7 @@ body-class: index
 </header>
 
 <section class="splash bgvid-container" id="welcome">
-	<div class="prose white flex absolute">
+	<div class="prose white display-flex position-absolute">
 		<div class="row expanded text-center">
 			<div class="px-32 mb-32">
 				<h1 class="cursive">Jardin de France</h1>
@@ -95,8 +95,8 @@ body-class: index
 	</div>
 </section>
 
-<section class="bannerSection conservatory relative" id="conservatory">
-	<div class="scrim absolute text-center white">
+<section class="bannerSection conservatory position-relative" id="conservatory">
+	<div class="scrim position-absolute text-center white">
 		<h2 class="h1 cursive">The Conservatory</h2>
 		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
 	</div>
