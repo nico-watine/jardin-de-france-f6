@@ -9185,3 +9185,9 @@ a.colophon:hover {
 #splash.splash .hero-splash .nav-bar {
   background: #697b99;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
+  #splash.splash .hero-splash .nav-bar a {
+    color: #fff; }
+    #splash.splash .hero-splash .nav-bar a:hover {
+      text-decoration: underline; }
+  #splash.splash .hero-splash .nav-bar a.is-active {
+    text-decoration: underline; }
