@@ -21,20 +21,20 @@ body-class: splash
 				<a href="#welcome" data-scroll><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 			</div> -->
 			<nav class="nav-collapse">
-				<ul>
-					<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
-					<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
-					<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
-					<li class="menu-item"><a href="#interior-gallery" data-scroll>The Interior Gallery</a></li>
-					<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
-					<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
+				<ul data-magellan>
+					<li class="menu-item active" id="first"><a href="#welcome">Welcome</a></li>
+					<li class="menu-item"><a href="#gardens">The Gardens</a></li>
+					<li class="menu-item"><a href="#conservatory">The Conservatory</a></li>
+					<li class="menu-item"><a href="#interior-gallery">The Interior Gallery</a></li>
+					<li class="menu-item"><a href="#about">Our Story</a></li>
+					<li class="menu-item"><a href="#location">Location</a></li>
 				</ul>
 			</nav>
 		</div>
 	</header>
 </section>
 
-<section class="gardensSection" id="gardens" style="height: 2000px;">
+<section class="gardensSection" id="gardens" data-magellan-target="gardens" style="height: 2000px;">
 	<div class="header">
 		<h2 class="h1 cursive text-center white">The Gardens</h2>
 	</div>
