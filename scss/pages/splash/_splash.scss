@@ -3,27 +3,34 @@
 		height: 100vh;
 		display: flex;
 		flex-direction: column;
-		// justify-content: center;
 		background: #fff url('/img/splash/hero-large.png') center/cover no-repeat;
 
 		.h1-headline {
 			font-family: Parisienne-Regular;
-			font-size: rem-calc(148);
+			font-size: rem-calc(120);
 			color: #fff;
 			text-shadow: 0 0 20px #000;
 
 			span.slogan {
 				display: block;
 				font-family: AvenirNext-Medium;
-				font-size: 46.5px;
+				font-size: rem-calc(40);
 				color: #fff;
 				text-shadow: 0 0 20px #000;
+			}
+
+			@include breakpoint(1100) {
+				font-size: rem-calc(148);
+
+				span.slogan {
+					font-size: rem-calc(47);
+				}
 			}
 		}
 
 		.h2-tagline {
 			font-family: AvenirNext-Medium;
-			font-size: 26px;
+			font-size: rem-calc(26);
 			color: #fff;
 			text-shadow: 0 2px 40px #000;
 		}

@@ -9160,17 +9160,22 @@ header {
   background: #fff url("/img/splash/hero-large.png") center/cover no-repeat; }
   #splash.splash .hero-splash .h1-headline {
     font-family: Parisienne-Regular;
-    font-size: 9.25rem;
+    font-size: 7.5rem;
     color: #fff;
     text-shadow: 0 0 20px #000; }
     #splash.splash .hero-splash .h1-headline span.slogan {
       display: block;
       font-family: AvenirNext-Medium;
-      font-size: 46.5px;
+      font-size: 2.5rem;
       color: #fff;
       text-shadow: 0 0 20px #000; }
+    @media screen and (min-width: 68.75em) {
+      #splash.splash .hero-splash .h1-headline {
+        font-size: 9.25rem; }
+        #splash.splash .hero-splash .h1-headline span.slogan {
+          font-size: 2.9375rem; } }
   #splash.splash .hero-splash .h2-tagline {
     font-family: AvenirNext-Medium;
-    font-size: 26px;
+    font-size: 1.625rem;
     color: #fff;
     text-shadow: 0 2px 40px #000; }
