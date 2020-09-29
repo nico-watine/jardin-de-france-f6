@@ -7,7 +7,11 @@
 			.menu {
 				font-weight: bold;
 				padding: rem-calc(8 0);
-				font-size: rem-calc(18);
+				font-size: rem-calc(16);
+
+				@include breakpoint(1100) {
+					font-size: rem-calc(18);
+				}
 			}
 
 			a {

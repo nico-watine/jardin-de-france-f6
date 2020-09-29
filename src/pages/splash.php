@@ -21,6 +21,10 @@ body-class: splash
 				<ul class="menu align-right" data-magellan data-deep-linking="true" data-offset="24">
 					<li><a href="#welcome">Welcome</a></li>
 					<li><a href="#gardens">The Gardens</a></li>
+					<li><a href="#conservatory">The Conservatory</a></li>
+					<li><a href="#interior-gallery">The Interior Gallery</a></li>
+					<li><a href="#about">Our Story</a></li>
+					<li><a href="#location">Location</a></li>
 				</ul>
 			</div>
 		</div>

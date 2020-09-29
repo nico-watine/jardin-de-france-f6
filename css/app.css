@@ -9188,7 +9188,10 @@ a.colophon:hover {
   #splash.splash .hero-splash .nav-bar .menu {
     font-weight: bold;
     padding: 0.5rem 0;
-    font-size: 1.125rem; }
+    font-size: 1rem; }
+    @media screen and (min-width: 68.75em) {
+      #splash.splash .hero-splash .nav-bar .menu {
+        font-size: 1.125rem; } }
   #splash.splash .hero-splash .nav-bar a {
     color: #fff; }
     #splash.splash .hero-splash .nav-bar a:hover {
