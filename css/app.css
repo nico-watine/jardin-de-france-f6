@@ -9181,3 +9181,7 @@ a.colophon:hover {
     font-size: 1.625rem;
     color: #fff;
     text-shadow: 0 0.125rem 2.5rem #000; }
+
+#splash.splash .hero-splash .nav-bar {
+  background: #697b99;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
