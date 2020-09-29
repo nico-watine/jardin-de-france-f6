@@ -28,7 +28,7 @@ body-class: index
 </header>
 
 <section class="splash bgvid-container" id="welcome">
-	<div class="prose white flex absolute">
+	<div class="prose white display-flex position-absolute">
 		<div class="row expanded text-center">
 			<div class="px-32 mb-32">
 				<h1 class="cursive">Jardin de France</h1>
@@ -95,8 +95,8 @@ body-class: index
 	</div>
 </section>
 
-<section class="bannerSection conservatory relative" id="conservatory">
-	<div class="scrim absolute text-center white">
+<section class="bannerSection conservatory position-relative" id="conservatory">
+	<div class="scrim position-absolute text-center white">
 		<h2 class="h1 cursive">The Conservatory</h2>
 		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
 	</div>
@@ -123,7 +123,7 @@ body-class: index
 		</div>
 		<div class="medium-6 columns proseWrap">
 			<div class="prose">
-				<h1 class="cursive white"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
+				<h1 class="cursive white"><span class="h4 display-block"><strong>The</strong></span> Interior Gallery</h1>
 				<span class="yellow-bar"></span>
 				<h4 class="white">In addition to our plants and garden items, we also have fine French Country antiques.</h4>
 			</div>
@@ -152,7 +152,7 @@ body-class: index
 	<div class="row">
 		<div class="columns">
 			<div class="prose">
-				<h2 class="cursive white"><span class="h4 block"><strong>The</strong></span> Round Top Antique Show</h2>
+				<h2 class="cursive white"><span class="h4 display-block"><strong>The</strong></span> Round Top Antique Show</h2>
 				<h3 class="white">Spring 2019 Booth | <strong>Marburger Farm</strong></h3>
 			</div>
 		</div>
@@ -218,7 +218,7 @@ body-class: index
 					<address class="h4"><strong><a href="https://goo.gl/maps/NtUtThFb2JA2" target="_blank">4819 Blossom St. <br>
 					Houston, TX <br>
 					77007</a></strong></address>
-					<span class="h4 block"><strong>Tue - Sat | 10 - 5</strong></span>
+					<span class="h4 display-block"><strong>Tue - Sat | 10 - 5</strong></span>
 					<p class="h4"><strong><a href="mailto:shop@jdftx.com">Shop@JDFTX.com</a></strong></p>
 					<span class="h4"><strong>832-651-3136</strong></span>
 				</div>
