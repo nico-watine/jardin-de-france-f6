@@ -9188,54 +9188,6 @@ header {
   z-index: 100;
   bottom: 0; }
 
-#splash.splash .logo img {
-  position: absolute;
-  max-width: 65px;
-  height: auto;
-  float: left;
-  z-index: 55; }
-
-#splash.splash .logo h1 {
-  position: absolute;
-  text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
-  z-index: 55;
-  color: #fefefe;
-  font-size: 60px; }
-
-@media screen and (min-width: 751px) {
-  #splash.splash .logo h1 {
-    display: none;
-    visibility: hidden; } }
-
-@media screen and (min-width: 920px) {
-  #splash.splash .logo h1 {
-    display: block;
-    visibility: visible; } }
-
-@media only screen and (min-width: 40em) {
-  #splash.splash .logo h1 {
-    font-size: 70px; } }
-
-@-webkit-viewport {
-  #splash.splash {
-    width: device-width; } }
-
-@-moz-viewport {
-  #splash.splash {
-    width: device-width; } }
-
-@-ms-viewport {
-  #splash.splash {
-    width: device-width; } }
-
-@-o-viewport {
-  #splash.splash {
-    width: device-width; } }
-
-@viewport {
-  #splash.splash {
-    width: device-width; } }
-
 #splash.splash .nav-collapse ul {
   margin: 0;
   padding: 0;

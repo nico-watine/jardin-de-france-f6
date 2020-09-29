@@ -16,10 +16,10 @@ body-class: splash
 
 	<header>
 		<div class="row collapse">
-			<div class="logo small-3 columns display-none">
+			<!-- <div class="logo small-3 columns">
 				<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
 				<a href="#welcome" data-scroll><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
-			</div>
+			</div> -->
 			<nav class="nav-collapse">
 				<ul>
 					<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>

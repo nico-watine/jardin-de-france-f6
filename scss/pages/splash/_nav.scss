@@ -9,61 +9,61 @@
 		bottom: 0;
 	}
 
-	.logo img {
-		position: absolute;
-		max-width: 65px;
-		height: auto;
-		float: left;
-		z-index: 55;
-	}
+	// .logo img {
+	// 	position: absolute;
+	// 	max-width: 65px;
+	// 	height: auto;
+	// 	float: left;
+	// 	z-index: 55;
+	// }
 
-	.logo h1 {
-		position: absolute;
-		text-shadow: 0 6px 10px rgba(0, 0, 0, .3);
-		z-index: 55;
-		color: #fefefe;
-		font-size: 60px;
-	}
+	// .logo h1 {
+	// 	position: absolute;
+	// 	text-shadow: 0 6px 10px rgba(0, 0, 0, .3);
+	// 	z-index: 55;
+	// 	color: #fefefe;
+	// 	font-size: 60px;
+	// }
 
-	@media screen and (min-width: 751px) {
-		.logo h1 {
-			display: none;
-			visibility: hidden;
-		}
-	}
+	// @media screen and (min-width: 751px) {
+	// 	.logo h1 {
+	// 		display: none;
+	// 		visibility: hidden;
+	// 	}
+	// }
 
-	@media screen and (min-width: 920px) {
-		.logo h1 {
-			display: block;
-			visibility: visible;
-		}
-	}
+	// @media screen and (min-width: 920px) {
+	// 	.logo h1 {
+	// 		display: block;
+	// 		visibility: visible;
+	// 	}
+	// }
 
-	@media only screen and (min-width : 40em) {
-		.logo h1 {
-			font-size: 70px;
-		}
-	}
+	// @media only screen and (min-width : 40em) {
+	// 	.logo h1 {
+	// 		font-size: 70px;
+	// 	}
+	// }
 
-	@-webkit-viewport {
-		width: device-width;
-	}
+	// @-webkit-viewport {
+	// 	width: device-width;
+	// }
 
-	@-moz-viewport {
-		width: device-width;
-	}
+	// @-moz-viewport {
+	// 	width: device-width;
+	// }
 
-	@-ms-viewport {
-		width: device-width;
-	}
+	// @-ms-viewport {
+	// 	width: device-width;
+	// }
 
-	@-o-viewport {
-		width: device-width;
-	}
+	// @-o-viewport {
+	// 	width: device-width;
+	// }
 
-	@viewport {
-		width: device-width;
-	}
+	// @viewport {
+	// 	width: device-width;
+	// }
 
 	.nav-collapse ul {
 		margin: 0;
