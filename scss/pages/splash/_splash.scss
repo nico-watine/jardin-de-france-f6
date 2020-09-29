@@ -11,6 +11,14 @@
 			font-size: rem-calc(148);
 			color: #fff;
 			text-shadow: 0 0 20px #000;
+
+			span.slogan {
+				display: block;
+				font-family: AvenirNext-Medium;
+				font-size: 46.5px;
+				color: #fff;
+				text-shadow: 0 0 20px #000;
+			}
 		}
 
 		.h2-tagline {
@@ -18,14 +26,6 @@
 			font-size: 26px;
 			color: #fff;
 			text-shadow: 0 2px 40px #000;
-		}
-
-		span.slogan {
-			display: block;
-			font-family: AvenirNext-Medium;
-			font-size: 46.5px;
-			color: #fff;
-			text-shadow: 0 0 20px #000;
 		}
 	}
 }
