@@ -9162,13 +9162,12 @@ header {
     font-family: Parisienne-Regular;
     font-size: 7.5rem;
     color: #fff;
-    text-shadow: 0 0 20px #000; }
+    text-shadow: 0 0 1.25rem #000; }
     #splash.splash .hero-splash .h1-headline span.slogan {
       display: block;
       font-family: AvenirNext-Medium;
       font-size: 2.5rem;
-      color: #fff;
-      text-shadow: 0 0 20px #000; }
+      color: #fff; }
     @media screen and (min-width: 68.75em) {
       #splash.splash .hero-splash .h1-headline {
         font-size: 9.25rem; }
@@ -9178,4 +9177,4 @@ header {
     font-family: AvenirNext-Medium;
     font-size: 1.625rem;
     color: #fff;
-    text-shadow: 0 2px 40px #000; }
+    text-shadow: 0 0.125rem 2.5rem #000; }

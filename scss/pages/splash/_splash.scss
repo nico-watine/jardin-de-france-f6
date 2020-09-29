@@ -9,14 +9,13 @@
 			font-family: Parisienne-Regular;
 			font-size: rem-calc(120);
 			color: #fff;
-			text-shadow: 0 0 20px #000;
+			text-shadow: 0 0 rem-calc(20) #000;
 
 			span.slogan {
 				display: block;
 				font-family: AvenirNext-Medium;
 				font-size: rem-calc(40);
 				color: #fff;
-				text-shadow: 0 0 20px #000;
 			}
 
 			@include breakpoint(1100) {
@@ -32,7 +31,7 @@
 			font-family: AvenirNext-Medium;
 			font-size: rem-calc(26);
 			color: #fff;
-			text-shadow: 0 2px 40px #000;
+			text-shadow: 0 rem-calc(2) rem-calc(40) #000;
 		}
 	}
 }
