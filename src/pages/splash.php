@@ -8,25 +8,6 @@ og-image: https://jardindefrancetx.com/img/social-media/milieu/og-image.png
 body-id: index
 body-class: index
 ---
-<header>
-	<div class="row collapse">
-		<div class="logo small-3 columns">
-			<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-			<a href="#welcome" data-scroll><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
-		</div>
-		<nav class="nav-collapse">
-			<ul>
-				<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
-				<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
-				<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
-				<li class="menu-item"><a href="#interior-gallery" data-scroll>The Interior Gallery</a></li>
-				<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
-				<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
-			</ul>
-		</nav>
-	</div>
-</header>
-
 <section class="splash bgvid-container" id="welcome">
 	<div class="prose white display-flex position-absolute">
 		<div class="row expanded text-center">
