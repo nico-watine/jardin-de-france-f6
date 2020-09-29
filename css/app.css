@@ -9152,3 +9152,26 @@ header {
     padding: 90px 0; }
   #index.index .gardensSection .imageBanner {
     padding-bottom: 20px; } }
+
+#splash.splash .hero-splash {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #fff url("/img/splash/hero-large.png") center/cover no-repeat; }
+  #splash.splash .hero-splash .h1-headline {
+    font-family: Parisienne-Regular;
+    font-size: 9.25rem;
+    color: #fff;
+    text-shadow: 0 0 20px #000; }
+  #splash.splash .hero-splash .h2-tagline {
+    font-family: AvenirNext-Medium;
+    font-size: 26px;
+    color: #fff;
+    text-shadow: 0 2px 40px #000; }
+  #splash.splash .hero-splash span.slogan {
+    display: block;
+    font-family: AvenirNext-Medium;
+    font-size: 46.5px;
+    color: #fff;
+    text-shadow: 0 0 20px #000; }
