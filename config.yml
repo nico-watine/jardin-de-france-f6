@@ -27,7 +27,7 @@ PATHS:
 
     # Core Foundation files
     - "node_modules/foundation-sites/dist/js/plugins/foundation.core.js"
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.*.js"
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.util.*.js"
 
     # Individual util files
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.box.js"
@@ -49,8 +49,8 @@ PATHS:
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js" # box / keyboard / nest
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js" # imageLoader / mediaQuery
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.interchange.js" # mediaQuery
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.magellan.js" # smoothScroll
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.magellan.js" # smoothScroll
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.offcanvas.js" # keyboard / mediaQuery / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.orbit.js" # imageLoader / keyboard / motion / timer / touch
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveAccordionTabs.js" # accordion / motion / tabs
