@@ -16,11 +16,13 @@ body-class: splash
 		</div>
 	</div>
 	<div class="cell align-self-bottom" data-sticky-container>
-		<div class="sticky" data-sticky data-top-anchor="gardens">
-			<ul class="menu align-right">
-				<li><a href="#welcome" data-scroll>Welcome</a></li>
-				<li><a href="#gardens" data-scroll>The Gardens</a></li>
-			</ul>
+		<div class="sticky nav-bar" data-sticky data-top-anchor="gardens" data-margin-top="0">
+			<div class="row">
+				<ul class="menu align-right">
+					<li><a href="#welcome" data-scroll>Welcome</a></li>
+					<li><a href="#gardens" data-scroll>The Gardens</a></li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </section>
