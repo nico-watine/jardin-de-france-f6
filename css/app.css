@@ -9157,7 +9157,6 @@ header {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   background: #fff url("/img/splash/hero-large.png") center/cover no-repeat; }
   #splash.splash .hero-splash .h1-headline {
     font-family: Parisienne-Regular;
