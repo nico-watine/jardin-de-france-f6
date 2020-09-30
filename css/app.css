@@ -9160,7 +9160,8 @@ a.colophon:hover {
 
 #splash.splash .hero-splash {
   height: 100vh;
-  background: #fff url("/img/splash/hero-large.png") center/cover no-repeat; }
+  background: rgba(103, 128, 154, 0.2) url("/img/splash/hero-large.png") center/cover no-repeat;
+  background-blend-mode: multiply; }
   #splash.splash .hero-splash .h1-headline {
     font-family: Parisienne-Regular;
     font-size: 7.5rem;
