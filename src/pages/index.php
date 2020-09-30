@@ -18,12 +18,11 @@ body-class: index
 	<div class="cell align-self-bottom" data-sticky-container>
 		<div class="sticky nav-bar" data-sticky data-top-anchor="gardens" data-margin-top="0">
 			<div class="row">
-				<div class="logo float-left">
-					<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-					<a href="#welcome" data-scroll><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
+				<div class="logo float-left" data-magellan>
+					<a href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+					<a href="#welcome" data-magellan-target="welcome"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 				</div>
 				<ul class="menu align-right" data-magellan data-deep-linking="true" data-offset="24">
-					<!-- <li><a href="#welcome">Welcome</a></li> -->
 					<li><a href="#gardens">The Gardens</a></li>
 					<li><a href="#conservatory">The Conservatory</a></li>
 					<li><a href="#interior-gallery">The Interior Gallery</a></li>
