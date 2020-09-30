@@ -31,7 +31,8 @@ body-class: index
 	</div>
 </section>
 
-<header class="hide-for-large">
+<div class="hide-for-large">
+<header>
 	<div class="row collapse">
 		<div class="logo small-3 columns">
 			<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
@@ -50,7 +51,7 @@ body-class: index
 	</div>
 </header>
 
-<section class="splash bgvid-container hide-for-large" id="welcome">
+<section class="splash bgvid-container" id="welcome">
 	<div class="prose white display-flex position-absolute">
 		<div class="row expanded text-center">
 			<div class="px-32 mb-32">
@@ -71,6 +72,7 @@ body-class: index
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video>
 </section>
+</div>
 
 <section class="gardensSection" id="gardens">
 	<div class="header">
