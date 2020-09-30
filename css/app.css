@@ -9172,6 +9172,7 @@ header {
 
 .hero-splash {
   height: 100vh;
+  min-height: 25rem;
   background: rgba(103, 128, 154, 0.2) url("/img/splash/hero-large.png") center/cover no-repeat;
   background-blend-mode: multiply; }
   .hero-splash .h1-headline {
