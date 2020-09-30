@@ -5,7 +5,7 @@
 	background-blend-mode: multiply;
 
 	.h1-headline {
-		font-family: Parisienne-Regular;
+		@extend .ff-parisienne;
 		font-size: rem-calc(120);
 		color: #fff;
 		text-shadow: 0 0 rem-calc(20) #000;

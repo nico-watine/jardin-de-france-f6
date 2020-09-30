@@ -7882,6 +7882,9 @@ ol.list-upper-roman {
   font-weight: 500;
   font-style: normal; }
 
+.ff-parisienne, .hero-splash .h1-headline {
+  font-family: 'Parisienne', cursive; }
+
 .font-weight-100,
 .font-weight-ultralight {
   font-weight: 100 !important; }
@@ -9189,7 +9192,6 @@ header {
   background: rgba(103, 128, 154, 0.2) url("/img/splash/hero-large.png") center/cover no-repeat;
   background-blend-mode: multiply; }
   .hero-splash .h1-headline {
-    font-family: Parisienne-Regular;
     font-size: 7.5rem;
     color: #fff;
     text-shadow: 0 0 1.25rem #000; }
