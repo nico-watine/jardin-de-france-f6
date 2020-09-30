@@ -8,7 +8,7 @@ og-image: https://jardindefrancetx.com/img/social-media/milieu/og-image.png
 body-id: splash
 body-class: splash
 ---
-<section class="hero-splash grid-x" id="welcome">
+<section class="hero-splash grid-x show-for-large" id="welcome">
 	<div class="cell">
 		<div style="padding-left: 80px; padding-top: 130px;">
 			<h2 class="h2-tagline" style="padding-left: 130px;">French Antiques and Plants for the Home &amp; Patio</h2>
