@@ -6,6 +6,7 @@
  * Licensed under MIT Open Source
  */
 @import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
+@import url("https://use.typekit.net/yrz5wte.css");
 @media print, screen and (min-width: 40em) {
   .reveal.large, .reveal.small, .reveal.tiny, .reveal {
     right: auto;
@@ -7876,6 +7877,14 @@ ol.list-upper-roman {
   font-style: normal;
   font-weight: 400; }
 
+.ff-museo-500, .hero-splash .h2-tagline, .hero-splash .h1-headline span.slogan {
+  font-family: museo-sans,sans-serif;
+  font-weight: 500;
+  font-style: normal; }
+
+.ff-parisienne, .hero-splash .h1-headline {
+  font-family: 'Parisienne', cursive; }
+
 .font-weight-100,
 .font-weight-ultralight {
   font-weight: 100 !important; }
@@ -9183,13 +9192,11 @@ header {
   background: rgba(103, 128, 154, 0.2) url("/img/splash/hero-large.png") center/cover no-repeat;
   background-blend-mode: multiply; }
   .hero-splash .h1-headline {
-    font-family: Parisienne-Regular;
     font-size: 7.5rem;
     color: #fff;
     text-shadow: 0 0 1.25rem #000; }
     .hero-splash .h1-headline span.slogan {
       display: block;
-      font-family: AvenirNext-Medium;
       font-size: 2.5rem;
       color: #fff; }
     @media screen and (min-width: 68.75em) {
@@ -9198,7 +9205,6 @@ header {
         .hero-splash .h1-headline span.slogan {
           font-size: 2.9375rem; } }
   .hero-splash .h2-tagline {
-    font-family: AvenirNext-Medium;
     font-size: 1.625rem;
     color: #fff;
     text-shadow: 0 0.125rem 2.5rem #000; }

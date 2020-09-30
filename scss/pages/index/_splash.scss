@@ -5,14 +5,14 @@
 	background-blend-mode: multiply;
 
 	.h1-headline {
-		font-family: Parisienne-Regular;
+		@extend .ff-parisienne;
 		font-size: rem-calc(120);
 		color: #fff;
 		text-shadow: 0 0 rem-calc(20) #000;
 
 		span.slogan {
+			@extend .ff-museo-500;
 			display: block;
-			font-family: AvenirNext-Medium;
 			font-size: rem-calc(40);
 			color: #fff;
 		}
@@ -27,7 +27,7 @@
 	}
 
 	.h2-tagline {
-		font-family: AvenirNext-Medium;
+		@extend .ff-museo-500;
 		font-size: rem-calc(26);
 		color: #fff;
 		text-shadow: 0 rem-calc(2) rem-calc(40) #000;
