@@ -25,4 +25,17 @@
 			text-decoration: underline;
 		}
 	}
+
+	.nav-bar {
+		.logo {
+			opacity: 0;
+		}
+	}
+
+	.nav-bar.is-stuck {
+		.logo {
+			opacity: 1;
+			transition: opacity .1s ease-in;
+		}
+	}
 }

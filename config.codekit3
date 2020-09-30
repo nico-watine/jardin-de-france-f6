@@ -33,6 +33,17 @@
 		"oAP": "/.yarnclean",
 		"oF": 0
 		},
+	"/_ignores/addition-notes.jpeg": {
+		"ft": 16384,
+		"iS": 897108,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/_ignores/addition-notes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_ignores/autoprefixer-browser-string.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -99,6 +110,12 @@
 		"oAP": "/css/app-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/dist",
+		"oF": 0
 		},
 	"/fonts/nav/nav.eot": {
 		"cB": 0,
