@@ -23,7 +23,7 @@ body-class: index
 					<a href="#welcome" data-scroll><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 				</div>
 				<ul class="menu align-right" data-magellan data-deep-linking="true" data-offset="24">
-					<li><a href="#welcome">Welcome</a></li>
+					<!-- <li><a href="#welcome">Welcome</a></li> -->
 					<li><a href="#gardens">The Gardens</a></li>
 					<li><a href="#conservatory">The Conservatory</a></li>
 					<li><a href="#interior-gallery">The Interior Gallery</a></li>
