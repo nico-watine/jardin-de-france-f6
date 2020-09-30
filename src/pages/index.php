@@ -74,7 +74,7 @@ body-class: index
 </section>
 </div>
 
-<section class="gardensSection" id="gardens">
+<section class="gardensSection" id="gardens" data-magellan-target="gardens">
 	<div class="header">
 		<h2 class="h1 cursive text-center white">The Gardens</h2>
 	</div>
@@ -120,7 +120,7 @@ body-class: index
 	</div>
 </section>
 
-<section class="bannerSection conservatory position-relative" id="conservatory">
+<section class="bannerSection conservatory position-relative" id="conservatory" data-magellan-target="conservatory">
 	<div class="scrim position-absolute text-center white">
 		<h2 class="h1 cursive">The Conservatory</h2>
 		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
@@ -140,7 +140,7 @@ body-class: index
 	</div>
 </section>
 
-<section class="interiorGallery" id="interior-gallery">
+<section class="interiorGallery" id="interior-gallery" data-magellan-target="interior-gallery">
 	<div class="row collapse sectionIntro">
 		<div class="medium-6 columns imgWrap">
 			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="Jardin de France Houston Antiques">
@@ -217,7 +217,7 @@ body-class: index
 	</div>
 </section>
 
-<section class="about py-40" id="about">
+<section class="about py-40" id="about" data-magellan-target="about">
 	<div class="row">
 		<div class="columns">
 			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
@@ -233,7 +233,7 @@ body-class: index
 	</div>
 </section>
 
-<section class="location-banner" id="location">
+<section class="location-banner" id="location" data-magellan-target="location">
 	<div class="row">
 		<div class="medium-11 columns medium-push-1">
 			<div class="prose white" style="max-width: 370px; width: 100%;">
