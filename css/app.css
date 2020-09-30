@@ -8673,7 +8673,7 @@ a.colophon:hover {
 .min-width-25 {
   min-width: 25%; }
 
-#index.index a.button {
+a.button {
   border: none;
   cursor: pointer;
   line-height: normal;
@@ -8689,15 +8689,15 @@ a.colophon:hover {
   color: #333;
   background: #fffeb3; }
 
-#index.index a.button:hover {
+a.button:hover {
   color: #000;
   background: #fffe90;
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
 
-#index.index body {
+body {
   background: url("/img/assets/backgrounds/linen.jpg") repeat; }
 
-#index.index header {
+header {
   background: #697b99;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
   height: 55px;
@@ -8705,14 +8705,14 @@ a.colophon:hover {
   position: fixed;
   z-index: 100; }
 
-#index.index .logo img {
+.logo img {
   position: absolute;
   max-width: 65px;
   height: auto;
   float: left;
   z-index: 55; }
 
-#index.index .logo h1 {
+.logo h1 {
   position: absolute;
   text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
   z-index: 55;
@@ -8720,50 +8720,45 @@ a.colophon:hover {
   font-size: 60px; }
 
 @media screen and (min-width: 751px) {
-  #index.index .logo h1 {
+  .logo h1 {
     display: none;
     visibility: hidden; } }
 
 @media screen and (min-width: 920px) {
-  #index.index .logo h1 {
+  .logo h1 {
     display: block;
     visibility: visible; } }
 
 @media only screen and (min-width: 40em) {
-  #index.index .logo h1 {
+  .logo h1 {
     font-size: 70px; } }
 
 @-webkit-viewport {
-  #index.index {
-    width: device-width; } }
+  width: device-width; }
 
 @-moz-viewport {
-  #index.index {
-    width: device-width; } }
+  width: device-width; }
 
 @-ms-viewport {
-  #index.index {
-    width: device-width; } }
+  width: device-width; }
 
 @-o-viewport {
-  #index.index {
-    width: device-width; } }
+  width: device-width; }
 
 @viewport {
-  #index.index {
-    width: device-width; } }
+  width: device-width; }
 
-#index.index .nav-collapse ul {
+.nav-collapse ul {
   margin: 0;
   padding: 0;
   display: block;
   list-style: none; }
 
-#index.index .nav-collapse li {
+.nav-collapse li {
   width: 100%;
   display: block; }
 
-#index.index .js .nav-collapse {
+.js .nav-collapse {
   clip: rect(0 0 0 0);
   max-height: 0;
   position: absolute;
@@ -8771,13 +8766,13 @@ a.colophon:hover {
   overflow: hidden;
   zoom: 1; }
 
-#index.index .nav-collapse.opened {
+.nav-collapse.opened {
   max-height: 9999px; }
 
-#index.index .disable-pointer-events {
+.disable-pointer-events {
   pointer-events: none !important; }
 
-#index.index .nav-toggle {
+.nav-toggle {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -8786,7 +8781,7 @@ a.colophon:hover {
   -o-user-select: none;
   user-select: none; }
 
-#index.index .mask {
+.mask {
   -webkit-transition: opacity 300ms;
   -moz-transition: opacity 300ms;
   transition: opacity 300ms;
@@ -8800,30 +8795,30 @@ a.colophon:hover {
   left: 0;
   top: 0; }
 
-#index.index .android .mask {
+.android .mask {
   -webkit-transition: none;
   transition: none; }
 
-#index.index .js-nav-active .mask {
+.js-nav-active .mask {
   visibility: visible;
   opacity: 1; }
 
-#index.index .nav-collapse,
-#index.index .nav-collapse * {
+.nav-collapse,
+.nav-collapse * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-#index.index .nav-collapse,
-#index.index .nav-collapse ul {
+.nav-collapse,
+.nav-collapse ul {
   list-style: none;
   float: right; }
 
-#index.index .nav-collapse li {
+.nav-collapse li {
   float: left;
   width: 100%; }
 
-#index.index .nav-collapse a {
+.nav-collapse a {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   border-top: 1px solid #333;
   text-decoration: none;
@@ -8835,14 +8830,14 @@ a.colophon:hover {
   font-weight: bold;
   text-align: right; }
 
-#index.index .nav-collapse a:hover {
+.nav-collapse a:hover {
   background: #fffeb3; }
 
-#index.index .nav-collapse li.active a {
+.nav-collapse li.active a {
   text-decoration: underline;
   background: #fffeb3; }
 
-#index.index .nav-toggle {
+.nav-toggle {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-decoration: none;
@@ -8853,7 +8848,7 @@ a.colophon:hover {
   height: 55px;
   float: right; }
 
-#index.index .nav-toggle:before {
+.nav-toggle:before {
   font: normal 28px/52px 'nav';
   color: #fff;
   text-transform: none;
@@ -8868,26 +8863,26 @@ a.colophon:hover {
   left: 0;
   top: 0; }
 
-#index.index .nav-toggle.active:before {
+.nav-toggle.active:before {
   font-size: 30px;
   content: '\78';
   /* Close icon */ }
 
 @media screen and (min-width: 751px) {
-  #index.index .js .nav-collapse {
+  .js .nav-collapse {
     position: relative; }
-  #index.index .js .nav-collapse.closed {
+  .js .nav-collapse.closed {
     max-height: none; }
-  #index.index .nav-toggle {
+  .nav-toggle {
     display: none; }
-  #index.index .mask {
+  .mask {
     display: none !important;
     opacity: 0 !important; }
-  #index.index .nav-collapse {
+  .nav-collapse {
     margin-top: 16px;
     float: right;
     width: auto; }
-  #index.index .nav-collapse a {
+  .nav-collapse a {
     padding: 0 7px;
     background: none;
     color: #fff;
@@ -8896,50 +8891,50 @@ a.colophon:hover {
     float: left;
     margin: 0;
     background: none; }
-  #index.index .nav-collapse a:hover {
+  .nav-collapse a:hover {
     background: none;
     text-decoration: underline; }
-  #index.index .nav-collapse li {
+  .nav-collapse li {
     width: auto; }
-  #index.index .nav-collapse li.active a {
+  .nav-collapse li.active a {
     background: none; } }
 
 @media screen and (min-width: 1002px) {
-  #index.index .nav-collapse a {
+  .nav-collapse a {
     padding: 0 10px;
     font-size: 18px; } }
 
 @media screen and (min-width: 831px) {
-  #index.index .nav-collapse a {
+  .nav-collapse a {
     padding: 0 10px;
     font-size: 17px; } }
 
-#index.index .bannerSection {
+.bannerSection {
   overflow: hidden; }
 
-#index.index .bannerSection .scrim {
+.bannerSection .scrim {
   width: 100%;
   bottom: 0;
   background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0) 0%, #000 100%);
   z-index: 10;
   padding: 40px 20px; }
 
-#index.index .bannerSection h4 {
+.bannerSection h4 {
   max-width: 570px;
   width: 100%;
   margin: 0 auto 8px; }
 
-#index.index .bannerSection img {
+.bannerSection img {
   height: 580px;
   max-width: none; }
 
 @media only screen and (min-width: 40em) {
-  #index.index .bannerSection img {
+  .bannerSection img {
     width: 100%;
     height: auto;
     max-width: 100%; } }
 
-#index.index #index.index .splash {
+#index.index .splash {
   position: relative;
   top: 0;
   left: 0;
@@ -8948,32 +8943,32 @@ a.colophon:hover {
   height: 95vh;
   overflow: hidden; }
 
-#index.index #index.index .splash .prose {
+#index.index .splash .prose {
   z-index: 10;
   width: 100%;
   height: 100%;
   justify-content: center;
   flex-direction: column; }
 
-#index.index #index.index .splash h1,
-#index.index #index.index .splash h2,
-#index.index #index.index .splash h3 {
+#index.index .splash h1,
+#index.index .splash h2,
+#index.index .splash h3 {
   text-shadow: 0 2px 4px #000; }
 
-#index.index #index.index .splash h1 {
+#index.index .splash h1 {
   font-size: 70px; }
 
-#index.index #index.index .splash h2 {
+#index.index .splash h2 {
   max-width: 540px;
   width: 100%;
   margin: 0 auto 16px; }
 
-#index.index #index.index .splash h3 {
+#index.index .splash h3 {
   max-width: 570px;
   width: 100%;
   margin: 0 auto 32px; }
 
-#index.index #index.index .splash .bgScrim {
+#index.index .splash .bgScrim {
   background: rgba(105, 123, 153, 0.4);
   width: 100%;
   height: 100%;
@@ -8982,7 +8977,7 @@ a.colophon:hover {
   top: 0;
   left: 0; }
 
-#index.index #backgroundVideo {
+#backgroundVideo {
   position: absolute;
   z-index: -5;
   top: 50%;
@@ -8993,152 +8988,152 @@ a.colophon:hover {
   transform: translateX(-50%) translateY(-50%); }
 
 @media only screen and (min-width: 600px) {
-  #index.index #index.index .splash h1 {
+  #index.index .splash h1 {
     font-size: 80px; } }
 
 @media only screen and (min-width: 760px) {
-  #index.index #index.index .splash h1 {
+  #index.index .splash h1 {
     font-size: 90px; } }
 
 @media only screen and (min-width: 900px) {
-  #index.index #index.index .splash h1 {
+  #index.index .splash h1 {
     font-size: 10vw; } }
 
 @media only screen and (min-width: 64em) {
-  #index.index #index.index .splash .bgScrim {
+  #index.index .splash .bgScrim {
     background-image: radial-gradient(48% 195%, rgba(105, 123, 153, 0.4) 57%, rgba(0, 0, 0, 0.3) 100%); } }
 
-#index.index .hipBanner {
+.hipBanner {
   padding: 60px 0; }
 
-#index.index .hipBanner .prose {
+.hipBanner .prose {
   max-width: 770px;
   margin: 0 auto; }
 
-#index.index .hipBanner .prose .button {
+.hipBanner .prose .button {
   font-size: 16px;
   padding: 12px 16px; }
 
 @media only screen and (min-width: 380px) {
-  #index.index .hipBanner .prose .button {
+  .hipBanner .prose .button {
     font-size: 18px;
     padding: 16px 32px; } }
 
 @media only screen and (min-width: 420px) {
-  #index.index .hipBanner .prose .button {
+  .hipBanner .prose .button {
     font-size: 20px; } }
 
-#index.index .location-banner {
+.location-banner {
   padding: 90px 0;
   background: linear-gradient(rgba(105, 123, 153, 0.5), rgba(105, 123, 153, 0.5)), url("/img/index-2/location/location.jpg") center center/cover no-repeat; }
 
-#index.index .location-banner .contact-info {
+.location-banner .contact-info {
   border: 3px solid #fff; }
 
-#index.index .location-banner .contact-info a {
+.location-banner .contact-info a {
   color: #fefefe;
   text-decoration: underline; }
 
-#index.index .location-banner .contact-info a:hover {
+.location-banner .contact-info a:hover {
   text-decoration: none; }
 
-#index.index .interiorGallery {
+.interiorGallery {
   background: #697b99;
   padding-top: 10px; }
 
-#index.index .interiorGallery .row.sectionIntro {
+.interiorGallery .row.sectionIntro {
   max-width: 1366px; }
 
-#index.index .interiorGallery .imgWrap img {
+.interiorGallery .imgWrap img {
   width: 50%;
   border: 3px solid #fefefe; }
 
-#index.index .interiorGallery .imgWrap img.hide-for-medium {
+.interiorGallery .imgWrap img.hide-for-medium {
   float: left; }
 
-#index.index .interiorGallery .prose {
+.interiorGallery .prose {
   padding: 20px;
   max-width: 400px;
   width: 100%;
   margin: 0 auto; }
 
-#index.index .interiorGallery h1 span {
+.interiorGallery h1 span {
   margin-bottom: 12px;
   text-transform: uppercase; }
 
-#index.index .interiorGallery .yellow-bar {
+.interiorGallery .yellow-bar {
   background: #fffeb3;
   width: 170px;
   margin: 20px 0 30px;
   height: 6px;
   display: block; }
 
-#index.index .interiorGallery .imageBanner {
+.interiorGallery .imageBanner {
   background: #fefefe; }
 
-#index.index .interiorGallery .imageBanner .row {
+.interiorGallery .imageBanner .row {
   max-width: 1600px; }
 
-#index.index .interiorGallery .imageBanner img {
+.interiorGallery .imageBanner img {
   border: 3px solid #fefefe; }
 
 @media only screen and (min-width: 40em) {
-  #index.index .interiorGallery {
+  .interiorGallery {
     padding: 0; }
-  #index.index .interiorGallery .row.sectionIntro {
+  .interiorGallery .row.sectionIntro {
     display: flex; }
-  #index.index .interiorGallery .imgWrap {
+  .interiorGallery .imgWrap {
     max-height: 760px;
     overflow: hidden; }
-  #index.index .interiorGallery .imgWrap img {
+  .interiorGallery .imgWrap img {
     width: auto;
     border-top: 0;
     border-bottom: 0; }
-  #index.index .interiorGallery .proseWrap {
+  .interiorGallery .proseWrap {
     display: flex;
     flex-direction: column;
     justify-content: center; }
-  #index.index .interiorGallery .prose {
+  .interiorGallery .prose {
     max-width: none;
     padding: 30px; }
-  #index.index .interiorGallery h1 span {
+  .interiorGallery h1 span {
     font-size: 25px; }
-  #index.index .interiorGallery h4 {
+  .interiorGallery h4 {
     max-width: 470px;
     width: 100%; }
-  #index.index .interiorGallery .yellow-bar {
+  .interiorGallery .yellow-bar {
     margin: 30px 0; } }
 
 @media only screen and (min-width: 64em) {
-  #index.index .interiorGallery .prose {
+  .interiorGallery .prose {
     padding: 40px; }
-  #index.index .interiorGallery .yellow-bar {
+  .interiorGallery .yellow-bar {
     margin: 50px 0; } }
 
-#index.index .roundTop-section {
+.roundTop-section {
   background: linear-gradient(rgba(105, 123, 153, 0.8), rgba(105, 123, 153, 0.8)), url("/img/index/round-top/2018/spring/marburger-farms/background.jpg") center/cover no-repeat; }
 
-#index.index .roundTop-section .prose {
+.roundTop-section .prose {
   max-width: 500px;
   padding: 50px 0; }
 
 @media only screen and (min-width: 40em) {
-  #index.index .roundTop-section h2 {
+  .roundTop-section h2 {
     font-size: 70px; } }
 
-#index.index .roundTop-section #masonryGrid .tile img {
+.roundTop-section #masonryGrid .tile img {
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
   border-radius: 4px;
   border: 4px solid #fefefe; }
 
-#index.index #index.index .gardensSection {
+#index.index .gardensSection {
   border-top: 20px solid #fefefe; }
 
-#index.index #index.index .gardensSection .header {
+#index.index .gardensSection .header {
   padding: 60px 0;
   background: linear-gradient(rgba(105, 123, 153, 0.7), rgba(105, 123, 153, 0.7)), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center center/cover no-repeat; }
 
-#index.index #index.index .gardensSection .gallery img {
+#index.index .gardensSection .gallery img {
   border-radius: 3px;
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
   border: 4px solid #fefefe;
@@ -9146,16 +9141,16 @@ a.colophon:hover {
   max-width: 340px;
   width: 100%; }
 
-#index.index #index.index .gardensSection .imageBanner {
+#index.index .gardensSection .imageBanner {
   background: #697b99; }
 
-#index.index #index.index .gardensSection .imageBanner img {
+#index.index .gardensSection .imageBanner img {
   border: 4px solid #fefefe; }
 
 @media only screen and (min-width: 40em) {
-  #index.index #index.index .gardensSection .header {
+  #index.index .gardensSection .header {
     padding: 90px 0; }
-  #index.index #index.index .gardensSection .imageBanner {
+  #index.index .gardensSection .imageBanner {
     padding-bottom: 20px; } }
 
 .hero-splash .nav-bar {
