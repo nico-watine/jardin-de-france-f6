@@ -9184,7 +9184,7 @@ header {
 
 .hero-splash .nav-bar.is-stuck .logo {
   opacity: 1;
-  transition: opacity .1s ease-in; }
+  transition: opacity .2s ease-in; }
 
 .hero-splash {
   height: 100vh;
