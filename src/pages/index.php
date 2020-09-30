@@ -8,7 +8,30 @@ og-image: https://jardindefrancetx.com/img/social-media/milieu/og-image.png
 body-id: index
 body-class: index
 ---
-<header>
+<section class="hero-splash grid-x show-for-large" id="welcome">
+	<div class="cell">
+		<div style="padding-left: 80px; padding-top: 130px;">
+			<h2 class="h2-tagline" style="padding-left: 130px;">French Antiques and Plants for the Home &amp; Patio</h2>
+			<h1 class="h1-headline" style="margin-top: -20px;">Jardin de France <span class="slogan" style="padding-left: 80px; margin-top: -40px;">l’esprit français</span></h1>
+		</div>
+	</div>
+	<div class="cell align-self-bottom" data-sticky-container>
+		<div class="sticky nav-bar" data-sticky data-top-anchor="gardens" data-margin-top="0">
+			<div class="row">
+				<ul class="menu align-right" data-magellan data-deep-linking="true" data-offset="24">
+					<li><a href="#welcome">Welcome</a></li>
+					<li><a href="#gardens">The Gardens</a></li>
+					<li><a href="#conservatory">The Conservatory</a></li>
+					<li><a href="#interior-gallery">The Interior Gallery</a></li>
+					<li><a href="#about">Our Story</a></li>
+					<li><a href="#location">Location</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+
+<header class="hide-for-large">
 	<div class="row collapse">
 		<div class="logo small-3 columns">
 			<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
@@ -27,7 +50,7 @@ body-class: index
 	</div>
 </header>
 
-<section class="splash bgvid-container" id="welcome">
+<section class="splash bgvid-container hide-for-large" id="welcome">
 	<div class="prose white display-flex position-absolute">
 		<div class="row expanded text-center">
 			<div class="px-32 mb-32">

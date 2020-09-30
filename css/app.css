@@ -9158,6 +9158,48 @@ a.colophon:hover {
   #index.index #index.index .gardensSection .imageBanner {
     padding-bottom: 20px; } }
 
+.hero-splash .nav-bar {
+  background: #697b99;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
+  .hero-splash .nav-bar .menu {
+    font-weight: bold;
+    padding: 0.5rem 0;
+    font-size: 1rem; }
+    @media screen and (min-width: 68.75em) {
+      .hero-splash .nav-bar .menu {
+        font-size: 1.125rem; } }
+  .hero-splash .nav-bar a {
+    color: #fff; }
+    .hero-splash .nav-bar a:hover {
+      text-decoration: underline; }
+  .hero-splash .nav-bar a.is-active {
+    text-decoration: underline; }
+
+.hero-splash {
+  height: 100vh;
+  background: rgba(103, 128, 154, 0.2) url("/img/splash/hero-large.png") center/cover no-repeat;
+  background-blend-mode: multiply; }
+  .hero-splash .h1-headline {
+    font-family: Parisienne-Regular;
+    font-size: 7.5rem;
+    color: #fff;
+    text-shadow: 0 0 1.25rem #000; }
+    .hero-splash .h1-headline span.slogan {
+      display: block;
+      font-family: AvenirNext-Medium;
+      font-size: 2.5rem;
+      color: #fff; }
+    @media screen and (min-width: 68.75em) {
+      .hero-splash .h1-headline {
+        font-size: 9.25rem; }
+        .hero-splash .h1-headline span.slogan {
+          font-size: 2.9375rem; } }
+  .hero-splash .h2-tagline {
+    font-family: AvenirNext-Medium;
+    font-size: 1.625rem;
+    color: #fff;
+    text-shadow: 0 0.125rem 2.5rem #000; }
+
 #splash.splash .hero-splash {
   height: 100vh;
   background: rgba(103, 128, 154, 0.2) url("/img/splash/hero-large.png") center/cover no-repeat;
