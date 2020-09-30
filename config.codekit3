@@ -1694,7 +1694,7 @@
 		"oS": 0,
 		"sct": 1
 		},
-	"/scss/pages/splash/_nav.scss": {
+	"/scss/pages/index/_nav.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1707,7 +1707,7 @@
 		"oS": 0,
 		"sct": 1
 		},
-	"/scss/pages/splash/_splash.scss": {
+	"/scss/pages/index/_splash.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
