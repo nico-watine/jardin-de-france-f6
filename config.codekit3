@@ -33,6 +33,17 @@
 		"oAP": "/.yarnclean",
 		"oF": 0
 		},
+	"/_ignores/addition-notes.jpeg": {
+		"ft": 16384,
+		"iS": 897108,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/_ignores/addition-notes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_ignores/autoprefixer-browser-string.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -75,6 +86,17 @@
 		"oA": 0,
 		"oAP": "/_ignores/jardin-de-france-f6.sublime-workspace",
 		"oF": 0
+		},
+	"/_ignores/splash-background-img.jpg": {
+		"ft": 16384,
+		"iS": 2458227,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/_ignores/splash-background-img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/assets": {
 		"ft": 65536,
@@ -1196,6 +1218,28 @@
 		"oAP": "/img/social-media/milieu/spring-2017-my-houston.pdf",
 		"oF": 0
 		},
+	"/img/splash-images/1/splash-1920x1200.jpg": {
+		"ft": 16384,
+		"iS": 324428,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/splash-images/1/splash-1920x1200.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/splash/hero-large.png": {
+		"ft": 32768,
+		"iS": 2113214,
+		"oA": 1,
+		"oAP": "/img/splash/hero-large.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/js/app-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1679,6 +1723,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_index.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
+	"/scss/pages/index/_nav.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_nav.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
+	"/scss/pages/index/_splash.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_splash.css",
 		"oF": 0,
 		"oS": 0,
 		"sct": 1

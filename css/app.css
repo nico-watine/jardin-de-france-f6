@@ -6,6 +6,7 @@
  * Licensed under MIT Open Source
  */
 @import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
+@import url("https://use.typekit.net/yrz5wte.css");
 @media print, screen and (min-width: 40em) {
   .reveal.large, .reveal.small, .reveal.tiny, .reveal {
     right: auto;
@@ -7876,6 +7877,14 @@ ol.list-upper-roman {
   font-style: normal;
   font-weight: 400; }
 
+.ff-museo-500, .hero-splash .h2-tagline, .hero-splash .h1-headline span.slogan {
+  font-family: museo-sans,sans-serif;
+  font-weight: 500;
+  font-style: normal; }
+
+.ff-parisienne, .hero-splash .h1-headline {
+  font-family: 'Parisienne', cursive; }
+
 .font-weight-100,
 .font-weight-ultralight {
   font-weight: 100 !important; }
@@ -9152,3 +9161,51 @@ header {
     padding: 90px 0; }
   #index.index .gardensSection .imageBanner {
     padding-bottom: 20px; } }
+
+.hero-splash .nav-bar {
+  background: #697b99;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
+  .hero-splash .nav-bar .menu {
+    font-weight: bold;
+    padding: 0.5rem 0;
+    font-size: 1rem; }
+    @media screen and (min-width: 68.75em) {
+      .hero-splash .nav-bar .menu {
+        font-size: 1.125rem; } }
+  .hero-splash .nav-bar a {
+    color: #fff; }
+    .hero-splash .nav-bar a:hover {
+      text-decoration: underline; }
+  .hero-splash .nav-bar a.is-active {
+    text-decoration: underline; }
+
+.hero-splash .nav-bar .logo {
+  padding-left: 0.5rem;
+  opacity: 0; }
+
+.hero-splash .nav-bar.is-stuck .logo {
+  opacity: 1;
+  transition: opacity .2s ease-in; }
+
+.hero-splash {
+  height: 100vh;
+  min-height: 25rem;
+  background: rgba(103, 128, 154, 0.25) url("/img/splash-images/1/splash-1920x1200.jpg") center/cover no-repeat;
+  background-blend-mode: multiply; }
+  .hero-splash .h1-headline {
+    font-size: 7.5rem;
+    color: #fff;
+    text-shadow: 0 0 1.25rem #000; }
+    .hero-splash .h1-headline span.slogan {
+      display: block;
+      font-size: 2.5rem;
+      color: #fff; }
+    @media screen and (min-width: 68.75em) {
+      .hero-splash .h1-headline {
+        font-size: 9.25rem; }
+        .hero-splash .h1-headline span.slogan {
+          font-size: 2.9375rem; } }
+  .hero-splash .h2-tagline {
+    font-size: 1.625rem;
+    color: #fff;
+    text-shadow: 0 0.125rem 2.5rem #000; }

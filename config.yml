@@ -27,7 +27,7 @@ PATHS:
 
     # Core Foundation files
     - "node_modules/foundation-sites/dist/js/plugins/foundation.core.js"
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.*.js"
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.util.*.js"
 
     # Individual util files
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.box.js"
@@ -49,8 +49,8 @@ PATHS:
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js" # box / keyboard / nest
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js" # imageLoader / mediaQuery
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.interchange.js" # mediaQuery
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.magellan.js" # smoothScroll
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.magellan.js" # smoothScroll
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.offcanvas.js" # keyboard / mediaQuery / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.orbit.js" # imageLoader / keyboard / motion / timer / touch
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveAccordionTabs.js" # accordion / motion / tabs
@@ -58,7 +58,7 @@ PATHS:
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveToggle.js" # mediaQuery / motion
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.reveal.js" # keyboard / mediaQuery / motion / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.slider.js" # keyboard / motion / touch / triggers
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.sticky.js" # mediaQuery / triggers
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.sticky.js" # mediaQuery / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.tabs.js" # imageLoader / keyboard
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.toggler.js" # motion / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.tooltip.js" # box / mediaQuery / triggers
