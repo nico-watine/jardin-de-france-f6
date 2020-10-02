@@ -9180,6 +9180,7 @@ header {
     text-decoration: underline; }
 
 .hero-splash .nav-bar .logo {
+  padding-left: 0.5rem;
   opacity: 0; }
 
 .hero-splash .nav-bar.is-stuck .logo {
