@@ -9189,7 +9189,7 @@ header {
 .hero-splash {
   height: 100vh;
   min-height: 25rem;
-  background: rgba(103, 128, 154, 0.2) url("/img/splash/hero-large.png") center/cover no-repeat;
+  background: rgba(103, 128, 154, 0.25) url("/img/splash-images/1/splash-1920x1200.jpg") center/cover no-repeat;
   background-blend-mode: multiply; }
   .hero-splash .h1-headline {
     font-size: 7.5rem;
