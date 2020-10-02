@@ -1218,6 +1218,17 @@
 		"oAP": "/img/social-media/milieu/spring-2017-my-houston.pdf",
 		"oF": 0
 		},
+	"/img/splash-images/1/splash-1920x1200.jpg": {
+		"ft": 16384,
+		"iS": 324428,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/splash-images/1/splash-1920x1200.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/splash/hero-large.png": {
 		"ft": 32768,
 		"iS": 2113214,
