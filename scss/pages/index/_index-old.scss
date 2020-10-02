@@ -121,18 +121,11 @@ header {
 
 .nav-toggle {
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-	-webkit-touch-callout: none;
-	-webkit-user-select: none;
-	   -moz-user-select: none;
-	    -ms-user-select: none;
-	     -o-user-select: none;
-	        user-select: none;
+	user-select: none;
 }
 
 .mask {
-	-webkit-transition: opacity 300ms;
-	   -moz-transition: opacity 300ms;
-	        transition: opacity 300ms;
+	transition: opacity 300ms;
 	background: rgba(0, 0, 0, .5);
 	visibility: hidden;
 	position: fixed;
@@ -145,8 +138,7 @@ header {
 }
 
 .android .mask {
-	-webkit-transition: none;
-	        transition: none;
+	transition: none;
 }
 
 .js-nav-active .mask {
@@ -156,9 +148,7 @@ header {
 
 .nav-collapse,
 .nav-collapse * {
-	-webkit-box-sizing: border-box;
-	   -moz-box-sizing: border-box;
-	        box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 .nav-collapse,
@@ -371,8 +361,7 @@ header {
 	left: 50%;
 	min-width: 100%;
 	min-height: 100%;
-	-webkit-transform: translateX(-50%) translateY(-50%);
-	        transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
 }
 
 @media only screen and (min-width : 600px) {
