@@ -122,6 +122,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/dist",
+		"oF": 0
+		},
 	"/fonts/nav/nav.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -3298,7 +3304,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http://jardin-de-france-f6.local",
+	"externalServerAddress": "https://jardin-de-france-f6.local",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
