@@ -1373,7 +1373,7 @@
 		"oA": 0,
 		"oAP": "/css/app.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 1,
 		"sct": 1
 		},
 	"/scss/elements/_elements.scss": {
