@@ -42,7 +42,7 @@ body-class: index
 </div>
 
 <div class="top-bar align-right text-right" id="example-menu">
-	<ul class="main-menu menu vertical medium-horizontal">
+	<ul class="menu vertical medium-horizontal">
 		<li><a href="#0">One</a></li>
 		<li><a href="#0">Two</a></li>
 		<li><a href="#0">Three</a></li>

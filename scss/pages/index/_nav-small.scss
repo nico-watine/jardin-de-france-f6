@@ -1,5 +1,25 @@
-.main-menu {
+.top-bar#example-menu {
 	@include breakpoint(small only) {
-		width: 100%;
+		padding: 0; //8px
+
+		.menu {
+			width: 100%;
+
+			li {
+				background: #f9f9f9;
+				border-bottom: 1px solid #333;
+				padding: 0;
+
+				&:hover {
+					background: #fffeb3;
+				}
+			}
+
+			a {
+				color: #333;
+				font-weight: bold;
+				padding: 12px 16px;
+			}
+		}
 	}
 }
