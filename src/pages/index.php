@@ -41,7 +41,7 @@ body-class: index
 	<button class="menu-icon" type="button" data-toggle="example-menu"></button>
 </div>
 
-<div class="top-bar text-right" id="example-menu">
+<div class="top-bar align-right text-right" id="example-menu">
 	<ul class="menu vertical medium-horizontal">
 		<li><a href="#0">One</a></li>
 		<li><a href="#0">Two</a></li>
