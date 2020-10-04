@@ -14355,21 +14355,21 @@ header {
 }
 
 @media screen and (max-width: 39.99875em) {
-  #example-menu.top-bar {
+  #main-menu.top-bar {
     padding: 0;
   }
-  #example-menu.top-bar .menu {
+  #main-menu.top-bar .menu {
     width: 100%;
   }
-  #example-menu.top-bar .menu li {
+  #main-menu.top-bar .menu li {
     background: #f9f9f9;
     border-bottom: 1px solid #333;
     padding: 0;
   }
-  #example-menu.top-bar .menu li:hover {
+  #main-menu.top-bar .menu li:hover {
     background: #fffeb3;
   }
-  #example-menu.top-bar .menu a {
+  #main-menu.top-bar .menu a {
     color: #333;
     font-weight: bold;
     padding: 12px 16px;

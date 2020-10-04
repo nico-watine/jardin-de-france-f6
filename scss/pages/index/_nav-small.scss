@@ -1,6 +1,6 @@
-.top-bar#example-menu {
+.top-bar#main-menu {
 	@include breakpoint(small only) {
-		padding: 0; //8px
+		padding: 0;
 
 		.menu {
 			width: 100%;

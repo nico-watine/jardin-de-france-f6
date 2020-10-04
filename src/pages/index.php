@@ -36,12 +36,12 @@ body-class: index
 
 <div class="hide-for-large">
 
-<div class="title-bar align-right" data-responsive-toggle="example-menu" data-hide-for="medium">
+<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
 	<div class="title-bar-title">Menu</div>
-	<button class="menu-icon" type="button" data-toggle="example-menu"></button>
+	<button class="menu-icon" type="button" data-toggle="main-menu"></button>
 </div>
 
-<div class="top-bar align-right text-right" id="example-menu">
+<div class="top-bar align-right text-right" id="main-menu">
 	<ul class="menu vertical medium-horizontal">
 		<li><a href="#0">One</a></li>
 		<li><a href="#0">Two</a></li>
