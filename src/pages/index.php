@@ -35,24 +35,24 @@ body-class: index
 </section>
 
 <div class="hide-for-large">
-<header>
-	<div class="row collapse">
-		<div class="logo small-3 columns">
-			<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-			<a href="#welcome" data-scroll><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
-		</div>
-		<nav class="nav-collapse">
-			<ul>
-				<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
-				<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
-				<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
-				<li class="menu-item"><a href="#interior-gallery" data-scroll>The Interior Gallery</a></li>
-				<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
-				<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
-			</ul>
-		</nav>
+
+<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
+	<div class="logo">
+		<a href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+		<a href="#welcome" data-magellan-target="welcome"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 	</div>
-</header>
+	<div class="title-bar-title">Menu</div>
+	<button class="menu-icon" type="button" data-toggle="main-menu"></button>
+</div>
+
+<div class="top-bar align-right text-right" id="main-menu">
+	<ul class="menu vertical medium-horizontal">
+		<li><a href="#0">One</a></li>
+		<li><a href="#0">Two</a></li>
+		<li><a href="#0">Three</a></li>
+	</ul>
+</div>
+
 
 <section class="splash bgvid-container" id="welcome">
 	<div class="prose white display-flex position-absolute">
