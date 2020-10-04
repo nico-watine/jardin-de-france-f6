@@ -14354,6 +14354,12 @@ header {
   text-shadow: 0 0.125rem 2.5rem #000;
 }
 
+@media screen and (max-width: 39.99875em) {
+  .main-menu {
+    width: 100%;
+  }
+}
+
 .hero-splash .nav-bar {
   background: #697b99;
   -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);

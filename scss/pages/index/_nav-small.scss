@@ -1,0 +1,5 @@
+.main-menu {
+	@include breakpoint(small only) {
+		width: 100%;
+	}
+}
