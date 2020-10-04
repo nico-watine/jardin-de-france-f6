@@ -35,24 +35,35 @@ body-class: index
 </section>
 
 <div class="hide-for-large">
-<header>
-	<div class="row collapse">
-		<div class="logo small-3 columns">
-			<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-			<a href="#welcome" data-scroll><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
-		</div>
-		<nav class="nav-collapse">
-			<ul>
-				<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
-				<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
-				<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
-				<li class="menu-item"><a href="#interior-gallery" data-scroll>The Interior Gallery</a></li>
-				<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
-				<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
-			</ul>
-		</nav>
+
+<div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
+	<button class="menu-icon" type="button" data-toggle="example-menu"></button>
+	<div class="title-bar-title">Menu</div>
+</div>
+
+<div class="top-bar" id="example-menu">
+	<div class="top-bar-left">
+		<ul class="dropdown menu" data-dropdown-menu>
+			<li class="menu-text">Site Title</li>
+			<li>
+				<a href="#">One</a>
+				<ul class="menu vertical">
+					<li><a href="#">One</a></li>
+					<li><a href="#">Two</a></li>
+					<li><a href="#">Three</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Two</a></li>
+			<li><a href="#">Three</a></li>
+		</ul>
 	</div>
-</header>
+	<div class="top-bar-right">
+		<ul class="menu">
+			<li><input type="search" placeholder="Search"></li>
+			<li><button type="button" class="button">Search</button></li>
+		</ul>
+	</div>
+</div>
 
 <section class="splash bgvid-container" id="welcome">
 	<div class="prose white display-flex position-absolute">
