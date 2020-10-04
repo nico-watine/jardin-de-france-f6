@@ -14284,22 +14284,6 @@ header {
   z-index: 100;
 }
 
-.logo img {
-  position: absolute;
-  max-width: 65px;
-  height: auto;
-  float: left;
-  z-index: 55;
-}
-
-.logo h1 {
-  position: absolute;
-  text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
-  z-index: 55;
-  color: #fefefe;
-  font-size: 60px;
-}
-
 @media screen and (min-width: 751px) {
   .logo h1 {
     display: none;
@@ -14359,6 +14343,25 @@ header {
   -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
           box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
   height: 55px;
+}
+
+.title-bar .logo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.title-bar .logo img {
+  max-width: 65px;
+}
+
+.title-bar .logo h1 {
+  text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+  color: #fefefe;
+  font-size: 60px;
+  position: absolute;
+  top: 0;
 }
 
 @media screen and (max-width: 39.99875em) {
