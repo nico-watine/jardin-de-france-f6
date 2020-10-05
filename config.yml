@@ -10,12 +10,8 @@ UNCSS_OPTIONS:
     - ".sticky.is-stuck"
     - ".hero-splash .nav-bar a.is-active"
     - ".hero-splash .nav-bar.is-stuck .logo"
-    - ".js .nav-collapse"
-    - ".nav-collapse.opened"
-    - ".mask"
-    - ".android .mask"
-    - ".js-nav-active .mask"
-    - ".js .nav-collapse.closed"
+    - ".no-js .top-bar"
+    - ".no-js .title-bar"
 
 # Gulp will reference these paths when it copies files
 PATHS:
