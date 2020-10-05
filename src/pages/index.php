@@ -46,10 +46,12 @@ body-class: index
 	</div>
 
 	<div class="top-bar align-right text-right" id="main-menu">
-		<ul class="menu vertical medium-horizontal">
-			<li><a href="#0">One</a></li>
-			<li><a href="#0">Two</a></li>
-			<li><a href="#0">Three</a></li>
+		<ul class="menu vertical medium-horizontal" data-magellan data-deep-linking="true">
+			<li><a href="#gardens">The Gardens</a></li>
+			<li><a href="#conservatory">The Conservatory</a></li>
+			<li><a href="#interior-gallery">The Interior Gallery</a></li>
+			<li><a href="#about">Our Story</a></li>
+			<li><a href="#location">Location</a></li>
 		</ul>
 	</div>
 	</div>
