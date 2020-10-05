@@ -38,8 +38,8 @@ body-class: index
 	<div class="position-fixed-top">
 	<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
 		<div class="logo">
-			<a href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-			<a href="#welcome" data-magellan-target="welcome"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
+			<a class="magellan-link" href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+			<a class="magellan-link" href="#welcome" data-magellan-target="welcome"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 		</div>
 		<div class="title-bar-title">Menu</div>
 		<button class="menu-icon" type="button" data-toggle="main-menu"></button>
@@ -47,11 +47,11 @@ body-class: index
 
 	<div class="top-bar align-right text-right" id="main-menu">
 		<ul class="menu vertical medium-horizontal" data-magellan data-deep-linking="true">
-			<li><a href="#gardens">The Gardens</a></li>
-			<li><a href="#conservatory">The Conservatory</a></li>
-			<li><a href="#interior-gallery">The Interior Gallery</a></li>
-			<li><a href="#about">Our Story</a></li>
-			<li><a href="#location">Location</a></li>
+			<li><a class="magellan-link" href="#gardens">The Gardens</a></li>
+			<li><a class="magellan-link" href="#conservatory">The Conservatory</a></li>
+			<li><a class="magellan-link" href="#interior-gallery">The Interior Gallery</a></li>
+			<li><a class="magellan-link" href="#about">Our Story</a></li>
+			<li><a class="magellan-link" href="#location">Location</a></li>
 		</ul>
 	</div>
 	</div>
