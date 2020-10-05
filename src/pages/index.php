@@ -16,7 +16,7 @@ body-class: index
 		</div>
 	</div>
 	<div class="cell align-self-bottom" data-sticky-container>
-		<div class="sticky nav-bar" data-sticky data-top-anchor="gardens" data-margin-top="0">
+		<div class="sticky desktop-nav-bar" data-sticky data-top-anchor="gardens" data-margin-top="0">
 			<div class="row">
 				<div class="logo float-left" data-magellan>
 					<a href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
@@ -35,46 +35,48 @@ body-class: index
 </section>
 
 <div class="hide-for-large">
-
-<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
-	<div class="logo">
-		<a href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-		<a href="#welcome" data-magellan-target="welcome"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
+	<div class="position-fixed-top">
+	<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
+		<div class="logo">
+			<a href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+			<a href="#welcome" data-magellan-target="welcome"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
+		</div>
+		<div class="title-bar-title">Menu</div>
+		<button class="menu-icon" type="button" data-toggle="main-menu"></button>
 	</div>
-	<div class="title-bar-title">Menu</div>
-	<button class="menu-icon" type="button" data-toggle="main-menu"></button>
+
+	<div class="top-bar align-right text-right" id="main-menu">
+		<ul class="menu vertical medium-horizontal">
+			<li><a href="#0">One</a></li>
+			<li><a href="#0">Two</a></li>
+			<li><a href="#0">Three</a></li>
+		</ul>
+	</div>
+	</div>
 </div>
 
-<div class="top-bar align-right text-right" id="main-menu">
-	<ul class="menu vertical medium-horizontal">
-		<li><a href="#0">One</a></li>
-		<li><a href="#0">Two</a></li>
-		<li><a href="#0">Three</a></li>
-	</ul>
-</div>
-
-
-<section class="splash bgvid-container" id="welcome">
-	<div class="prose white display-flex position-absolute">
-		<div class="row expanded text-center">
-			<div class="px-32 mb-32">
-				<h1 class="cursive">Jardin de France</h1>
-			</div>
-			<div class="columns">
-				<h2 class="h3"><strong>French Antiques and Plants for the Home&nbsp;&amp;&nbsp;Patio</strong></h2>
-				<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden&nbsp;design</h3>
-				<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
+<div class="hide-for-large">
+	<section class="splash bgvid-container" id="welcome">
+		<div class="prose white display-flex position-absolute">
+			<div class="row expanded text-center">
+				<div class="px-32 mb-32">
+					<h1 class="cursive">Jardin de France</h1>
+				</div>
+				<div class="columns">
+					<h2 class="h3"><strong>French Antiques and Plants for the Home&nbsp;&amp;&nbsp;Patio</strong></h2>
+					<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden&nbsp;design</h3>
+					<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
+				</div>
 			</div>
 		</div>
-	</div>
 
-	<div class="bgScrim">&nbsp;</div>
+		<div class="bgScrim">&nbsp;</div>
 
-	<video autoplay playsinline muted loop poster="/img/index/splash/poster.jpg" id="backgroundVideo">
-		<source src="/img/index/splash/splash.webm" type="video/webm">
-		<source src="/img/index/splash/splash.mp4" type="video/mp4">
-	</video>
-</section>
+		<video autoplay playsinline muted loop poster="/img/index/splash/poster.jpg" id="backgroundVideo">
+			<source src="/img/index/splash/splash.webm" type="video/webm">
+			<source src="/img/index/splash/splash.mp4" type="video/mp4">
+		</video>
+	</section>
 </div>
 
 <section class="gardensSection" id="gardens" data-magellan-target="gardens">
