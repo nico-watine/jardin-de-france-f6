@@ -33,7 +33,7 @@ body-class: index
 		</div>
 	</div>
 </section>
-<!--  -->
+
 <div class="hide-for-large">
 	<div class="position-fixed-top">
 	<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
