@@ -14387,43 +14387,60 @@ header {
   }
 }
 
-.hero-splash .nav-bar {
+.desktop-nav-bar {
   background: #697b99;
   -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
           box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
   z-index: 100;
 }
 
-.hero-splash .nav-bar .menu {
+.desktop-nav-bar .menu {
   font-weight: bold;
   padding: 0.5rem 0;
   font-size: 1rem;
 }
 
 @media screen and (min-width: 68.75em) {
-  .hero-splash .nav-bar .menu {
+  .desktop-nav-bar .menu {
     font-size: 1.125rem;
   }
 }
 
-.hero-splash .nav-bar a {
+.desktop-nav-bar a {
   color: #fff;
 }
 
-.hero-splash .nav-bar a:hover {
+.desktop-nav-bar a:hover {
   text-decoration: underline;
 }
 
-.hero-splash .nav-bar a.is-active {
+.desktop-nav-bar a.is-active {
   text-decoration: underline;
 }
 
-.hero-splash .nav-bar .logo {
+.desktop-nav-bar .logo {
+  z-index: 100;
+}
+
+.desktop-nav-bar .logo img {
+  position: absolute;
+  max-width: 65px;
+}
+
+.desktop-nav-bar .logo h1 {
+  text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+  color: #fefefe;
+  font-size: 60px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-nav-bar .logo {
   padding-left: 0.5rem;
   opacity: 0;
 }
 
-.hero-splash .nav-bar.is-stuck .logo {
+.desktop-nav-bar.is-stuck .logo {
   opacity: 1;
   -webkit-transition: opacity .2s ease-in;
   transition: opacity .2s ease-in;

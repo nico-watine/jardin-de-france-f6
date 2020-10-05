@@ -16,7 +16,7 @@ body-class: index
 		</div>
 	</div>
 	<div class="cell align-self-bottom" data-sticky-container>
-		<div class="sticky nav-bar" data-sticky data-top-anchor="gardens" data-margin-top="0">
+		<div class="sticky desktop-nav-bar" data-sticky data-top-anchor="gardens" data-margin-top="0">
 			<div class="row">
 				<div class="logo float-left" data-magellan>
 					<a href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
