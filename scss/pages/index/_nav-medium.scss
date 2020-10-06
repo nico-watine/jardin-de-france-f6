@@ -1,11 +1,27 @@
 .top-bar#main-menu {
 	@include breakpoint(medium only) {
 
+		.logo-wrap {
+			position: absolute;
+			top: 0;
+			left: 0;
+			padding-top: rem-calc(4);
+			padding-left: rem-calc(8);
+
+			img {
+				max-width: 70px;
+			}
+		}
+
 		.menu {
 			a {
 				color: #fff;
 				font-weight: bold;
 				padding: rem-calc(8);
+
+				span {
+					display: none;
+				}
 			}
 		}
 	}

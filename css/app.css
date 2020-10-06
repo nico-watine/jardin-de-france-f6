@@ -14189,10 +14189,23 @@ header {
 }
 
 @media screen and (min-width: 40em) and (max-width: 63.99875em) {
+  #main-menu.top-bar .logo-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 0.25rem;
+    padding-left: 0.5rem;
+  }
+  #main-menu.top-bar .logo-wrap img {
+    max-width: 70px;
+  }
   #main-menu.top-bar .menu a {
     color: #fff;
     font-weight: bold;
     padding: 0.5rem;
+  }
+  #main-menu.top-bar .menu a span {
+    display: none;
   }
 }
 
