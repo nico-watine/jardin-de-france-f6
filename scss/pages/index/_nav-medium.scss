@@ -6,15 +6,16 @@
 			left: 0;
 
 			img {
-				max-width: 70px;
+				max-width: 55px;
 			}
 
 			h1 {
 				text-shadow: 0 6px 10px rgba(0, 0, 0, .3);
 				color: #fefefe;
-				font-size: 60px;
+				font-size: rem-calc(50);
 				position: absolute;
-				top: rem-calc(2);
+				top: rem-calc(8);
+				left: rem-calc(8);
 			}
 		}
 

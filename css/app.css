@@ -14195,14 +14195,15 @@ header {
     left: 0;
   }
   #main-menu.top-bar .logo-wrap img {
-    max-width: 70px;
+    max-width: 55px;
   }
   #main-menu.top-bar .logo-wrap h1 {
     text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
     color: #fefefe;
-    font-size: 60px;
+    font-size: 3.125rem;
     position: absolute;
-    top: 0.125rem;
+    top: 0.5rem;
+    left: 0.5rem;
   }
   #main-menu.top-bar .menu a {
     color: #fff;
