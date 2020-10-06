@@ -46,7 +46,7 @@ body-class: index
 		</div>
 
 		<div class="top-bar align-right text-right" id="main-menu">
-			<div class="top-bar-left">
+			<div class="top-bar-left show-for-medium">
 				<div class="logo-wrap">
 					<a class="magellan-link" href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
 					<a class="magellan-link" href="#welcome" data-magellan-target="welcome"><h1 class="cursive">JdF</h1></a>
