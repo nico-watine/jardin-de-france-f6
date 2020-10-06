@@ -18,18 +18,5 @@ function handleNavChange(width) {
  
 // Register event listener
 mediaQuery.addListener(handleNavChange)
-
 // Initial check
 handleNavChange(mediaQuery)
-
-// function hideMenuOnClickMobileOnly(width) {
-// 	if (width.matches) { // If media query matches
-// 		$('.magellan-link').on('click', function () {
-// 			$(".top-bar").css({"display": "none"});
-// 		});
-// 	}
-// }
-
-// var width = window.matchMedia("(max-width: 39.99875em)")
-// hideMenuOnClickMobileOnly(width) // Call listener function at run time
-// width.addListener(hideMenuOnClickMobileOnly) // Attach listener function on state changes
