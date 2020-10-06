@@ -8504,7 +8504,7 @@ a.thumbnail image {
 
 .top-bar,
 .top-bar ul {
-  background-color: #e6e6e6;
+  background-color: #697b99;
 }
 
 .top-bar input {
@@ -14185,6 +14185,14 @@ header {
 @media print, screen and (min-width: 40em) {
   .no-js .title-bar {
     display: none;
+  }
+}
+
+@media screen and (min-width: 40em) and (max-width: 63.99875em) {
+  #main-menu.top-bar .menu a {
+    color: #fff;
+    font-weight: bold;
+    padding: 0.5rem;
   }
 }
 

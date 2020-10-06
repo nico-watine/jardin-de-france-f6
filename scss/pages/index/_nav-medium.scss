@@ -1,0 +1,12 @@
+.top-bar#main-menu {
+	@include breakpoint(medium only) {
+
+		.menu {
+			a {
+				color: #fff;
+				font-weight: bold;
+				padding: rem-calc(8);
+			}
+		}
+	}
+}
