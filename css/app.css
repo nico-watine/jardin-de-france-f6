@@ -14193,11 +14193,16 @@ header {
     position: absolute;
     top: 0;
     left: 0;
-    padding-top: 0.25rem;
-    padding-left: 0.5rem;
   }
   #main-menu.top-bar .logo-wrap img {
     max-width: 70px;
+  }
+  #main-menu.top-bar .logo-wrap h1 {
+    text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+    color: #fefefe;
+    font-size: 60px;
+    position: absolute;
+    top: 0.125rem;
   }
   #main-menu.top-bar .menu a {
     color: #fff;
