@@ -8,8 +8,8 @@ UNCSS_OPTIONS:
     - !!js/regexp ^\.is-.*
     - ".sticky.is-anchored"
     - ".sticky.is-stuck"
-    - ".hero-splash .nav-bar a.is-active"
-    - ".hero-splash .nav-bar.is-stuck .logo"
+    - ".desktop-nav-bar a.is-active"
+    - ".desktop-nav-bar.is-stuck .logo"
     - ".no-js .top-bar"
     - ".no-js .title-bar"
 
