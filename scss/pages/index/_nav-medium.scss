@@ -1,0 +1,38 @@
+.top-bar#main-menu {
+	@include breakpoint(medium only) {
+		.logo-wrap {
+			position: absolute;
+			top: 0;
+			left: 0;
+
+			img {
+				max-width: 55px;
+			}
+
+			h1 {
+				text-shadow: 0 6px 10px rgba(0, 0, 0, .3);
+				color: #fefefe;
+				font-size: rem-calc(50);
+				position: absolute;
+				top: rem-calc(8);
+				left: rem-calc(8);
+			}
+		}
+
+		.menu {
+			a {
+				color: #fff;
+				font-weight: bold;
+				padding: rem-calc(8);
+
+				span {
+					display: none;
+				}
+			}
+
+			a.is-active {
+				text-decoration: underline;
+			}
+		}
+	}
+}

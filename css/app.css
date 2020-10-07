@@ -8504,7 +8504,7 @@ a.thumbnail image {
 
 .top-bar,
 .top-bar ul {
-  background-color: #e6e6e6;
+  background-color: #697b99;
 }
 
 .top-bar input {
@@ -14174,6 +14174,9 @@ header {
     font-weight: bold;
     padding: 12px 16px;
   }
+  #main-menu.top-bar .menu a.is-active {
+    text-decoration: underline;
+  }
 }
 
 @media screen and (max-width: 39.99875em) {
@@ -14185,6 +14188,36 @@ header {
 @media print, screen and (min-width: 40em) {
   .no-js .title-bar {
     display: none;
+  }
+}
+
+@media screen and (min-width: 40em) and (max-width: 63.99875em) {
+  #main-menu.top-bar .logo-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  #main-menu.top-bar .logo-wrap img {
+    max-width: 55px;
+  }
+  #main-menu.top-bar .logo-wrap h1 {
+    text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+    color: #fefefe;
+    font-size: 3.125rem;
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+  }
+  #main-menu.top-bar .menu a {
+    color: #fff;
+    font-weight: bold;
+    padding: 0.5rem;
+  }
+  #main-menu.top-bar .menu a span {
+    display: none;
+  }
+  #main-menu.top-bar .menu a.is-active {
+    text-decoration: underline;
   }
 }
 
