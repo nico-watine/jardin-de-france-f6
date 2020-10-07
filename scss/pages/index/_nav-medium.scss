@@ -29,6 +29,10 @@
 					display: none;
 				}
 			}
+
+			a.is-active {
+				text-decoration: underline;
+			}
 		}
 	}
 }

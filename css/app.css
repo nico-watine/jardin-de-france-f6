@@ -14174,6 +14174,9 @@ header {
     font-weight: bold;
     padding: 12px 16px;
   }
+  #main-menu.top-bar .menu a.is-active {
+    text-decoration: underline;
+  }
 }
 
 @media screen and (max-width: 39.99875em) {
@@ -14212,6 +14215,9 @@ header {
   }
   #main-menu.top-bar .menu a span {
     display: none;
+  }
+  #main-menu.top-bar .menu a.is-active {
+    text-decoration: underline;
   }
 }
 
