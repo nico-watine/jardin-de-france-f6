@@ -14216,6 +14216,9 @@ header {
   #main-menu.top-bar .menu a span {
     display: none;
   }
+  #main-menu.top-bar .menu a:hover {
+    text-decoration: underline;
+  }
   #main-menu.top-bar .menu a.is-active {
     text-decoration: underline;
   }

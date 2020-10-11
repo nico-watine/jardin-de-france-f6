@@ -28,6 +28,10 @@
 				span {
 					display: none;
 				}
+
+				&:hover {
+					text-decoration: underline;
+				}
 			}
 
 			a.is-active {

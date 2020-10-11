@@ -12,6 +12,7 @@ UNCSS_OPTIONS:
     - ".desktop-nav-bar.is-stuck .logo"
     - ".no-js .top-bar"
     - ".no-js .title-bar"
+    - "#main-menu.top-bar .menu a.is-active"
 
 # Gulp will reference these paths when it copies files
 PATHS:
