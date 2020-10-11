@@ -52,7 +52,7 @@ body-class: index
 					<a class="magellan-link" href="#welcome" data-magellan-target="welcome"><h1 class="cursive">JdF</h1></a>
 				</div>
 			</div>
-			<ul class="menu vertical medium-horizontal" data-magellan data-deep-linking="true">
+			<ul class="menu vertical medium-horizontal" data-smooth-scroll data-animation-easing="swing" data-magellan data-deep-linking="true">
 				<li><a class="magellan-link" href="#gardens"><span>The </span>Gardens</a></li>
 				<li><a class="magellan-link" href="#conservatory"><span>The </span>Conservatory</a></li>
 				<li><a class="magellan-link" href="#interior-gallery"><span>The </span>Interior Gallery</a></li>
