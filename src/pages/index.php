@@ -71,8 +71,8 @@ body-class: index
 					<h1 class="cursive">Jardin de France</h1>
 				</div>
 				<div class="columns">
-					<h2 class="h3"><strong>French Antiques and Plants for the Home&nbsp;&amp;&nbsp;Patio</strong></h2>
-					<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden&nbsp;design</h3>
+					<h2 class="h3 ff-museo-500"><strong>l’esprit français</strong></h2>
+					<h3 class="h4">Curated for the home &amp; garden</h3>
 					<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
 				</div>
 			</div>
