@@ -191,7 +191,7 @@ body-class: index
 		<div class="columns">
 			<div class="prose">
 				<h2 class="cursive white"><span class="h4 display-block"><strong>The</strong></span> Round Top Antique Show</h2>
-				<h3 class="white">Spring 2019 Booth | <strong>Marburger Farm</strong></h3>
+				<!-- <h3 class="white">Spring 2019 Booth | <strong>Marburger Farm</strong></h3> -->
 			</div>
 		</div>
 	</div>
