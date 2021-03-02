@@ -13696,6 +13696,28 @@ a.colophon:hover {
   min-width: 25%;
 }
 
+#index.index .splash .bgScrim {
+  background: rgba(105, 123, 153, 0.4);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+#backgroundVideo {
+  position: absolute;
+  z-index: -5;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+      -ms-transform: translateX(-50%) translateY(-50%);
+          transform: translateX(-50%) translateY(-50%);
+}
+
 a.button {
   border: none;
   cursor: pointer;
@@ -13803,28 +13825,6 @@ body {
   max-width: 570px;
   width: 100%;
   margin: 0 auto 32px;
-}
-
-#index.index .splash .bgScrim {
-  background: rgba(105, 123, 153, 0.4);
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  z-index: 1;
-  top: 0;
-  left: 0;
-}
-
-#backgroundVideo {
-  position: absolute;
-  z-index: -5;
-  top: 50%;
-  left: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-      -ms-transform: translateX(-50%) translateY(-50%);
-          transform: translateX(-50%) translateY(-50%);
 }
 
 @media only screen and (min-width: 600px) {
@@ -14281,6 +14281,11 @@ header {
   opacity: 1;
   -webkit-transition: opacity .2s ease-in;
   transition: opacity .2s ease-in;
+}
+
+.small-splash {
+  background: rgba(0, 0, 0, 0.2) url("/img/splash-images/1/splash-small.jpg") center/cover no-repeat;
+  background-blend-mode: multiply;
 }
 
 .example {
