@@ -67,7 +67,7 @@ body-class: index
 	<section class="splash bgvid-container" id="welcome">
 		<div class="prose white display-flex position-absolute">
 			<div class="row expanded text-center">
-				<div class="px-32 mb-32">
+				<div class="px-32">
 					<h1 class="cursive">Jardin de France</h1>
 				</div>
 				<div class="columns">
