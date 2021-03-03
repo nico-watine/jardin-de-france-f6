@@ -91,7 +91,7 @@ $global-padding: 1rem;
 $global-position: 1rem;
 $global-weight-normal: normal;
 $global-weight-bold: bold;
-$global-radius: rem-calc(3);
+$global-radius: rem-calc(4);
 $global-menu-padding: 0.7rem 1rem;
 $global-menu-nested-margin: 1rem;
 $global-text-direction: ltr;
@@ -288,9 +288,9 @@ $button-font-family: inherit;
 $button-padding: 0.85em 1em;
 $button-margin: 0 0 $global-margin 0;
 $button-fill: solid;
-$button-background: $primary-color;
-$button-background-hover: scale-color($button-background, $lightness: -15%);
-$button-color: $white;
+$button-background: #fffeb3; // $primary-color
+$button-background-hover: #fffe90; // scale-color($button-background, $lightness: -15%)
+$button-color: #333; // $white
 $button-color-alt: $black;
 $button-radius: $global-radius;
 $button-hollow-border-width: 1px;
