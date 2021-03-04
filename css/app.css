@@ -14274,18 +14274,18 @@ header {
   min-height: 540px;
 }
 
-.small-splash .h1 {
+.small-splash .h1-headline {
   text-shadow: 0 0 10px #000;
   margin-bottom: 40px;
   font-size: 70px;
   line-height: 1;
 }
 
-.small-splash .h1 span {
+.small-splash .h1-headline .slogan {
   font-size: 25px;
 }
 
-.small-splash .h2 {
+.small-splash .h2-tagline {
   text-shadow: 0 0 10px #000;
   font-size: 20px;
   margin-bottom: 40px;

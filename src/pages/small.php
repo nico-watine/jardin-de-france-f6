@@ -68,8 +68,8 @@ body-class: index
 <!-- Splash @small-medium -->
 <section class="small-splash grid-x align-middle grid-padding-x hide-for-large">
 	<div class="cell text-center pt-40">
-		<h1 class="h1 ff-parisienne text-white">Jardin de France <span class="display-block ff-museo-500">l’esprit français</span></h1>
-		<h2 class="h2 ff-museo-500 text-white">Curated for the home &amp; garden</h2>
+		<h1 class="h1-heading ff-parisienne text-white">Jardin de France <span class="slogan display-block ff-museo-500">l’esprit français</span></h1>
+		<h2 class="h2-tagline ff-museo-500 text-white">Curated for the home &amp; garden</h2>
 		<a href="#" class="button ff-museo-500">Bienvenu</a>
 	</div>
 </section>
