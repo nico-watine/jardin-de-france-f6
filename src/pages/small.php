@@ -62,8 +62,8 @@ body-class: index
 
 <section class="small-splash grid-x align-middle grid-padding-x" style="min-height: 540px;">
 	<div class="cell text-center pt-40">
-		<h1 class="ff-parisienne text-white" style="text-shadow: 0 0 10px rgba(0,0,0,0.50); margin-bottom: 40px; font-size: 70px; line-height: 1;">Jardin de France <span class="display-block ff-museo-500" style="padding-left: 40px; font-size: 25px;">l’esprit français</span></h1>
-		<h2 class="ff-museo-500 text-white" style="text-shadow: 0 0 10px rgba(0,0,0,0.50); font-size: 20px; margin-bottom: 40px;">Curated for the home &amp; garden</h2>
+		<h1 class="ff-parisienne text-white" style="text-shadow: 0 0 10px #000; margin-bottom: 40px; font-size: 70px; line-height: 1;">Jardin de France <span class="display-block ff-museo-500" style="padding-left: 40px; font-size: 25px;">l’esprit français</span></h1>
+		<h2 class="ff-museo-500 text-white" style="text-shadow: 0 0 10px #000; font-size: 20px; margin-bottom: 40px;">Curated for the home &amp; garden</h2>
 		<a href="#" class="button ff-museo-500" style="font-size: 1rem;">Bienvenu</a>
 	</div>
 </section>
