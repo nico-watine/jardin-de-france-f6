@@ -3,6 +3,23 @@
 	background-blend-mode: multiply;
 	min-height: 540px;
 
+	.h1 {
+		text-shadow: 0 0 10px #000;
+		margin-bottom: 40px;
+		font-size: 70px;
+		line-height: 1;
+
+		span {
+			font-size: 25px;
+		}
+	}
+
+	.h2 {
+		text-shadow: 0 0 10px #000;
+		font-size: 20px;
+		margin-bottom: 40px;
+	}
+
 	@include breakpoint(medium) {
 		background-image: url('/img/splash-images/1/splash-medium.jpg');
 		min-height: 600px;
