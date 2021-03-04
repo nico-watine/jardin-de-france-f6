@@ -8,6 +8,7 @@ og-image: /img/social-media/milieu/og-image.png
 body-id: index
 body-class: index
 ---
+<!-- Splash @large -->
 <section class="hero-splash grid-x show-for-large" id="welcome">
 	<div class="cell">
 		<div style="padding-left: 80px; padding-top: 130px;">
@@ -34,7 +35,7 @@ body-class: index
 	</div>
 </section>
 
-<!-- Top Nav Bar -->
+<!-- Top Nav Bar Mobile -->
 <div class="hide-for-large" id="splash">
 	<div class="position-fixed-top">
 		<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
@@ -64,6 +65,7 @@ body-class: index
 	</div>
 </div>
 
+<!-- Splash @small-medium -->
 <section class="small-splash grid-x align-middle grid-padding-x hide-for-large">
 	<div class="cell text-center pt-40">
 		<h1 class="h1 ff-parisienne text-white">Jardin de France <span class="display-block ff-museo-500">l’esprit français</span></h1>
