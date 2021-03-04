@@ -14271,6 +14271,14 @@ header {
 .small-splash {
   background: rgba(0, 0, 0, 0.25) url("/img/splash-images/1/splash-small.jpg") center/cover no-repeat;
   background-blend-mode: multiply;
+  min-height: 540px;
+}
+
+@media print, screen and (min-width: 40em) {
+  .small-splash {
+    background-image: url("/img/splash-images/1/splash-medium.jpg");
+    min-height: 600px;
+  }
 }
 
 .example {
