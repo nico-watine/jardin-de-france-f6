@@ -64,6 +64,6 @@ body-class: index
 	<div class="cell text-center pt-40">
 		<h1 class="h1 ff-parisienne text-white">Jardin de France <span class="display-block ff-museo-500">l’esprit français</span></h1>
 		<h2 class="h2 ff-museo-500 text-white">Curated for the home &amp; garden</h2>
-		<a href="#" class="button ff-museo-500" style="font-size: 1rem;">Bienvenu</a>
+		<a href="#" class="button ff-museo-500">Bienvenu</a>
 	</div>
 </section>
