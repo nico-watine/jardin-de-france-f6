@@ -8,6 +8,32 @@ og-image: /img/social-media/milieu/og-image.png
 body-id: index
 body-class: index
 ---
+<section class="hero-splash grid-x show-for-large" id="welcome">
+	<div class="cell">
+		<div style="padding-left: 80px; padding-top: 130px;">
+			<h2 class="h2-tagline" style="padding-left: 130px;">Curated for the home &amp; garden</h2>
+			<h1 class="h1-headline" style="margin-top: -20px;">Jardin de France <span class="slogan" style="padding-left: 80px; margin-top: -40px;">l’esprit français</span></h1>
+		</div>
+	</div>
+	<div class="cell align-self-bottom" data-sticky-container>
+		<div class="sticky desktop-nav-bar" data-sticky data-top-anchor="gardens" data-margin-top="0">
+			<div class="row">
+				<div class="logo float-left" data-magellan>
+					<a href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+					<a href="#welcome" data-magellan-target="welcome"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
+				</div>
+				<ul class="menu align-right" data-magellan data-deep-linking="true" data-offset="24">
+					<li><a href="#gardens">The Gardens</a></li>
+					<li><a href="#conservatory">The Conservatory</a></li>
+					<li><a href="#interior-gallery">The Interior Gallery</a></li>
+					<li><a href="#about">Our Story</a></li>
+					<li><a href="#location">Location</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+
 <!-- Top Nav Bar -->
 <div class="hide-for-large" id="splash">
 	<div class="position-fixed-top">
