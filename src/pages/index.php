@@ -72,7 +72,7 @@ body-class: index
 			<h1 class="h1-headline ff-parisienne text-white">Jardin de France <span class="slogan display-block ff-museo-500">l’esprit français</span></h1>
 		</div>
 		<h2 class="h2-tagline ff-museo-500 text-white">Curated for the home &amp; garden</h2>
-		<a href="#" class="button ff-museo-500">Bienvenue</a>
+		<a href="#gardens" class="button ff-museo-500">Bienvenue</a>
 	</div>
 </section>
 
