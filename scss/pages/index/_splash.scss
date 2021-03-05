@@ -46,8 +46,7 @@
 	background-blend-mode: multiply;
 
 	.prose-wrap {
-		padding-left: 80px;
-		padding-top: 130px;
+		padding: rem-calc(130 0 0 80);
 	}
 
 	.h1-headline {
@@ -55,15 +54,15 @@
 		font-size: rem-calc(120);
 		color: #fff;
 		text-shadow: 0 0 rem-calc(20) #000;
-		margin-top: -20px;
+		margin-top: rem-calc(-20);
 
 		span.slogan {
 			@extend .ff-museo-500;
 			display: block;
 			font-size: rem-calc(40);
 			color: #fff;
-			padding-left: 80px;
-			margin-top: -40px;
+			padding-left: rem-calc(80);
+			margin-top: rem-calc(-40);
 		}
 
 		@include breakpoint(1100) {
@@ -80,6 +79,6 @@
 		font-size: rem-calc(26);
 		color: #fff;
 		text-shadow: 0 rem-calc(2) rem-calc(40) #000;
-		padding-left: 130px;
+		padding-left: rem-calc(130);
 	}
 }
