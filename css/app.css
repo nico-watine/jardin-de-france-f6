@@ -14279,6 +14279,12 @@ header {
   margin: 0 auto;
 }
 
+@media screen and (min-width: 32.5em) {
+  .small-splash .headline-wrap {
+    max-width: none;
+  }
+}
+
 .small-splash .h1-headline {
   text-shadow: 0 0 10px #000;
   margin-bottom: 40px;
