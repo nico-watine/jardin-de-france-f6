@@ -39,9 +39,9 @@ body-class: index
 <div class="hide-for-large" id="splash">
 	<div class="position-fixed-top">
 		<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
-			<div class="logo">
-				<a class="magellan-link" href="#splash"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-				<a class="magellan-link" href="#splash"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
+			<div class="logo" data-magellan>
+				<a class="magellan-link" href="#small-splash"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+				<a class="magellan-link" href="#small-splash"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 			</div>
 			<div class="title-bar-title">Menu</div>
 			<button class="menu-icon" type="button" data-toggle="main-menu"></button>
@@ -49,9 +49,9 @@ body-class: index
 
 		<div class="top-bar align-right text-right" id="main-menu">
 			<div class="top-bar-left show-for-medium">
-				<div class="logo-wrap">
-					<a class="magellan-link" href="#splash"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-					<a class="magellan-link" href="#splash"><h1 class="cursive">JdF</h1></a>
+				<div class="logo-wrap" data-magellan>
+					<a class="magellan-link" href="#small-splash"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+					<a class="magellan-link" href="#small-splash"><h1 class="cursive">JdF</h1></a>
 				</div>
 			</div>
 			<ul class="menu vertical medium-horizontal" data-magellan data-deep-linking="true">
@@ -66,7 +66,7 @@ body-class: index
 </div>
 
 <!-- Splash @small-medium -->
-<section class="small-splash grid-x align-middle grid-padding-x hide-for-large">
+<section class="small-splash grid-x align-middle grid-padding-x hide-for-large" id="small-splash">
 	<div class="cell text-center pt-40">
 		<div class="headline-wrap">
 			<h1 class="h1-headline ff-parisienne text-white">Jardin de France <span class="slogan display-block ff-museo-500">l’esprit français</span></h1>
