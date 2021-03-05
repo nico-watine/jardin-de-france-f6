@@ -14274,6 +14274,11 @@ header {
   min-height: 540px;
 }
 
+.small-splash .headline-wrap {
+  max-width: 320px;
+  margin: 0 auto;
+}
+
 .small-splash .h1-headline {
   text-shadow: 0 0 10px #000;
   margin-bottom: 40px;

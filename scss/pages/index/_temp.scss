@@ -3,6 +3,11 @@
 	background-blend-mode: multiply;
 	min-height: 540px;
 
+	.headline-wrap {
+		max-width: 320px;
+		margin: 0 auto;
+	}
+
 	.h1-headline {
 		text-shadow: 0 0 10px #000;
 		margin-bottom: 40px;
