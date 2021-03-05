@@ -14274,14 +14274,10 @@ header {
   min-height: 540px;
 }
 
-.small-splash .headline-wrap {
-  max-width: 320px;
-  margin: 0 auto;
-}
-
-@media screen and (min-width: 32.5em) {
+@media screen and (max-width: 32.5em) {
   .small-splash .headline-wrap {
-    max-width: none;
+    max-width: 320px;
+    margin: 0 auto;
   }
 }
 

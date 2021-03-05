@@ -4,11 +4,9 @@
 	min-height: 540px;
 
 	.headline-wrap {
-		max-width: 320px;
-		margin: 0 auto;
-
-		@include breakpoint(520) {
-			max-width: none;
+		@include breakpoint(520 down) {
+			max-width: 320px;
+			margin: 0 auto;
 		}
 	}
 
