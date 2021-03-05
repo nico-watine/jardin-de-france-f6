@@ -14059,31 +14059,31 @@ header {
 .small-splash {
   background: rgba(0, 0, 0, 0.25) url("/img/splash-images/1/splash-small.jpg") center/cover no-repeat;
   background-blend-mode: multiply;
-  min-height: 540px;
+  min-height: 33.75rem;
 }
 
 @media screen and (max-width: 32.5em) {
   .small-splash .headline-wrap {
-    max-width: 320px;
+    max-width: 20rem;
     margin: 0 auto;
   }
 }
 
 .small-splash .h1-headline {
   text-shadow: 0 0 10px #000;
-  margin-bottom: 40px;
-  font-size: 70px;
+  margin-bottom: 2.5rem;
+  font-size: 4.375rem;
   line-height: 1;
 }
 
 .small-splash .h1-headline .slogan {
-  font-size: 25px;
+  font-size: 1.5625rem;
 }
 
 .small-splash .h2-tagline {
   text-shadow: 0 0 10px #000;
-  font-size: 20px;
-  margin-bottom: 40px;
+  font-size: 1.25rem;
+  margin-bottom: 2.5rem;
 }
 
 .small-splash .button {
@@ -14093,7 +14093,7 @@ header {
 @media print, screen and (min-width: 40em) {
   .small-splash {
     background-image: url("/img/splash-images/1/splash-medium.jpg");
-    min-height: 600px;
+    min-height: 37.5rem;
   }
 }
 
@@ -14104,16 +14104,23 @@ header {
   background-blend-mode: multiply;
 }
 
+.hero-splash .prose-wrap {
+  padding: 8.125rem 0 0 5rem;
+}
+
 .hero-splash .h1-headline {
   font-size: 7.5rem;
   color: #fff;
   text-shadow: 0 0 1.25rem #000;
+  margin-top: -1.25rem;
 }
 
 .hero-splash .h1-headline span.slogan {
   display: block;
   font-size: 2.5rem;
   color: #fff;
+  padding-left: 5rem;
+  margin-top: -2.5rem;
 }
 
 @media screen and (min-width: 68.75em) {
@@ -14129,6 +14136,7 @@ header {
   font-size: 1.625rem;
   color: #fff;
   text-shadow: 0 0.125rem 2.5rem #000;
+  padding-left: 8.125rem;
 }
 
 .title-bar {

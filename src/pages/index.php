@@ -11,9 +11,9 @@ body-class: index
 <!-- Splash @large -->
 <section class="hero-splash grid-x show-for-large" id="welcome">
 	<div class="cell">
-		<div style="padding-left: 80px; padding-top: 130px;">
-			<h2 class="h2-tagline" style="padding-left: 130px;">Curated for the home &amp; garden</h2>
-			<h1 class="h1-headline" style="margin-top: -20px;">Jardin de France <span class="slogan" style="padding-left: 80px; margin-top: -40px;">l’esprit français</span></h1>
+		<div class="prose-wrap">
+			<h2 class="h2-tagline">Curated for the home &amp; garden</h2>
+			<h1 class="h1-headline">Jardin de France <span class="slogan">l’esprit français</span></h1>
 		</div>
 	</div>
 	<div class="cell align-self-bottom" data-sticky-container>

@@ -2,30 +2,30 @@
 .small-splash {
 	background: rgba(0,0,0,.25) url('/img/splash-images/1/splash-small.jpg') center/cover no-repeat;
 	background-blend-mode: multiply;
-	min-height: 540px;
+	min-height: rem-calc(540);
 
 	.headline-wrap {
 		@include breakpoint(520 down) {
-			max-width: 320px;
+			max-width: rem-calc(320);
 			margin: 0 auto;
 		}
 	}
 
 	.h1-headline {
 		text-shadow: 0 0 10px #000;
-		margin-bottom: 40px;
-		font-size: 70px;
+		margin-bottom: rem-calc(40);
+		font-size: rem-calc(70);
 		line-height: 1;
 
 		.slogan {
-			font-size: 25px;
+			font-size: rem-calc(25);
 		}
 	}
 
 	.h2-tagline {
 		text-shadow: 0 0 10px #000;
-		font-size: 20px;
-		margin-bottom: 40px;
+		font-size: rem-calc(20);
+		margin-bottom: rem-calc(40);
 	}
 
 	.button {
@@ -34,7 +34,7 @@
 
 	@include breakpoint(medium) {
 		background-image: url('/img/splash-images/1/splash-medium.jpg');
-		min-height: 600px;
+		min-height: rem-calc(600);
 	}
 }
 
@@ -45,17 +45,24 @@
 	background: rgba(103,128,154,.25) url('/img/splash-images/1/splash-1920x1200.jpg') center/cover no-repeat;
 	background-blend-mode: multiply;
 
+	.prose-wrap {
+		padding: rem-calc(130 0 0 80);
+	}
+
 	.h1-headline {
 		@extend .ff-parisienne;
 		font-size: rem-calc(120);
 		color: #fff;
 		text-shadow: 0 0 rem-calc(20) #000;
+		margin-top: rem-calc(-20);
 
 		span.slogan {
 			@extend .ff-museo-500;
 			display: block;
 			font-size: rem-calc(40);
 			color: #fff;
+			padding-left: rem-calc(80);
+			margin-top: rem-calc(-40);
 		}
 
 		@include breakpoint(1100) {
@@ -72,5 +79,6 @@
 		font-size: rem-calc(26);
 		color: #fff;
 		text-shadow: 0 rem-calc(2) rem-calc(40) #000;
+		padding-left: rem-calc(130);
 	}
 }
