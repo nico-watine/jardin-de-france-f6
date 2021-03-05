@@ -1229,6 +1229,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/splash-images/1/splash-medium.jpg": {
+		"ft": 16384,
+		"iS": 163544,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/splash-images/1/splash-medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/splash-images/1/splash-small.jpg": {
+		"ft": 16384,
+		"iS": 113978,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/splash-images/1/splash-small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/splash/hero-large.png": {
 		"ft": 32768,
 		"iS": 2113214,
@@ -1779,19 +1801,6 @@
 		"oS": 0,
 		"sct": 1
 		},
-	"/scss/pages/index/_old-nav.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/pages/css/_old-nav.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
 	"/scss/pages/index/_splash.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1801,6 +1810,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_splash.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
+	"/scss/pages/index/old/_old.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/index/css/_old.css",
 		"oF": 0,
 		"oS": 0,
 		"sct": 1
@@ -3356,7 +3378,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "https://jardin-de-france-f6.local",
+	"externalServerAddress": "http://jardin-de-france-f6.local",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

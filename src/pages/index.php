@@ -8,6 +8,7 @@ og-image: /img/social-media/milieu/og-image.png
 body-id: index
 body-class: index
 ---
+<!-- Splash @large -->
 <section class="hero-splash grid-x show-for-large" id="welcome">
 	<div class="cell">
 		<div style="padding-left: 80px; padding-top: 130px;">
@@ -34,6 +35,7 @@ body-class: index
 	</div>
 </section>
 
+<!-- Top Nav Bar @small-medium -->
 <div class="hide-for-large" id="splash">
 	<div class="position-fixed-top">
 		<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
@@ -63,29 +65,16 @@ body-class: index
 	</div>
 </div>
 
-<div class="hide-for-large">
-	<section class="splash bgvid-container" id="welcome">
-		<div class="prose white display-flex position-absolute">
-			<div class="row expanded text-center">
-				<div class="px-32 mb-32">
-					<h1 class="cursive">Jardin de France</h1>
-				</div>
-				<div class="columns">
-					<h2 class="h3"><strong>French Antiques and Plants for the Home&nbsp;&amp;&nbsp;Patio</strong></h2>
-					<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden&nbsp;design</h3>
-					<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
-				</div>
-			</div>
+<!-- Splash @small-medium -->
+<section class="small-splash grid-x align-middle grid-padding-x hide-for-large">
+	<div class="cell text-center pt-40">
+		<div class="headline-wrap">
+			<h1 class="h1-headline ff-parisienne text-white">Jardin de France <span class="slogan display-block ff-museo-500">l’esprit français</span></h1>
 		</div>
-
-		<div class="bgScrim">&nbsp;</div>
-
-		<video autoplay playsinline muted loop poster="/img/index/splash/poster.jpg" id="backgroundVideo">
-			<source src="/img/index/splash/splash.webm" type="video/webm">
-			<source src="/img/index/splash/splash.mp4" type="video/mp4">
-		</video>
-	</section>
-</div>
+		<h2 class="h2-tagline ff-museo-500 text-white">Curated for the home &amp; garden</h2>
+		<a href="#" class="button ff-museo-500">Bienvenue</a>
+	</div>
+</section>
 
 <section class="gardensSection" id="gardens" data-magellan-target="gardens">
 	<div class="header">
