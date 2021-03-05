@@ -14104,16 +14104,24 @@ header {
   background-blend-mode: multiply;
 }
 
+.hero-splash .prose-wrap {
+  padding-left: 80px;
+  padding-top: 130px;
+}
+
 .hero-splash .h1-headline {
   font-size: 7.5rem;
   color: #fff;
   text-shadow: 0 0 1.25rem #000;
+  margin-top: -20px;
 }
 
 .hero-splash .h1-headline span.slogan {
   display: block;
   font-size: 2.5rem;
   color: #fff;
+  padding-left: 80px;
+  margin-top: -40px;
 }
 
 @media screen and (min-width: 68.75em) {
@@ -14129,6 +14137,7 @@ header {
   font-size: 1.625rem;
   color: #fff;
   text-shadow: 0 0.125rem 2.5rem #000;
+  padding-left: 130px;
 }
 
 .title-bar {
