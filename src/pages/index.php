@@ -76,30 +76,6 @@ body-class: index
 	</div>
 </section>
 
-<!-- <div class="hide-for-large">
-	<section class="splash bgvid-container" id="welcome">
-		<div class="prose white display-flex position-absolute">
-			<div class="row expanded text-center">
-				<div class="px-32">
-					<h1 class="cursive">Jardin de France</h1>
-				</div>
-				<div class="columns">
-					<h2 class="h3 ff-museo-500"><strong>l’esprit français</strong></h2>
-					<h3 class="h4">Curated for the home &amp; garden</h3>
-					<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="bgScrim">&nbsp;</div>
-
-		<video autoplay playsinline muted loop poster="/img/index/splash/poster.jpg" id="backgroundVideo">
-			<source src="/img/index/splash/splash.webm" type="video/webm">
-			<source src="/img/index/splash/splash.mp4" type="video/mp4">
-		</video>
-	</section>
-</div> -->
-
 <section class="gardensSection" id="gardens" data-magellan-target="gardens">
 	<div class="header">
 		<h2 class="h1 cursive text-center white">The Gardens</h2>
