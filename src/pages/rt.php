@@ -8,3 +8,11 @@ og-image: /img/social-media/milieu/og-image.png
 body-id: index
 body-class: index
 ---
+<section class="round-top-spring-2021-section py-40">
+	<div class="grid-x grid-padding-x">
+		<div class="cell">
+			<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2021 Spring Show <br>Dates &amp; Locations</h3>
+			<p class="p" style="max-width: 320px; margin: 0 auto 32px;">We will be in Round Top starting Friday, March 12, for the Spring Antique Festival. <br>Come visit us at Excess&nbsp;2 and Bader&nbsp;Ranch!</p>
+		</div>
+	</div>
+</section>

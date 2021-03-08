@@ -14295,6 +14295,14 @@ header {
   transition: opacity .2s ease-in;
 }
 
+.round-top-spring-2021-section {
+  background: #eff0f8;
+}
+
+.round-top-spring-2021-section .h3 {
+  font-size: 1.375rem;
+}
+
 .example {
   display: grid;
   -webkit-transition: all .5s;
