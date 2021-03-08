@@ -14325,26 +14325,29 @@ header {
   }
 }
 
-.round-top-spring-2021-section img.excess-field-logo {
-  max-width: 200px;
+.round-top-spring-2021-section .vendor-logos img.excess-field-logo {
   margin-bottom: 32px;
 }
 
 @media print, screen and (min-width: 40em) {
-  .round-top-spring-2021-section img.excess-field-logo {
+  .round-top-spring-2021-section .vendor-logos img.excess-field-logo {
     margin-bottom: 0;
     padding-right: 16px;
   }
 }
 
-.round-top-spring-2021-section img.bader-ranch-logo {
-  max-width: 240px;
-}
-
 @media print, screen and (min-width: 40em) {
-  .round-top-spring-2021-section img.bader-ranch-logo {
+  .round-top-spring-2021-section .vendor-logos img.bader-ranch-logo {
     padding-left: 16px;
   }
+}
+
+.round-top-spring-2021-section img.excess-field-logo {
+  max-width: 200px;
+}
+
+.round-top-spring-2021-section img.bader-ranch-logo {
+  max-width: 240px;
 }
 
 .example {
