@@ -1262,6 +1262,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/vendors/bader-ranch-logo.png": {
+		"ft": 32768,
+		"iS": 4768,
+		"oA": 1,
+		"oAP": "/img/vendors/bader-ranch-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/vendors/excess-field-logo.png": {
 		"ft": 32768,
 		"iS": 2994,
