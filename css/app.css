@@ -14311,17 +14311,32 @@ header {
 
 .round-top-spring-2021-section .p {
   max-width: 20rem;
-  margin: 0 auto 2rem;
+  margin-bottom: 2rem;
+}
+
+@media screen and (min-width: 60em) {
+  .round-top-spring-2021-section .prose-wrap {
+    float: left;
+    padding: 0 32px;
+  }
 }
 
 .round-top-spring-2021-section .vendor-logos {
   max-width: 400px;
   margin: 0 auto;
+  text-align: center;
 }
 
 @media print, screen and (min-width: 40em) {
   .round-top-spring-2021-section .vendor-logos {
     max-width: none;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .round-top-spring-2021-section .vendor-logos {
+    text-align: unset;
+    padding-top: 1.25rem;
   }
 }
 
