@@ -14303,6 +14303,12 @@ header {
   font-size: 1.375rem;
 }
 
+@media screen and (min-width: 32.5em) {
+  .round-top-spring-2021-section .h3 {
+    font-size: 1.75rem;
+  }
+}
+
 .round-top-spring-2021-section .p {
   max-width: 20rem;
   margin: 0 auto 2rem;
