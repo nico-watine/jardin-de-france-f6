@@ -78,6 +78,20 @@ body-class: index
 	</div>
 </section>
 
+<!-- Round Top Spring 2021 Banner -->
+<section class="round-top-spring-2021-section py-40">
+	<div class="grid-x grid-padding-x">
+		<div class="cell">
+			<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2021 Spring Show <br>Dates &amp; Locations</h3>
+			<p class="p">We will be in Round Top starting Friday, March 12, for the Spring Antique Festival. <br>Come visit us at Excess&nbsp;2 and Bader&nbsp;Ranch!</p>
+			<div class="vendor-logos text-center">
+				<img class="excess-field-logo" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Excess Field Logo">
+				<img class="bader-ranch-logo" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Bader Ranch Logo">
+			</div>
+		</div>
+	</div>
+</section>
+
 <section class="gardensSection" id="gardens" data-magellan-target="gardens">
 	<div class="header">
 		<h2 class="h1 cursive text-center white">The Gardens</h2>
