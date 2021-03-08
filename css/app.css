@@ -14303,6 +14303,19 @@ header {
   font-size: 1.375rem;
 }
 
+.round-top-spring-2021-section .p {
+  max-width: 20rem;
+  margin: 0 auto 2rem;
+}
+
+.round-top-spring-2021-section img.excess-field-logo {
+  max-width: 200px;
+}
+
+.round-top-spring-2021-section img.bader-ranch-logo {
+  max-width: 240px;
+}
+
 .example {
   display: grid;
   -webkit-transition: all .5s;

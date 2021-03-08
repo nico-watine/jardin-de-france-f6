@@ -4,4 +4,17 @@
 	.h3 {
 		font-size: $h3;
 	}
+
+	.p {
+		max-width: rem-calc(320);
+		margin: 0 auto rem-calc(32);
+	}
+
+	img.excess-field-logo {
+		max-width: 200px;
+	}
+
+	img.bader-ranch-logo {
+		max-width: 240px;
+	}
 }
