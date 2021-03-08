@@ -85,8 +85,8 @@ body-class: index
 			<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2021 Spring Show <br>Dates &amp; Locations</h3>
 			<p class="p">We will be in Round Top starting Friday, March 12, for the Spring Antique Festival. <br>Come visit us at Excess&nbsp;2 and Bader&nbsp;Ranch!</p>
 			<div class="vendor-logos text-center">
-				<img class="excess-field-logo" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Excess Field Logo">
-				<img class="bader-ranch-logo" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Bader Ranch Logo">
+				<a href="https://excessfield.com" target="_blank"><img class="excess-field-logo" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Visit Excess Field Website"></a>
+				<a href="https://www.roundtopvendors.com" target="_blank"><img class="bader-ranch-logo" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Visit Bader Ranch Website"></a>
 			</div>
 		</div>
 	</div>

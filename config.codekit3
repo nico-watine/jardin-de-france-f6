@@ -122,12 +122,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/dist": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/dist",
-		"oF": 0
-		},
 	"/fonts/nav/nav.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -1256,6 +1250,17 @@
 		"iS": 2113214,
 		"oA": 1,
 		"oAP": "/img/splash/hero-large.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/vendors/bader-ranch-logo.png": {
+		"ft": 32768,
+		"iS": 4768,
+		"oA": 1,
+		"oAP": "/img/vendors/bader-ranch-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
