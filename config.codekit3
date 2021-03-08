@@ -1262,6 +1262,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/vendors/excess-field-logo.png": {
+		"ft": 32768,
+		"iS": 2994,
+		"oA": 1,
+		"oAP": "/img/vendors/excess-field-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/js/app-min.js": {
 		"bF": 0,
 		"ft": 64,
