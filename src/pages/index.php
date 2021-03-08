@@ -73,13 +73,13 @@ body-class: index
 		</div>
 		<h2 class="h2-tagline ff-museo-500 text-white">Curated for the home &amp; garden</h2>
 		<div data-magellan>
-			<a href="#gardens" class="button ff-museo-500">Bienvenue</a>
+			<a href="#round-top-spring-2021-section" class="button ff-museo-500">Bienvenue</a>
 		</div>
 	</div>
 </section>
 
 <!-- Round Top Spring 2021 Banner -->
-<section class="round-top-spring-2021-section py-40">
+<section class="round-top-spring-2021-section py-40" id="round-top-spring-2021-section">
 	<div class="grid-x grid-padding-x">
 		<div class="cell">
 			<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2021 Spring Show <br>Dates &amp; Locations</h3>
