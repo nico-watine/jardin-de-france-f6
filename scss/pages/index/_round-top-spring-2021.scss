@@ -11,33 +11,51 @@
 
 	.p {
 		max-width: rem-calc(320);
-		margin: 0 auto rem-calc(32);
+		margin-bottom: rem-calc(32);
+	}
+
+	.prose-wrap {
+		@include breakpoint(960) {
+			float: left;
+			padding: 0 32px;
+		}
 	}
 
 	.vendor-logos {
 		max-width: 400px;
 		margin: 0 auto;
+		text-align: center;
 
 		@include breakpoint(medium) {
 			max-width: none;
+		}
+
+		@include breakpoint(960) {
+			text-align: unset;
+			padding-top: rem-calc(20);
+		}
+
+		img.excess-field-logo {
+			margin-bottom: 32px;
+
+			@include breakpoint(medium) {
+				margin-bottom: 0;
+				padding-right: 16px;
+			}
+		}
+
+		img.bader-ranch-logo {
+			@include breakpoint(medium) {
+				padding-left: 16px;
+			}
 		}
 	}
 
 	img.excess-field-logo {
 		max-width: 200px;
-		margin-bottom: 32px;
-
-		@include breakpoint(medium) {
-			margin-bottom: 0;
-			padding-right: 16px;
-		}
 	}
 
 	img.bader-ranch-logo {
 		max-width: 240px;
-
-		@include breakpoint(medium) {
-			padding-left: 16px;
-		}
 	}
 }
