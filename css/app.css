@@ -14204,6 +14204,9 @@ header {
 }
 
 @media screen and (min-width: 40em) and (max-width: 63.99875em) {
+  #main-menu.top-bar ul {
+    background-color: transparent;
+  }
   #main-menu.top-bar .logo-wrap {
     position: absolute;
     top: 0;
@@ -14219,6 +14222,8 @@ header {
     position: absolute;
     top: 0.5rem;
     left: 0.5rem;
+    display: none;
+    visibility: hidden;
   }
   #main-menu.top-bar .menu a {
     color: #fff;

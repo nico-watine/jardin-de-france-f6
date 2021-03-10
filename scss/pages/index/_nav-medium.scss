@@ -1,5 +1,9 @@
 .top-bar#main-menu {
 	@include breakpoint(medium only) {
+		ul {
+			background-color: transparent;
+		}
+
 		.logo-wrap {
 			position: absolute;
 			top: 0;
@@ -16,6 +20,8 @@
 				position: absolute;
 				top: rem-calc(8);
 				left: rem-calc(8);
+				display: none;
+				visibility: hidden;
 			}
 		}
 
