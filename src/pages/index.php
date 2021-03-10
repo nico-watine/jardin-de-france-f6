@@ -82,7 +82,7 @@ body-class: index
 </section>
 
 <!-- Round Top Spring 2021 Banner -->
-<section class="round-top-spring-2021-section py-40" id="round-top-spring-2021">
+<section class="round-top-spring-2021-section py-40" data-magellan-target="round-top-spring-2021" id="round-top-spring-2021">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x">
 			<div class="cell">
