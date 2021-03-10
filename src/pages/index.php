@@ -56,11 +56,12 @@ body-class: index
 				</div>
 			</div>
 			<ul class="menu vertical medium-horizontal" data-magellan data-deep-linking="true">
+				<li><a class="magellan-link" href="#location">Location</a></li>
 				<li><a class="magellan-link" href="#gardens"><span>The </span>Gardens</a></li>
 				<li><a class="magellan-link" href="#conservatory"><span>The </span>Conservatory</a></li>
 				<li><a class="magellan-link" href="#interior-gallery"><span>The </span>Interior Gallery</a></li>
 				<li><a class="magellan-link" href="#about">Our Story</a></li>
-				<li><a class="magellan-link" href="#location">Location</a></li>
+				<!-- <li><a class="magellan-link" href="#location">Location</a></li> -->
 			</ul>
 		</div>
 	</div>
