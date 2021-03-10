@@ -14209,10 +14209,10 @@ header {
     top: 0;
     left: 0;
   }
-  #main-menu.top-bar .logo-wrap img {
+  #main-menu.top-bar .logo-wrap img.logo-pot {
     max-width: 55px;
   }
-  #main-menu.top-bar .logo-wrap h1 {
+  #main-menu.top-bar .logo-wrap .wordmark {
     text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
     color: #fefefe;
     font-size: 3.125rem;
