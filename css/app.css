@@ -14204,22 +14204,37 @@ header {
 }
 
 @media screen and (min-width: 40em) and (max-width: 63.99875em) {
+  #main-menu.top-bar ul {
+    background-color: transparent;
+  }
   #main-menu.top-bar .logo-wrap {
     position: absolute;
     top: 0;
     left: 0;
   }
-  #main-menu.top-bar .logo-wrap img {
+  #main-menu.top-bar .logo-wrap img.logo-pot {
     max-width: 55px;
   }
-  #main-menu.top-bar .logo-wrap h1 {
+  #main-menu.top-bar .logo-wrap .wordmark {
     text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
     color: #fefefe;
     font-size: 3.125rem;
     position: absolute;
     top: 0.5rem;
     left: 0.5rem;
+    display: none;
+    visibility: hidden;
   }
+}
+
+@media screen and (min-width: 40em) and (max-width: 63.99875em) and (min-width: 45em) {
+  #main-menu.top-bar .logo-wrap .wordmark {
+    display: block;
+    visibility: visible;
+  }
+}
+
+@media screen and (min-width: 40em) and (max-width: 63.99875em) {
   #main-menu.top-bar .menu a {
     color: #fff;
     font-weight: bold;
