@@ -22,6 +22,11 @@
 				left: rem-calc(8);
 				display: none;
 				visibility: hidden;
+
+				@include breakpoint(720) {
+					display: block;
+					visibility: visible;
+				}
 			}
 		}
 
