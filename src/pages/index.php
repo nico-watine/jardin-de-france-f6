@@ -26,7 +26,7 @@ body-class: index
 				<ul class="menu align-right" data-magellan data-deep-linking="true" data-offset="24">
 					<li><a href="#round-top-spring-2021">Round Top</a></li>
 					<li><a href="#location">Location</a></li>
-					<li><a href="#round-top-spring-2021">The Gardens</a></li>
+					<li><a href="#gardens">The Gardens</a></li>
 					<li><a href="#conservatory">The Conservatory</a></li>
 					<li><a href="#interior-gallery">The Interior Gallery</a></li>
 					<li><a href="#about">Our Story</a></li>
