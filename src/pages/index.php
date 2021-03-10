@@ -276,25 +276,6 @@ body-class: index
 	</div>
 </section>
 
-<!-- <section class="location-banner" id="location" data-magellan-target="location">
-	<div class="row">
-		<div class="medium-11 columns medium-push-1">
-			<div class="prose white" style="max-width: 370px; width: 100%;">
-				<h2 class="h1 cursive">Location</h2>
-				<p class="h4 mb-32">We are conveniently located 2 blocks south of Washington Ave at Durham Dr</p>
-				<div class="contact-info p-16">
-					<address class="h4"><strong><a href="https://goo.gl/maps/NtUtThFb2JA2" target="_blank">4819 Blossom St. <br>
-					Houston, TX <br>
-					77007</a></strong></address>
-					<span class="h4 display-block"><strong>Tue - Sat | 10 - 5</strong></span>
-					<p class="h4"><strong><a href="mailto:shop@jdftx.com">Shop@JDFTX.com</a></strong></p>
-					<span class="h4"><strong>832-651-3136</strong></span>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-
 <footer class="py-40">
 	<div class="socialMediaLinks text-center my-16">
 		<a href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
