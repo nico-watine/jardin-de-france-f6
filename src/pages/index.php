@@ -30,7 +30,6 @@ body-class: index
 					<li><a href="#conservatory">The Conservatory</a></li>
 					<li><a href="#interior-gallery">The Interior Gallery</a></li>
 					<li><a href="#about">Our Story</a></li>
-					<!-- <li><a href="#location">Location</a></li> -->
 				</ul>
 			</div>
 		</div>
@@ -63,7 +62,6 @@ body-class: index
 				<li><a class="magellan-link" href="#conservatory"><span>The </span>Conservatory</a></li>
 				<li><a class="magellan-link" href="#interior-gallery"><span>The </span>Interior Gallery</a></li>
 				<li><a class="magellan-link" href="#about">Our Story</a></li>
-				<!-- <li><a class="magellan-link" href="#location">Location</a></li> -->
 			</ul>
 		</div>
 	</div>
