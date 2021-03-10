@@ -276,7 +276,7 @@ body-class: index
 	</div>
 </section>
 
-<footer class="py-40">
+<footer class="py-40" style="background: #fefefe;">
 	<div class="socialMediaLinks text-center my-16">
 		<a href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
 		<a class="mx-16" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
