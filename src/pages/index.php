@@ -57,6 +57,7 @@ body-class: index
 				</div>
 			</div>
 			<ul class="menu vertical medium-horizontal" data-magellan data-deep-linking="true">
+				<li><a class="magellan-link" href="#round-top-spring-2021">Round Top</a></li>
 				<li><a class="magellan-link" href="#location">Location</a></li>
 				<li><a class="magellan-link" href="#gardens"><span>The </span>Gardens</a></li>
 				<li><a class="magellan-link" href="#conservatory"><span>The </span>Conservatory</a></li>
