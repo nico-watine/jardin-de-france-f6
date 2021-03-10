@@ -25,7 +25,7 @@ body-class: index
 				</div>
 				<ul class="menu align-right" data-magellan data-deep-linking="true" data-offset="24">
 					<li><a href="#location">Location</a></li>
-					<li><a href="#round-top-spring-2021-section">The Gardens</a></li>
+					<li><a href="#round-top-spring-2021">The Gardens</a></li>
 					<li><a href="#conservatory">The Conservatory</a></li>
 					<li><a href="#interior-gallery">The Interior Gallery</a></li>
 					<li><a href="#about">Our Story</a></li>
@@ -75,13 +75,13 @@ body-class: index
 		</div>
 		<h2 class="h2-tagline ff-museo-500 text-white">Curated for the home &amp; garden</h2>
 		<div data-magellan>
-			<a href="#round-top-spring-2021-section" class="button ff-museo-500">Bienvenue</a>
+			<a href="#round-top-spring-2021" class="button ff-museo-500">Bienvenue</a>
 		</div>
 	</div>
 </section>
 
 <!-- Round Top Spring 2021 Banner -->
-<section class="round-top-spring-2021-section py-40" id="round-top-spring-2021-section">
+<section class="round-top-spring-2021-section py-40" id="round-top-spring-2021">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x">
 			<div class="cell">
