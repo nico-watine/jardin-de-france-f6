@@ -52,8 +52,8 @@ body-class: index
 		<div class="top-bar align-right text-right" id="main-menu">
 			<div class="top-bar-left show-for-medium">
 				<div class="logo-wrap" data-magellan>
-					<a class="magellan-link" href="#small-splash"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-					<a class="magellan-link" href="#small-splash"><h1 class="cursive">JdF</h1></a>
+					<a class="magellan-link" href="#small-splash"><img src="/img/assets/logo/logo.png" class="logo-pot" alt="Jardin de France Logo Icon"></a>
+					<a class="magellan-link" href="#small-splash"><h1 class="wordmark cursive">JdF</h1></a>
 				</div>
 			</div>
 			<ul class="menu vertical medium-horizontal" data-magellan data-deep-linking="true">
