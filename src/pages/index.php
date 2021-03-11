@@ -216,12 +216,12 @@ body-class: index
 	<br>
 </section>
 
-<!-- <section class="roundTop-section">
+<section class="roundTop-section">
 	<div class="row">
 		<div class="columns">
 			<div class="prose">
 				<h2 class="cursive white"><span class="h4 display-block"><strong>The</strong></span> Round Top Antique Show</h2>
-				<h3 class="white">Spring 2019 Booth | <strong>Marburger Farm</strong></h3>
+				<!-- <h3 class="white">Spring 2019 Booth | <strong>Marburger Farm</strong></h3> -->
 			</div>
 		</div>
 	</div>
@@ -258,7 +258,7 @@ body-class: index
 			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-10.jpg" alt="Jardin de France Marburger Farm booth">
 		</div>
 	</div>
-</section> -->
+</section>
 
 <section class="about py-40" id="about" data-magellan-target="about">
 	<div class="row">
