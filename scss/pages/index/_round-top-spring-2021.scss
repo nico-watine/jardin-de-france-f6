@@ -35,20 +35,20 @@
 			padding-top: rem-calc(20);
 		}
 
-		img.excess-field-logo {
-			@include breakpoint(medium) {
-				padding-left: 16px;
-			}
-		}
+		// img.excess-field-logo {
+		// 	@include breakpoint(medium) {
+		// 		padding-left: 16px;
+		// 	}
+		// }
 
-		img.bader-ranch-logo {
-			margin-bottom: 32px;
+		// img.bader-ranch-logo {
+		// 	margin-bottom: 32px;
 
-			@include breakpoint(medium) {
-				margin-bottom: 0;
-				padding-right: 16px;
-			}
-		}
+		// 	@include breakpoint(medium) {
+		// 		margin-bottom: 0;
+		// 		padding-right: 16px;
+		// 	}
+		// }
 	}
 
 	img.excess-field-logo {

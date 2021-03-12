@@ -91,12 +91,12 @@ body-class: index
 				</div>
 				<div class="vendor-logos">
 					<div class="display-inline-block text-center">
-						<a href="https://www.roundtopvendors.com" target="_blank"><img class="display-block bader-ranch-logo" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Visit Bader Ranch Website"></a>
-						<a href="#" class="button ff-museo-500">Directions</a>
+						<a href="https://www.roundtopvendors.com" target="_blank"><img class="display-block bader-ranch-logo mb-16" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Visit Bader Ranch Website"></a>
+						<a href="#" class="large button ff-museo-500">Directions</a>
 					</div>
 					<div class="display-inline-block text-center">
-						<a href="https://excessfield.com" target="_blank"><img class="display-block excess-field-logo" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Visit Excess Field Website"></a>
-						<a href="#" class="button ff-museo-500">Directions</a>
+						<a href="https://excessfield.com" target="_blank"><img class="display-block excess-field-logo mb-16" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Visit Excess Field Website"></a>
+						<a href="#" class="large button ff-museo-500">Directions</a>
 					</div>
 				</div>
 			</div>
