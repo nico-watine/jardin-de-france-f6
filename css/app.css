@@ -14305,7 +14305,7 @@ body {
 @media screen and (min-width: 60em) {
   .round-top-spring-2021-section .prose-wrap {
     float: left;
-    padding: 0 32px;
+    padding: 0 1rem 0 2rem;
   }
 }
 
