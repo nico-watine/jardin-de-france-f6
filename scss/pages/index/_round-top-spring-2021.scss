@@ -61,18 +61,47 @@
 
 	.logo-wrap#bader-ranch {
 		margin-bottom: rem-calc(64);
+
+		@include breakpoint(medium) {
+			margin-bottom: 0;
+			padding: 0 rem-calc(32);
+		}
+
+		@include breakpoint(960) {
+			padding: 0;
+		}
 	}
 
 	.logo-wrap#excess-field {
 		margin-bottom: rem-calc(32);
-	}
 
-	.logo-wrap#bader-ranch,
-	.logo-wrap#excess-field {
 		@include breakpoint(medium) {
 			margin-bottom: 0;
+			padding: 0 rem-calc(32);
+		}
+
+		@include breakpoint(960) {
+			padding: 0 0 0 rem-calc(32);
 		}
 	}
+
+	// .logo-wrap#bader-ranch,
+	// .logo-wrap#excess-field {
+	// 	@include breakpoint(medium) {
+	// 		margin-bottom: 0;
+	// 		padding: 0 rem-calc(32);
+	// 	}
+	// }
+
+	// .logo-wrap {
+	// 	@include breakpoint(medium) {
+	// 		padding: 0 rem-calc(32);
+	// 	}
+
+	// 	@include breakpoint(960) {
+	// 		padding: 0;
+	// 	}
+	// }
 
 	img.excess-field-logo {
 		max-width: 200px;
