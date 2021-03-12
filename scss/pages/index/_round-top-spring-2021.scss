@@ -15,6 +15,10 @@
 		@include breakpoint(520) {
 			max-width: rem-calc(420);
 		}
+
+		@include breakpoint(960) {
+			max-width: rem-calc(320);
+		}
 	}
 
 	.prose-wrap {
@@ -64,7 +68,7 @@
 		}
 
 		@include breakpoint(960) {
-			padding: 0;
+			padding: 0 rem-calc(32) 0 0;
 		}
 	}
 
@@ -73,11 +77,13 @@
 
 		@include breakpoint(medium) {
 			margin-bottom: 0;
-			padding: 0 rem-calc(32);
-		}
+			position: relative;
+			width: 200px;
 
-		@include breakpoint(960) {
-			padding: 0 0 0 rem-calc(32);
+			img {
+				position: absolute;
+				top: -80px;
+			}
 		}
 	}
 

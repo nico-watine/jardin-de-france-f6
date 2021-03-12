@@ -14304,6 +14304,12 @@ body {
   }
 }
 
+@media screen and (min-width: 60em) {
+  .round-top-spring-2021-section .p {
+    max-width: 20rem;
+  }
+}
+
 .round-top-spring-2021-section .prose-wrap {
   margin-bottom: 2rem;
 }
@@ -14365,7 +14371,7 @@ body {
 
 @media screen and (min-width: 60em) {
   .round-top-spring-2021-section #bader-ranch.logo-wrap {
-    padding: 0;
+    padding: 0 2rem 0 0;
   }
 }
 
@@ -14376,13 +14382,12 @@ body {
 @media print, screen and (min-width: 40em) {
   .round-top-spring-2021-section #excess-field.logo-wrap {
     margin-bottom: 0;
-    padding: 0 2rem;
+    position: relative;
+    width: 200px;
   }
-}
-
-@media screen and (min-width: 60em) {
-  .round-top-spring-2021-section #excess-field.logo-wrap {
-    padding: 0 0 0 2rem;
+  .round-top-spring-2021-section #excess-field.logo-wrap img {
+    position: absolute;
+    top: -80px;
   }
 }
 
