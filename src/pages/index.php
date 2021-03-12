@@ -87,11 +87,17 @@ body-class: index
 			<div class="cell">
 				<div class="prose-wrap">
 					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2021 Spring Show <br>Dates &amp; Locations</h3>
-					<p class="p float-center">We will be in Round Top starting Friday, March 12, for the Spring Antique Festival. <br>Come visit us at Excess&nbsp;2 and Bader&nbsp;Ranch!</p>
+					<p class="p float-center">We will be in Round Top starting Friday, March 12, for the Spring Antique Festival. Come visit us at Excess&nbsp;Field&nbsp;2 and our newest location, Bader&nbsp;Ranch!</p>
 				</div>
 				<div class="vendor-logos">
-					<a href="https://excessfield.com" target="_blank"><img class="excess-field-logo" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Visit Excess Field Website"></a>
-					<a href="https://www.roundtopvendors.com" target="_blank"><img class="bader-ranch-logo" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Visit Bader Ranch Website"></a>
+					<div class="display-inline-block text-center logo-wrap" id="bader-ranch">
+						<!-- <a href="https://www.roundtopvendors.com" target="_blank"> --><img class="display-block bader-ranch-logo mb-16" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Bader Ranch Logo"><!-- </a> -->
+						<a href="https://goo.gl/maps/W97vj8vEEpqNhE5p7" class="large button ff-museo-500">Directions</a>
+					</div>
+					<div class="display-inline-block text-center logo-wrap" id="excess-field">
+						<!-- <a href="https://excessfield.com" target="_blank"> --><img class="display-block excess-field-logo mb-16" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Excess Field Logo"><!-- </a> -->
+						<a href="https://goo.gl/maps/ZioJvo87NtoQZBa5A" class="large button ff-museo-500">Directions</a>
+					</div>
 				</div>
 			</div>
 		</div>

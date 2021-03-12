@@ -14296,13 +14296,34 @@ body {
 
 .round-top-spring-2021-section .p {
   max-width: 20rem;
+}
+
+@media screen and (min-width: 32.5em) {
+  .round-top-spring-2021-section .p {
+    max-width: 26.25rem;
+  }
+}
+
+.round-top-spring-2021-section .prose-wrap {
   margin-bottom: 2rem;
 }
 
 @media screen and (min-width: 60em) {
   .round-top-spring-2021-section .prose-wrap {
     float: left;
-    padding: 0 32px;
+    padding: 0 1rem 0 2rem;
+  }
+}
+
+@media screen and (min-width: 62.5em) {
+  .round-top-spring-2021-section .prose-wrap {
+    padding: 0 2rem;
+  }
+}
+
+@media screen and (min-width: 68.75em) {
+  .round-top-spring-2021-section .prose-wrap {
+    padding: 0 2rem 0 4rem;
   }
 }
 
@@ -14325,20 +14346,43 @@ body {
   }
 }
 
-.round-top-spring-2021-section .vendor-logos img.excess-field-logo {
-  margin-bottom: 32px;
-}
-
 @media print, screen and (min-width: 40em) {
-  .round-top-spring-2021-section .vendor-logos img.excess-field-logo {
+  .round-top-spring-2021-section .logo-wrap {
     margin-bottom: 0;
-    padding-right: 16px;
   }
 }
 
+.round-top-spring-2021-section #bader-ranch.logo-wrap {
+  margin-bottom: 4rem;
+}
+
 @media print, screen and (min-width: 40em) {
-  .round-top-spring-2021-section .vendor-logos img.bader-ranch-logo {
-    padding-left: 16px;
+  .round-top-spring-2021-section #bader-ranch.logo-wrap {
+    margin-bottom: 0;
+    padding: 0 2rem;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .round-top-spring-2021-section #bader-ranch.logo-wrap {
+    padding: 0;
+  }
+}
+
+.round-top-spring-2021-section #excess-field.logo-wrap {
+  margin-bottom: 2rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .round-top-spring-2021-section #excess-field.logo-wrap {
+    margin-bottom: 0;
+    padding: 0 2rem;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .round-top-spring-2021-section #excess-field.logo-wrap {
+    padding: 0 0 0 2rem;
   }
 }
 
