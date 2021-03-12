@@ -11,10 +11,12 @@
 
 	.p {
 		max-width: rem-calc(320);
-		margin-bottom: rem-calc(32);
+		// margin-bottom: rem-calc(32);
 	}
 
 	.prose-wrap {
+		margin-bottom: rem-calc(32);
+
 		@include breakpoint(960) {
 			float: left;
 			padding: 0 32px;
