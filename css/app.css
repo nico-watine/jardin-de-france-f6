@@ -14026,36 +14026,6 @@ body {
   }
 }
 
-header {
-  background: #697b99;
-  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
-          box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
-  height: 55px;
-  width: 100%;
-  position: fixed;
-  z-index: 100;
-}
-
-@media screen and (min-width: 751px) {
-  .logo h1 {
-    display: none;
-    visibility: hidden;
-  }
-}
-
-@media screen and (min-width: 920px) {
-  .logo h1 {
-    display: block;
-    visibility: visible;
-  }
-}
-
-@media only screen and (min-width: 40em) {
-  .logo h1 {
-    font-size: 70px;
-  }
-}
-
 .small-splash {
   background: rgba(0, 0, 0, 0.25) url("/img/splash-images/1/splash-small.jpg") center/cover no-repeat;
   background-blend-mode: multiply;
