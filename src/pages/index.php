@@ -90,8 +90,8 @@ body-class: index
 					<p class="p float-center">We will be in Round Top starting Friday, March 12, for the Spring Antique Festival. <br>Come visit us at Excess&nbsp;2 and Bader&nbsp;Ranch!</p>
 				</div>
 				<div class="vendor-logos">
-					<a href="https://excessfield.com" target="_blank"><img class="excess-field-logo" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Visit Excess Field Website"></a>
 					<a href="https://www.roundtopvendors.com" target="_blank"><img class="bader-ranch-logo" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Visit Bader Ranch Website"></a>
+					<a href="https://excessfield.com" target="_blank"><img class="excess-field-logo" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Visit Excess Field Website"></a>
 				</div>
 			</div>
 		</div>
