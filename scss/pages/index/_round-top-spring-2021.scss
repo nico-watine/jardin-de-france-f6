@@ -11,6 +11,10 @@
 
 	.p {
 		max-width: rem-calc(320);
+
+		@include breakpoint(520) {
+			max-width: rem-calc(420);
+		}
 	}
 
 	.prose-wrap {

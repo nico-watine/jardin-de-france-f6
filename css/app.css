@@ -14298,6 +14298,12 @@ body {
   max-width: 20rem;
 }
 
+@media screen and (min-width: 32.5em) {
+  .round-top-spring-2021-section .p {
+    max-width: 26.25rem;
+  }
+}
+
 .round-top-spring-2021-section .prose-wrap {
   margin-bottom: 2rem;
 }
