@@ -53,12 +53,25 @@
 		// }
 	}
 
+	.logo-wrap {
+		@include breakpoint(medium) {
+			margin-bottom: 0;
+		}
+	}
+
 	.logo-wrap#bader-ranch {
 		margin-bottom: rem-calc(64);
 	}
 
 	.logo-wrap#excess-field {
 		margin-bottom: rem-calc(32);
+	}
+
+	.logo-wrap#bader-ranch,
+	.logo-wrap#excess-field {
+		@include breakpoint(medium) {
+			margin-bottom: 0;
+		}
 	}
 
 	img.excess-field-logo {
