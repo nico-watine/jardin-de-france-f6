@@ -162,6 +162,22 @@
 		"oAP": "/fonts/nav/nav.woff",
 		"oF": 0
 		},
+	"/fonts/parisienne/parisienne-v8/parisienne.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/parisienne/parisienne-v8/parisienne.woff",
+		"oF": 0
+		},
+	"/fonts/parisienne/parisienne-v8/parisienne.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/parisienne/parisienne-v8/parisienne.woff2",
+		"oF": 0
+		},
 	"/fonts/slick/slick.eot": {
 		"cB": 0,
 		"ft": 8192,
