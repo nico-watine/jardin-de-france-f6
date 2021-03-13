@@ -183,7 +183,7 @@ body-class: index
 			<div class="prose text-center">
 				<p class="h3">There is an even larger selection of indoor plants available at our online plant shop.</p>
 				<br>
-				<a href="https://houstoninteriorplants.com" target="_blank" class="button"><strong>www.HoustonInteriorPlants.com</strong></a>
+				<a href="https://houstoninteriorplants.com" target="_blank" class="button ff-museo-500">www.HoustonInteriorPlants.com</a>
 			</div>
 		</div>
 	</div>
