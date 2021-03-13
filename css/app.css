@@ -12570,6 +12570,13 @@ ol.list-upper-roman {
 }
 
 @font-face {
+  font-family: 'Parisienne';
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/fonts/parisienne/parisienne-v8/parisienne.woff2") format("woff2"), url("/fonts/parisienne/parisienne-v8/parisienne.woff") format("woff");
+}
+
+@font-face {
   font-family: 'nav';
   src: url("/fonts/nav/nav.eot");
   /* IE9 Compat Modes */
