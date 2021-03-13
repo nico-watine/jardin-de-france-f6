@@ -5,7 +5,6 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
 @import url("https://use.typekit.net/yrz5wte.css");
 @media print, screen and (min-width: 40em) {
   .reveal.large, .reveal.small, .reveal.tiny, .reveal {
@@ -12568,6 +12567,13 @@ ol.list-upper-roman {
 .long-delay {
   -webkit-animation-delay: 700ms !important;
           animation-delay: 700ms !important;
+}
+
+@font-face {
+  font-family: 'Parisienne';
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/fonts/parisienne/parisienne-v8/parisienne.woff2") format("woff2"), url("/fonts/parisienne/parisienne-v8/parisienne.woff") format("woff");
 }
 
 @font-face {
