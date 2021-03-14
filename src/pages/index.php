@@ -39,7 +39,7 @@ body-class: index
 <!-- Top Nav Bar @small-medium -->
 <div class="hide-for-large" id="splash">
 	<div class="position-fixed-top">
-		<div class="title-bar align-right" data-responsive-toggle="main-menu" data-hide-for="medium">
+		<div class="title-bar align-right" data-responsive-toggle="main-menu">
 			<div class="logo" data-magellan>
 				<a class="magellan-link" href="#small-splash"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
 				<a class="magellan-link" href="#small-splash"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
