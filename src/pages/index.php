@@ -23,7 +23,7 @@ body-class: index
 					<a href="#welcome" data-magellan-target="welcome"><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
 					<a href="#welcome" data-magellan-target="welcome"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 				</div>
-				<ul class="menu align-right" data-magellan data-deep-linking="true" data-offset="24">
+				<ul class="menu align-right" data-magellan data-offset="24">
 					<li><a href="#round-top-spring-2021">Round Top</a></li>
 					<li><a href="#location">Location</a></li>
 					<li><a href="#gardens">The Gardens</a></li>
@@ -55,7 +55,7 @@ body-class: index
 					<a class="magellan-link" href="#small-splash"><h1 class="wordmark cursive">JdF</h1></a>
 				</div>
 			</div>
-			<ul class="menu vertical medium-horizontal" data-magellan data-deep-linking="true">
+			<ul class="menu vertical medium-horizontal" data-magellan>
 				<li><a class="magellan-link" href="#round-top-spring-2021">Round Top</a></li>
 				<li><a class="magellan-link" href="#location">Location</a></li>
 				<li><a class="magellan-link" href="#gardens"><span>The </span>Gardens</a></li>
