@@ -55,7 +55,7 @@ body-class: index
 					<a class="magellan-link" href="#small-splash"><h1 class="wordmark cursive">JdF</h1></a>
 				</div>
 			</div>
-			<ul class="menu vertical medium-horizontal" data-magellan>
+			<ul class="menu vertical medium-horizontal" data-magellan data-animation-easing="swing">
 				<li><a class="magellan-link" href="#round-top-spring-2021">Round Top</a></li>
 				<li><a class="magellan-link" href="#location">Location</a></li>
 				<li><a class="magellan-link" href="#gardens"><span>The </span>Gardens</a></li>
