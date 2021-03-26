@@ -10,13 +10,3 @@
 		  url('/fonts/parisienne/parisienne-v8/parisienne.woff2') format('woff2'),
 		  url('/fonts/parisienne/parisienne-v8/parisienne.woff') format('woff');
 }
-
-@font-face {
-	font-family: 'nav';
-	src: url('/fonts/nav/nav.eot');
-	/* IE9 Compat Modes */
-	src: url('/fonts/nav/nav.eot?#iefix') format('embedded-opentype'), url('/fonts/nav/nav.woff') format('woff'), url('/fonts/nav/nav.ttf') format('truetype'), url('/fonts/nav/nav.svg#1da3456e837ae6ef244abd56d21c2bc6') format('svg');
-	/* Legacy iOS */
-	font-style: normal;
-	font-weight: 400;
-}
