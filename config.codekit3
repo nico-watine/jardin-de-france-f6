@@ -87,6 +87,47 @@
 		"oAP": "/_ignores/jardin-de-france-f6.sublime-workspace",
 		"oF": 0
 		},
+	"/_ignores/round-top/Bader Ranch Graphic.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_ignores/round-top/Bader Ranch Graphic.psd",
+		"oF": 0
+		},
+	"/_ignores/round-top/Bader Ranch.jpg": {
+		"ft": 16384,
+		"iS": 245801,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/_ignores/round-top/Bader Ranch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_ignores/round-top/Bader-Ranch-Graphic.jpg": {
+		"ft": 16384,
+		"iS": 77834,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/_ignores/round-top/Bader-Ranch-Graphic.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_ignores/round-top/bg-img.png": {
+		"ft": 32768,
+		"iS": 237044,
+		"oA": 1,
+		"oAP": "/_ignores/round-top/bg-img.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_ignores/splash-background-img.jpg": {
 		"ft": 16384,
 		"iS": 2458227,
@@ -1242,6 +1283,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/vendors/bader-ranch-barn.jpg": {
+		"ft": 16384,
+		"iS": 76611,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/vendors/bader-ranch-barn.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/vendors/bader-ranch-logo.png": {
