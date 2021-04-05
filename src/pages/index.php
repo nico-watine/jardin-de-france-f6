@@ -86,8 +86,8 @@ body-class: index
 		<div class="grid-x grid-padding-x">
 			<div class="cell">
 				<div class="prose-wrap">
-					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2021 Spring Show <br>Dates &amp; Locations</h3>
-					<p class="p float-center">We will be in Round Top starting Friday, March 12, for the Spring Antique Festival. Come visit us at Excess&nbsp;Field&nbsp;2 and our newest location, Bader&nbsp;Ranch!</p>
+					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2021 Fall Show <br>Dates &amp; Locations</h3>
+					<p class="p float-center">We will be in Round Top starting on October 19 for the Fall Antique Festival. Come visit us at Excess&nbsp;Field&nbsp;2 and our newest location, Bader&nbsp;Ranch!</p>
 				</div>
 				<div class="vendor-logos">
 					<div class="display-inline-block text-center logo-wrap" id="bader-ranch">
