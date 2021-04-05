@@ -91,12 +91,14 @@ body-class: index
 				</div>
 				<div class="vendor-logos">
 					<div class="display-inline-block text-center logo-wrap" id="bader-ranch">
-						<!-- <a href="https://www.roundtopvendors.com" target="_blank"> --><img class="display-block bader-ranch-logo mb-16" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Bader Ranch Logo"><!-- </a> -->
-						<a href="https://goo.gl/maps/GzRYnQRtXnGazxSY8" class="large button ff-museo-500">Directions</a>
+						<img class="display-block bader-ranch-logo mb-16" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Bader Ranch Logo">
+						<a href="https://www.roundtopvendors.com" class="large button ff-museo-500">Location Info</a>
+						<!-- <a href="https://goo.gl/maps/GzRYnQRtXnGazxSY8" class="large button ff-museo-500">Directions</a> -->
 					</div>
 					<div class="display-inline-block text-center logo-wrap" id="excess-field">
-						<!-- <a href="https://excessfield.com" target="_blank"> --><img class="display-block excess-field-logo mb-16" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Excess Field Logo"><!-- </a> -->
-						<a href="https://goo.gl/maps/ZioJvo87NtoQZBa5A" class="large button ff-museo-500">Directions</a>
+						<img class="display-block excess-field-logo mb-16" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Excess Field Logo">
+						<a href="https://excessfield.com" class="large button ff-museo-500">Location Info</a>
+						<!-- <a href="https://goo.gl/maps/ZioJvo87NtoQZBa5A" class="large button ff-museo-500">Directions</a> -->
 					</div>
 				</div>
 			</div>
