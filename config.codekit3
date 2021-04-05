@@ -106,12 +106,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_ignores/round-top/Bader-Ranch-Graphic.jpg": {
+	"/_ignores/round-top/bader-ranch-graphic.jpg": {
 		"ft": 16384,
 		"iS": 77834,
 		"jF": 0,
 		"oA": 1,
-		"oAP": "/_ignores/round-top/Bader-Ranch-Graphic.jpg",
+		"oAP": "/_ignores/round-top/bader-ranch-graphic.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -162,6 +162,12 @@
 		"oAP": "/css/app-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/dist",
+		"oF": 0
 		},
 	"/fonts/parisienne/parisienne-v8/parisienne.woff": {
 		"cB": 0,
