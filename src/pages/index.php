@@ -24,8 +24,8 @@ body-class: index
 					<a href="#welcome" data-magellan-target="welcome"><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 				</div>
 				<ul class="menu align-right" data-animation-easing="swing" data-magellan data-offset="24">
-					<li><a href="#round-top-spring-2021">Round Top</a></li>
 					<li><a href="#location">Location</a></li>
+					<li><a href="#round-top-spring-2021">Round Top</a></li>
 					<li><a href="#gardens">The Gardens</a></li>
 					<li><a href="#conservatory">The Conservatory</a></li>
 					<li><a href="#interior-gallery">The Interior Gallery</a></li>
@@ -56,8 +56,8 @@ body-class: index
 				</div>
 			</div>
 			<ul class="menu vertical medium-horizontal" data-magellan data-animation-easing="swing">
-				<li><a class="magellan-link" href="#round-top-spring-2021">Round Top</a></li>
 				<li><a class="magellan-link" href="#location">Location</a></li>
+				<li><a class="magellan-link" href="#round-top-spring-2021">Round Top</a></li>
 				<li><a class="magellan-link" href="#gardens"><span>The </span>Gardens</a></li>
 				<li><a class="magellan-link" href="#conservatory"><span>The </span>Conservatory</a></li>
 				<li><a class="magellan-link" href="#interior-gallery"><span>The </span>Interior Gallery</a></li>
