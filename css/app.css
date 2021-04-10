@@ -13838,6 +13838,12 @@ body {
   background: linear-gradient(rgba(105, 123, 153, 0.5), rgba(105, 123, 153, 0.5)), url("/img/index-2/location/location.jpg") center center/cover no-repeat;
 }
 
+@media screen and (max-width: 63.99875em) {
+  .location-banner {
+    border-top: 20px solid #fff;
+  }
+}
+
 .location-banner .contact-info {
   border: 3px solid #fff;
 }
