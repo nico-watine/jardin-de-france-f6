@@ -14152,7 +14152,7 @@ body {
     font-weight: bold;
     padding: 12px 16px;
   }
-  .top-bar#main-menu .menu a.is-active {
+  .top-bar#main-menu a.is-active {
     background: #fffeb3;
     text-decoration: underline;
   }
@@ -14213,7 +14213,7 @@ body {
   .top-bar#main-menu .menu a:hover {
     text-decoration: underline;
   }
-  .top-bar#main-menu .menu a.is-active {
+  .top-bar#main-menu a.is-active {
     text-decoration: underline;
   }
 }
