@@ -25,7 +25,7 @@ body-class: index
 				</div>
 				<ul class="menu align-right" data-animation-easing="swing" data-magellan data-offset="24">
 					<li><a href="#location">Location</a></li>
-					<li><a href="#round-top-spring-2021">Round Top</a></li>
+					<li><a href="#round-top">Round Top</a></li>
 					<li><a href="#gardens">The Gardens</a></li>
 					<li><a href="#conservatory">The Conservatory</a></li>
 					<li><a href="#interior-gallery">The Interior Gallery</a></li>
@@ -57,7 +57,7 @@ body-class: index
 			</div>
 			<ul class="menu vertical medium-horizontal" data-magellan data-animation-easing="swing">
 				<li><a class="magellan-link" href="#location">Location</a></li>
-				<li><a class="magellan-link" href="#round-top-spring-2021">Round Top</a></li>
+				<li><a class="magellan-link" href="#round-top">Round Top</a></li>
 				<li><a class="magellan-link" href="#gardens"><span>The </span>Gardens</a></li>
 				<li><a class="magellan-link" href="#conservatory"><span>The </span>Conservatory</a></li>
 				<li><a class="magellan-link" href="#interior-gallery"><span>The </span>Interior Gallery</a></li>
@@ -75,7 +75,7 @@ body-class: index
 		</div>
 		<h2 class="h2-tagline ff-museo-500 text-white">Curated for the home &amp; garden</h2>
 		<div data-magellan>
-			<a href="#round-top-spring-2021" class="button ff-museo-500">Bienvenue</a>
+			<a href="#round-top" class="button ff-museo-500">Bienvenue</a>
 		</div>
 	</div>
 </section>
@@ -100,8 +100,8 @@ body-class: index
 	</div>
 </section>
 
-<!-- Round Top Spring 2021 Banner -->
-<section class="round-top-spring-2021-section py-40" data-magellan-target="round-top-spring-2021" id="round-top-spring-2021">
+<!-- Round Top Banner -->
+<section class="round-top-section py-40" data-magellan-target="round-top" id="round-top">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x">
 			<div class="cell">
