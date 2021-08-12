@@ -75,7 +75,7 @@ body-class: index
 		</div>
 		<h2 class="h2-tagline ff-museo-500 text-white">Curated for the home &amp; garden</h2>
 		<div data-magellan>
-			<a href="#round-top" class="button ff-museo-500">Bienvenue</a>
+			<a href="#location" class="button ff-museo-500">Bienvenue</a>
 		</div>
 	</div>
 </section>
