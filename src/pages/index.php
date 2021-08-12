@@ -274,7 +274,7 @@ body-class: index
 		<div class="columns">
 			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
 				<h2 class="h1 cursive mb-32">Our Story</h2>
-				<p class="h4">Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing patrimoine.</p>
+				<p class="h4">Two brothers born in the small Picard village of Montrelet, France, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing patrimoine.</p>
 			</div>
 			<br>
 			<div class="bioPhoto text-center">
