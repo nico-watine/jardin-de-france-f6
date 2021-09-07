@@ -309,7 +309,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="img/in-the-media/JardinDeFrance-Fall-2020.jpg" alt="">
+				<img src="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" alt="">
 				<div class="p-16">
 					<p class="margin-0">Milieu – Fall 2020</p>
 				</div>
@@ -317,7 +317,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="img/in-the-media/JardinDeFrance-Fall-2021.jpg" alt="">
+				<img src="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" alt="">
 				<div class="p-16">
 					<p class="margin-0">Milieu – Fall 2021</p>
 				</div>
