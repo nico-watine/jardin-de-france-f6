@@ -303,7 +303,7 @@ body-class: index
 			<div class="tileBase">
 				<img src="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" alt="">
 				<div class="p-16">
-					<p class="margin-0">First tacks</p>
+					<p class="margin-0">Milieu – Fall 2019</p>
 				</div>
 			</div>
 		</div>
@@ -311,7 +311,7 @@ body-class: index
 			<div class="tileBase">
 				<img src="img/in-the-media/JardinDeFrance-Fall-2020.jpg" alt="">
 				<div class="p-16">
-					<p class="margin-0">First beads</p>
+					<p class="margin-0">Milieu – Fall 2020</p>
 				</div>
 			</div>
 		</div>
@@ -319,7 +319,7 @@ body-class: index
 			<div class="tileBase">
 				<img src="img/in-the-media/JardinDeFrance-Fall-2021.jpg" alt="">
 				<div class="p-16">
-					<p class="margin-0">A hole saw made a perfect sized hole for the transmission locating bushing</p>
+					<p class="margin-0">Milieu – Fall 2021</p>
 				</div>
 			</div>
 		</div>
@@ -327,7 +327,7 @@ body-class: index
 			<div class="tileBase">
 				<img src="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" alt="">
 				<div class="p-16">
-					<p class="margin-0">I used a straight edge to replicate the location of the transmission mount holes</p>
+					<p class="margin-0">Milieu – Spring 2019</p>
 				</div>
 			</div>
 		</div>
@@ -335,7 +335,7 @@ body-class: index
 			<div class="tileBase">
 				<img src="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" alt="">
 				<div class="p-16">
-					<p class="margin-0">The weld was a little close to the mount holes, but the washer and bolt heads <em>just</em> cleared it</p>
+					<p class="margin-0">Milieu – Spring 2020</p>
 				</div>
 			</div>
 		</div>
@@ -343,7 +343,7 @@ body-class: index
 			<div class="tileBase">
 				<img src="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" alt="">
 				<div class="p-16">
-					<p class="margin-0">I cleaned off the top weld since the transmission mount has a flat metal flange. This prevents the weld from disturbing the flange and sitting flat on the face</p>
+					<p class="margin-0">Milieu – Spring 2021</p>
 				</div>
 			</div>
 		</div>
