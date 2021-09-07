@@ -300,7 +300,7 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
-				<div class="padding-XY">
+				<div class="p-16">
 					<p class="margin-0">First tacks</p>
 				</div>
 			</div>
@@ -309,7 +309,7 @@ body-class: index
 			<div class="tileBase">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/first-beads.jpg" alt="">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/first-beads-alternate-view.jpg" alt="">
-				<div class="padding-XY">
+				<div class="p-16">
 					<p class="margin-0">First beads</p>
 				</div>
 			</div>
@@ -317,7 +317,7 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/perfect-size-cut-hole-saw-transmission-bushing.jpg" alt="">
-				<div class="padding-XY">
+				<div class="p-16">
 					<p class="margin-0">A hole saw made a perfect sized hole for the transmission locating bushing</p>
 				</div>
 			</div>
@@ -325,7 +325,7 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/straigh-edge-replicates-transmission-mount-location.jpg" alt="">
-				<div class="padding-XY">
+				<div class="p-16">
 					<p class="margin-0">I used a straight edge to replicate the location of the transmission mount holes</p>
 				</div>
 			</div>
@@ -333,7 +333,7 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/weld-close-to-mount-holes-cleared-by-washers.jpg" alt="">
-				<div class="padding-XY">
+				<div class="p-16">
 					<p class="margin-0">The weld was a little close to the mount holes, but the washer and bolt heads <em>just</em> cleared it</p>
 				</div>
 			</div>
@@ -341,7 +341,7 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/cleaned-transmission-mount-flange.jpg" alt="">
-				<div class="padding-XY">
+				<div class="p-16">
 					<p class="margin-0">I cleaned off the top weld since the transmission mount has a flat metal flange. This prevents the weld from disturbing the flange and sitting flat on the face</p>
 				</div>
 			</div>
@@ -349,7 +349,7 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/tracing-rear-transmission-tunnel-hole.jpg" alt="">
-				<div class="padding-XY">
+				<div class="p-16">
 					<p class="margin-0">Tracing the rear of the hole in the transmission tunnel</p>
 				</div>
 			</div>
@@ -357,7 +357,7 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/straight-edge-marks-transmission-hole-cut-back.jpg" alt="">
-				<div class="padding-XY">
+				<div class="p-16">
 					<p class="margin-0">I used a straight edge to mark my cut back. The traced cardboard replicated the back of the cut (2.75" back)</p>
 				</div>
 			</div>
@@ -365,7 +365,7 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="https://tacupra.com/img/update-post/4x4-2jz-tacoma-transmission-mount/antoine-hythier-dont-mess-up.jpg" alt="">
-				<div class="padding-XY">
+				<div class="p-16">
 					<p class="margin-0">Telling myself to not mess this up!</p>
 				</div>
 			</div>
