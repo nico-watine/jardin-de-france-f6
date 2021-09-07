@@ -234,7 +234,7 @@ body-class: index
 			</div>
 		</div>
 	</div>
-	<div id="masonryGrid" class="row small-up-2 medium-up-3">
+	<div id="masonry-grid" class="row small-up-2 medium-up-3">
 		<br>
 		<div class="tile column column-block">
 			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-1.jpg" alt="Jardin de France Marburger Farm booth">
@@ -294,3 +294,7 @@ body-class: index
 		<a class="colophon h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
+
+<section class="in-the-media-section">
+
+</section>
