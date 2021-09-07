@@ -13983,7 +13983,7 @@ body {
   }
 }
 
-.roundTop-section #masonryGrid .tile img {
+.roundTop-section #masonry-grid .tile img {
   -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
           box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
   border-radius: 4px;
@@ -14400,6 +14400,13 @@ body {
 
 .round-top-section img.bader-ranch-logo {
   max-width: 240px;
+}
+
+#masonryGrid .tile .tileBase {
+  -webkit-box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+          box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  background: #fff;
+  border-radius: 0.25rem;
 }
 
 .example {
