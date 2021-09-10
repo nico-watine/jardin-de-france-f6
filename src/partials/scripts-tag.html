@@ -12,7 +12,11 @@
 <script src="/js/vendor/magnific-popup/jquery-magnific-popup-min.js"></script>
 
 <script>
-	$('.test-popup-link').magnificPopup({
+	// $('.test-popup-link').magnificPopup({
+	// 	type: 'image'
+	// });
+	$('.tileBase').magnificPopup({
+		delegate: 'a', // child items selector, by clicking on it popup will open
 		type: 'image'
 	});
 </script>

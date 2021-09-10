@@ -301,7 +301,7 @@ body-class: index
 	<div id="masonryGrid" class=" row small-up-2 medium-up-3">
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a class="test-popup-link" href="/img/in-the-media/JardinDeFrance-Fall-2019.jpg"><img src="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2019.jpg"><img src="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" alt=""></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu – Fall 2019</p>
 				</div>
