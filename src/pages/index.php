@@ -301,7 +301,7 @@ body-class: index
 	<div id="masonryGrid" class=" row small-up-2 medium-up-3">
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Fall-2019.jpg"><img src="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" title="Milieu – Fall 2019"><img title="Milieu – Fall 2019" src="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" alt=""></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu – Fall 2019</p>
 				</div>
@@ -309,7 +309,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Fall-2020.jpg"><img src="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" title="Milieu – Fall 2020"><img title="Milieu – Fall 2020" src="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" alt=""></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu – Fall 2020</p>
 				</div>
@@ -317,7 +317,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Fall-2021.jpg"><img src="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" title="Milieu – Fall 2021"><img title="Milieu – Fall 2021" src="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" alt=""></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu – Fall 2021</p>
 				</div>
@@ -325,7 +325,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Spring-2019.jpg"><img src="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" title="Milieu – Spring 2019"><img title="Milieu – Spring 2019" src="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" alt=""></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu – Spring 2019</p>
 				</div>
@@ -333,7 +333,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Spring-2020.jpg"><img src="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" title="Milieu – Spring 2020"><img title="Milieu – Spring 2020" src="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" alt=""></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu – Spring 2020</p>
 				</div>
@@ -341,7 +341,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Spring-2021.jpg"><img src="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" title="Milieu – Spring 2021"><img title="Milieu – Spring 2021" src="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" alt=""></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu – Spring 2021</p>
 				</div>
