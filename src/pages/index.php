@@ -297,6 +297,7 @@ body-class: index
 
 <section class="in-the-media-section">
 	<br>
+	<h2 class="h2 text-center cursive my-32">In the Media</h2>
 	<br>
 	<div id="masonryGrid" class=" row small-up-2 medium-up-3">
 		<div class="tile column column-block">
