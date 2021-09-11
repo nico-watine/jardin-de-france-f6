@@ -1,3 +1,5 @@
+// @codekit-prepend "/js/vendor/magnific-popup/jquery-magnific-popup-min.js";
+
 $(document).foundation();
 
 // Create a media condition that targets viewports at most 640px wide

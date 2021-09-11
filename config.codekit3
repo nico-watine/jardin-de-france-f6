@@ -1626,6 +1626,17 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/js\/src\/imports\/jquery-magnific-popup-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/js\/jquery-magnific-popup-min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/js\/vendor\/jquery\/3-4-1\/jquery-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -1642,7 +1653,7 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/js\/jquery-magnific-popup-min-min.js",
       "oF" : 0,
       "sC" : 0,
