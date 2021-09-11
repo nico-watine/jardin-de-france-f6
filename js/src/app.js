@@ -22,3 +22,17 @@ function handleNavChange(width) {
 mediaQuery.addListener(handleNavChange)
 // Initial check
 handleNavChange(mediaQuery)
+
+$('.tileBase').magnificPopup({
+	delegate: 'a', // child items selector, by clicking on it popup will open
+	type: 'image',
+	gallery:{
+		enabled:true
+	},
+	disableOn: function() {
+		if( $(window).width() < 700 ) {
+			return false;
+			}
+		return true;
+	}
+});
