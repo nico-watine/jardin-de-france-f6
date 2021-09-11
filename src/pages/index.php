@@ -225,76 +225,6 @@ body-class: index
 	<br>
 </section>
 
-<section class="roundTop-section">
-	<div class="row">
-		<div class="columns">
-			<div class="prose">
-				<h2 class="cursive white"><span class="h4 display-block"><strong>The</strong></span> Round Top Antique Show</h2>
-				<!-- <h3 class="white">Spring 2019 Booth | <strong>Marburger Farm</strong></h3> -->
-			</div>
-		</div>
-	</div>
-	<div id="masonry-grid" class="row small-up-2 medium-up-3">
-		<br>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-1.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-2.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-3.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-4.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-5.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-6.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-7.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-8.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-9.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-		<div class="tile column column-block">
-			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-10.jpg" alt="Jardin de France Marburger Farm booth">
-		</div>
-	</div>
-</section>
-
-<section class="about py-40" id="about" data-magellan-target="about">
-	<div class="row">
-		<div class="columns">
-			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
-				<h2 class="h1 cursive mb-32">Our Story</h2>
-				<p class="h4">Two brothers born in the small Picard village of Montrelet, France, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing patrimoine.</p>
-			</div>
-			<br>
-			<div class="bioPhoto text-center">
-				<img class="m-16" src="/img/index-2/about/nicolas-watine.png" alt="Nicolas Watine">
-				<img class="m-16" src="/img/index-2/about/patrice-watine.png" alt="Patrice Watine">
-			</div>
-		</div>
-	</div>
-</section>
-
-<footer class="py-40" style="background: #fefefe;">
-	<div class="socialMediaLinks text-center my-16">
-		<a href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
-		<a class="mx-16" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
-	</div>
-	<div class="text-center py-16">
-		<a class="colophon h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
-	</div>
-</footer>
-
 <section class="in-the-media-section">
 	<br>
 	<h2 class="h2 text-center cursive my-32">In the Media</h2>
@@ -350,3 +280,74 @@ body-class: index
 		</div>
 	</div>
 </section>
+
+<!-- <section class="roundTop-section">
+	<div class="row">
+		<div class="columns">
+			<div class="prose">
+				<h2 class="cursive white"><span class="h4 display-block"><strong>The</strong></span> Round Top Antique Show</h2>
+			</div>
+		</div>
+	</div>
+	<div id="masonry-grid" class="row small-up-2 medium-up-3">
+		<br>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-1.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-2.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-3.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-4.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-5.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-6.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-7.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-8.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-9.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-10.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+	</div>
+</section> -->
+
+<section class="about py-40" id="about" data-magellan-target="about">
+	<div class="row">
+		<div class="columns">
+			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
+				<h2 class="h1 cursive mb-32">Our Story</h2>
+				<p class="h4">Two brothers born in the small Picard village of Montrelet, France, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing patrimoine.</p>
+			</div>
+			<br>
+			<div class="bioPhoto text-center">
+				<img class="m-16" src="/img/index-2/about/nicolas-watine.png" alt="Nicolas Watine">
+				<img class="m-16" src="/img/index-2/about/patrice-watine.png" alt="Patrice Watine">
+			</div>
+		</div>
+	</div>
+</section>
+
+<footer class="py-40" style="background: #fefefe;">
+	<div class="socialMediaLinks text-center my-16">
+		<a href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
+		<a class="mx-16" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
+	</div>
+	<div class="text-center py-16">
+		<a class="colophon h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
+	</div>
+</footer>
+
+
