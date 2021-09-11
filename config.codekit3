@@ -177,6 +177,18 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/css\/magnific-popup.css" : {
+      "aP" : 0,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/magnific-popup-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/dist" : {
       "ft" : 65536,
       "oA" : 1,
@@ -542,7 +554,7 @@
     },
     "\/img\/in-the-media\/JardinDeFrance-Fall-2019.jpg" : {
       "ft" : 16384,
-      "iS" : 1584044,
+      "iS" : 159113,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/in-the-media\/JardinDeFrance-Fall-2019.jpg",
@@ -555,7 +567,7 @@
     },
     "\/img\/in-the-media\/JardinDeFrance-Fall-2020.jpg" : {
       "ft" : 16384,
-      "iS" : 2294169,
+      "iS" : 293979,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/in-the-media\/JardinDeFrance-Fall-2020.jpg",
@@ -568,7 +580,7 @@
     },
     "\/img\/in-the-media\/JardinDeFrance-Fall-2021.jpg" : {
       "ft" : 16384,
-      "iS" : 2295548,
+      "iS" : 325680,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/in-the-media\/JardinDeFrance-Fall-2021.jpg",
@@ -581,7 +593,7 @@
     },
     "\/img\/in-the-media\/JardinDeFrance-Spring-2019.jpg" : {
       "ft" : 16384,
-      "iS" : 923408,
+      "iS" : 79400,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/in-the-media\/JardinDeFrance-Spring-2019.jpg",
@@ -594,7 +606,7 @@
     },
     "\/img\/in-the-media\/JardinDeFrance-Spring-2020.jpg" : {
       "ft" : 16384,
-      "iS" : 441910,
+      "iS" : 47083,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/in-the-media\/JardinDeFrance-Spring-2020.jpg",
@@ -607,7 +619,7 @@
     },
     "\/img\/in-the-media\/JardinDeFrance-Spring-2021.jpg" : {
       "ft" : 16384,
-      "iS" : 2379050,
+      "iS" : 357445,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/in-the-media\/JardinDeFrance-Spring-2021.jpg",
@@ -1633,6 +1645,17 @@
       "mi" : 0,
       "oA" : 0,
       "oAP" : "\/js\/vendor\/jquery\/3-4-1\/jquery-min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/js\/vendor\/magnific-popup\/jquery-magnific-popup-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/js\/jquery-magnific-popup-min-min.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
