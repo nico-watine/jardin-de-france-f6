@@ -7,6 +7,7 @@ UNCSS_OPTIONS:
     - !!js/regexp .foundation-mq
     - !!js/regexp ^\.is-.*
     - !!js/regexp ^\.mfp-.*
+    - !!js/regexp ^img\.mfp-.*
     - ".sticky.is-anchored"
     - ".sticky.is-stuck"
     - ".desktop-nav-bar a.is-active"
