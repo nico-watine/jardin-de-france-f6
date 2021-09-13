@@ -177,18 +177,6 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/css\/magnific-popup.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/magnific-popup-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/dist" : {
       "ft" : 65536,
       "oA" : 1,
@@ -1638,6 +1626,17 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/js\/src\/imports\/jquery-magnific-popup-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/js\/jquery-magnific-popup-min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/js\/vendor\/jquery\/3-4-1\/jquery-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -1654,7 +1653,7 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/js\/jquery-magnific-popup-min-min.js",
       "oF" : 0,
       "sC" : 0,
@@ -2096,6 +2095,34 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/elements\/css\/_widths.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/vendor\/_magnific-popup.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_magnific-popup.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/vendor\/_vendor.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_vendor.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
