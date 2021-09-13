@@ -38,3 +38,9 @@ $('.tileBase').magnificPopup({
 		return true;
 	}
 });
+
+$('#masonryGrid').imagesLoaded( function() {
+	$('#masonryGrid').masonry({
+		itemSelector: '#masonryGrid .tile'
+	});
+});
