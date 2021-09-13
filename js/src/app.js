@@ -1,4 +1,6 @@
-// @codekit-prepend "/js/vendor/magnific-popup/jquery-magnific-popup-min.js";
+// @codekit-prepend "/js/src/imports/imagesloaded-min.js";
+// @codekit-prepend "/js/src/imports/masonry-min.js";
+// @codekit-prepend "/js/src/imports/jquery-magnific-popup-min.js";
 
 $(document).foundation();
 
@@ -35,4 +37,10 @@ $('.tileBase').magnificPopup({
 			}
 		return true;
 	}
+});
+
+$('#masonryGrid').imagesLoaded( function() {
+	$('#masonryGrid').masonry({
+		itemSelector: '#masonryGrid .tile'
+	});
 });
