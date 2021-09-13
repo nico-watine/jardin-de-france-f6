@@ -1,0 +1,9 @@
+#masonryGrid {
+	.tile {
+		.tileBase {
+			box-shadow: $z-1;
+			background: #fff;
+			border-radius: rem-calc(4);
+		}
+	}
+}

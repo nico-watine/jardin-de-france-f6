@@ -225,16 +225,71 @@ body-class: index
 	<br>
 </section>
 
-<section class="roundTop-section">
+<section class="in-the-media-section">
+	<br>
+	<h2 class="h2 text-center cursive my-32">In the Media</h2>
+	<br>
+	<div id="masonryGrid" class=" row small-up-2 medium-up-3">
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" title="Milieu Mag – Fall 2019"><img title="Milieu Mag – Fall 2019" src="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" alt=""></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Fall 2019</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" title="Milieu Mag – Fall 2020"><img title="Milieu Mag – Fall 2020" src="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" alt=""></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Fall 2020</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" title="Milieu Mag – Fall 2021"><img title="Milieu Mag – Fall 2021" src="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" alt=""></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Fall 2021</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" title="Milieu Mag – Spring 2019"><img title="Milieu Mag – Spring 2019" src="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" alt=""></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Spring 2019</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" title="Milieu Mag – Spring 2020"><img title="Milieu Mag – Spring 2020" src="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" alt=""></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Spring 2020</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" title="Milieu Mag – Spring 2021"><img title="Milieu Mag – Spring 2021" src="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" alt=""></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Spring 2021</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- <section class="roundTop-section">
 	<div class="row">
 		<div class="columns">
 			<div class="prose">
 				<h2 class="cursive white"><span class="h4 display-block"><strong>The</strong></span> Round Top Antique Show</h2>
-				<!-- <h3 class="white">Spring 2019 Booth | <strong>Marburger Farm</strong></h3> -->
 			</div>
 		</div>
 	</div>
-	<div id="masonryGrid" class="row small-up-2 medium-up-3">
+	<div id="masonry-grid" class="row small-up-2 medium-up-3">
 		<br>
 		<div class="tile column column-block">
 			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-1.jpg" alt="Jardin de France Marburger Farm booth">
@@ -267,7 +322,7 @@ body-class: index
 			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-10.jpg" alt="Jardin de France Marburger Farm booth">
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section class="about py-40" id="about" data-magellan-target="about">
 	<div class="row">
@@ -294,3 +349,5 @@ body-class: index
 		<a class="colophon h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
+
+
