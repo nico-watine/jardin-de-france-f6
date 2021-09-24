@@ -62,6 +62,7 @@ body-class: index
 				<li><a class="magellan-link" href="#conservatory"><span>The </span>Conservatory</a></li>
 				<li><a class="magellan-link" href="#interior-gallery"><span>The </span>Interior Gallery</a></li>
 				<li><a class="magellan-link" href="#about">Our Story</a></li>
+				<li class="hide-for-medium"><a href="tel:832-651-3136">832-651-3136</a></li>
 			</ul>
 		</div>
 	</div>
