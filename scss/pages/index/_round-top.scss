@@ -16,7 +16,7 @@
 			max-width: rem-calc(420);
 		}
 
-		@include breakpoint(960) {
+		@include breakpoint(large) {
 			max-width: rem-calc(320);
 		}
 	}
@@ -24,17 +24,12 @@
 	.prose-wrap {
 		margin-bottom: rem-calc(32);
 
-		@include breakpoint(960) {
+		@include breakpoint(large) {
 			float: left;
-			padding: 0 rem-calc(16) 0 rem-calc(32);
-		}
-
-		@include breakpoint(1000) {
-			padding: 0 rem-calc(32);
 		}
 
 		@include breakpoint(1100) {
-			padding: 0 rem-calc(32) 0 rem-calc(64);
+			padding: 0 rem-calc(32);
 		}
 	}
 
@@ -47,13 +42,20 @@
 			max-width: none;
 		}
 
-		@include breakpoint(960) {
+		@include breakpoint(large) {
 			text-align: unset;
-			padding-top: rem-calc(20);
 		}
 	}
 
 	.logo-wrap {
+		@include breakpoint(medium) {
+			margin-bottom: 0;
+		}
+	}
+
+	.logo-wrap#round-top-compound {
+		margin-bottom: rem-calc(64);
+
 		@include breakpoint(medium) {
 			margin-bottom: 0;
 		}
@@ -68,7 +70,15 @@
 		}
 
 		@include breakpoint(960) {
-			padding: 0 rem-calc(32) 0 0;
+			padding: 0 rem-calc(32);
+		}
+
+		@include breakpoint(large) {
+			padding: 0 rem-calc(16) 0 0;
+		}
+
+		@include breakpoint(1200) {
+			padding: 0 rem-calc(32);
 		}
 	}
 
@@ -77,21 +87,40 @@
 
 		@include breakpoint(medium) {
 			margin-bottom: 0;
-			position: relative;
-			width: 200px;
-
-			img {
-				position: absolute;
-				top: -80px;
-			}
+			padding-top: rem-calc(40);
 		}
 	}
 
 	img.excess-field-logo {
 		max-width: 200px;
+		margin-bottom: rem-calc(20);
+
+		@include breakpoint(medium) {
+			margin-bottom: rem-calc(32);
+		}
 	}
 
 	img.bader-ranch-logo {
 		max-width: 240px;
+
+		@include breakpoint(large) {
+			max-width: 220px;
+		}
+
+		@include breakpoint(1200) {
+			max-width: 240px;
+		}
+	}
+
+	img.round-top-compound-logo {
+		max-width: 220px;
+
+		@include breakpoint(large) {
+			max-width: 200px;
+		}
+
+		@include breakpoint(1200) {
+			max-width: 220px;
+		}
 	}
 }
