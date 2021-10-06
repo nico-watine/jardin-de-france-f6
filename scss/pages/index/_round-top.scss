@@ -104,14 +104,19 @@
 			margin-bottom: 0;
 			padding-top: rem-calc(40);
 
-			img {
-				margin-bottom: rem-calc(20);
-			}
+			// img {
+			// 	margin-bottom: rem-calc(20);
+			// }
 		}
 	}
 
 	img.excess-field-logo {
 		max-width: 200px;
+		margin-bottom: rem-calc(20);
+
+		@include breakpoint(medium) {
+			margin-bottom: rem-calc(32);
+		}
 	}
 
 	img.bader-ranch-logo {

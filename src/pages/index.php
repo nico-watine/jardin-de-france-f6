@@ -122,7 +122,7 @@ body-class: index
 						<a href="https://goo.gl/maps/GzRYnQRtXnGazxSY8" class="large button ff-museo-500">Directions</a>
 					</div>
 					<div class="display-inline-block text-center logo-wrap" id="excess-field">
-						<img class="display-block excess-field-logo mb-16" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Excess Field Logo">
+						<img class="display-block excess-field-logo" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Excess Field Logo">
 						<!-- <a href="https://excessfield.com" class="large button ff-museo-500">Location Info</a> -->
 						<a href="https://goo.gl/maps/ZioJvo87NtoQZBa5A" class="large button ff-museo-500">Directions</a>
 					</div>

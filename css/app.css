@@ -14849,13 +14849,17 @@ body {
     margin-bottom: 0;
     padding-top: 2.5rem;
   }
-  .round-top-section .logo-wrap#excess-field img {
-    margin-bottom: 1.25rem;
-  }
 }
 
 .round-top-section img.excess-field-logo {
   max-width: 200px;
+  margin-bottom: 1.25rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .round-top-section img.excess-field-logo {
+    margin-bottom: 2rem;
+  }
 }
 
 .round-top-section img.bader-ranch-logo {
