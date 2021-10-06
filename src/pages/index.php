@@ -113,7 +113,7 @@ body-class: index
 				<div class="vendor-logos">
 					<div class="display-inline-block text-center logo-wrap" id="round-top-compound">
 						<img class="display-block round-top-compound-logo" src="/img/vendors/the-round-top-compound-logo.png" alt="The White Barn Logo" title="The White Barn Logo">
-						<!-- <a href="https://excessfield.com" class="large button ff-museo-500">Location Info</a> -->
+						<!-- <a href="http://roundtopcompound.com/" class="large button ff-museo-500">Location Info</a> -->
 						<a href="https://goo.gl/maps/caVpUHQ4ko98JC4HA" class="large button ff-museo-500">Directions</a>
 					</div>
 					<div class="display-inline-block text-center logo-wrap" id="bader-ranch">
