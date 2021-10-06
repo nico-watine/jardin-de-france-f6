@@ -64,7 +64,6 @@
 
 		@include breakpoint(medium) {
 			margin-bottom: 0;
-			padding: 0 rem-calc(32);
 		}
 
 		@include breakpoint(960) {
@@ -90,12 +89,10 @@
 
 		@include breakpoint(medium) {
 			margin-bottom: 0;
-			position: relative;
-			width: 200px;
+			padding-top: rem-calc(40);
 
 			img {
-				position: absolute;
-				top: -80px;
+				margin-bottom: rem-calc(20);
 			}
 		}
 	}

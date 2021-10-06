@@ -14816,7 +14816,6 @@ body {
 @media print, screen and (min-width: 40em) {
   .round-top-section .logo-wrap#round-top-compound {
     margin-bottom: 0;
-    padding: 0 2rem;
   }
 }
 
@@ -14850,12 +14849,10 @@ body {
 @media print, screen and (min-width: 40em) {
   .round-top-section .logo-wrap#excess-field {
     margin-bottom: 0;
-    position: relative;
-    width: 200px;
+    padding-top: 2.5rem;
   }
   .round-top-section .logo-wrap#excess-field img {
-    position: absolute;
-    top: -80px;
+    margin-bottom: 1.25rem;
   }
 }
 
