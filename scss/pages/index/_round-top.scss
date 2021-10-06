@@ -24,15 +24,6 @@
 	.prose-wrap {
 		margin-bottom: rem-calc(32);
 
-		@include breakpoint(960) {
-			// float: left;
-			// padding: 0 rem-calc(16) 0 rem-calc(32);
-		}
-
-		@include breakpoint(1000) {
-			// padding: 0 rem-calc(32);
-		}
-
 		@include breakpoint(large) {
 			float: left;
 		}
@@ -68,10 +59,6 @@
 		@include breakpoint(medium) {
 			margin-bottom: 0;
 		}
-
-		// @include breakpoint(960) {
-			// padding: 0 rem-calc(32) 0 0;
-		// }
 	}
 
 	.logo-wrap#bader-ranch {
@@ -83,8 +70,6 @@
 		}
 
 		@include breakpoint(960) {
-			// padding: 0 rem-calc(32) 0 0;
-			// padding: 0;
 			padding: 0 rem-calc(32);
 		}
 
@@ -103,10 +88,6 @@
 		@include breakpoint(medium) {
 			margin-bottom: 0;
 			padding-top: rem-calc(40);
-
-			// img {
-			// 	margin-bottom: rem-calc(20);
-			// }
 		}
 	}
 
