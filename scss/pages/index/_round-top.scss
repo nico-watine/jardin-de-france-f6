@@ -37,9 +37,9 @@
 			float: left;
 		}
 
-		// @include breakpoint(1100) {
-		// 	padding: 0 rem-calc(32) 0 rem-calc(64);
-		// }
+		@include breakpoint(1100) {
+			padding: 0 rem-calc(32);
+		}
 	}
 
 	.vendor-logos {
@@ -91,6 +91,10 @@
 		@include breakpoint(large) {
 			padding: 0 rem-calc(16) 0 0;
 		}
+
+		@include breakpoint(1200) {
+			padding: 0 rem-calc(32);
+		}
 	}
 
 	.logo-wrap#excess-field {
@@ -116,6 +120,10 @@
 		@include breakpoint(large) {
 			max-width: 220px;
 		}
+
+		@include breakpoint(1200) {
+			max-width: 240px;
+		}
 	}
 
 	img.round-top-compound-logo {
@@ -123,6 +131,10 @@
 
 		@include breakpoint(large) {
 			max-width: 200px;
+		}
+
+		@include breakpoint(1200) {
+			max-width: 220px;
 		}
 	}
 }
