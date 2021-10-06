@@ -14809,6 +14809,23 @@ body {
   }
 }
 
+.round-top-section .logo-wrap#round-top-compound {
+  margin-bottom: 4rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .round-top-section .logo-wrap#round-top-compound {
+    margin-bottom: 0;
+    padding: 0 2rem;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .round-top-section .logo-wrap#round-top-compound {
+    padding: 0 2rem 0 0;
+  }
+}
+
 .round-top-section .logo-wrap#bader-ranch {
   margin-bottom: 4rem;
 }
@@ -14848,6 +14865,10 @@ body {
 
 .round-top-section img.bader-ranch-logo {
   max-width: 240px;
+}
+
+.round-top-section img.round-top-compound-logo {
+  max-width: 220px;
 }
 
 #masonryGrid .tile .tileBase {

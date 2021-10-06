@@ -108,9 +108,14 @@ body-class: index
 			<div class="cell">
 				<div class="prose-wrap">
 					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2021 Fall Show <br>Dates &amp; Locations</h3>
-					<p class="p float-center">We will be in Round Top starting on October&nbsp;19 for the Fall Antique Festival. Come visit us at Excess&nbsp;Field&nbsp;2, Bader&nbsp;Ranch, and our newest location, The&nbsp;White&nbsp;Barn!</p>
+					<p class="p float-center">We will be in Round Top starting on October&nbsp;19 for the Fall Antique Festival. Come visit us at Excess&nbsp;Field&nbsp;2, Bader&nbsp;Ranch, and our newest location, The&nbsp;White&nbsp;Barn at the Round Top Compound!</p>
 				</div>
 				<div class="vendor-logos">
+					<div class="display-inline-block text-center logo-wrap" id="round-top-compound">
+						<img class="display-block round-top-compound-logo" src="/img/vendors/the-round-top-compound-logo.png" alt="The White Barn Logo" title="The White Barn Logo">
+						<!-- <a href="https://excessfield.com" class="large button ff-museo-500">Location Info</a> -->
+						<a href="https://goo.gl/maps/ZioJvo87NtoQZBa5A" class="large button ff-museo-500">Directions</a>
+					</div>
 					<div class="display-inline-block text-center logo-wrap" id="bader-ranch">
 						<img class="display-block bader-ranch-logo mb-16" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Bader Ranch Logo">
 						<!-- <a href="https://www.roundtopvendors.com" class="large button ff-museo-500">Location Info</a> -->

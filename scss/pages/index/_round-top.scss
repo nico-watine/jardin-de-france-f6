@@ -59,6 +59,19 @@
 		}
 	}
 
+	.logo-wrap#round-top-compound {
+		margin-bottom: rem-calc(64);
+
+		@include breakpoint(medium) {
+			margin-bottom: 0;
+			padding: 0 rem-calc(32);
+		}
+
+		@include breakpoint(960) {
+			padding: 0 rem-calc(32) 0 0;
+		}
+	}
+
 	.logo-wrap#bader-ranch {
 		margin-bottom: rem-calc(64);
 
@@ -93,5 +106,9 @@
 
 	img.bader-ranch-logo {
 		max-width: 240px;
+	}
+
+	img.round-top-compound-logo {
+		max-width: 220px;
 	}
 }
