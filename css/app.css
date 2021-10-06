@@ -14755,21 +14755,8 @@ body {
   }
 }
 
-@media screen and (min-width: 60em) {
-  .round-top-section .p {
-    max-width: 20rem;
-  }
-}
-
 .round-top-section .prose-wrap {
   margin-bottom: 2rem;
-}
-
-@media screen and (min-width: 60em) {
-  .round-top-section .prose-wrap {
-    float: left;
-    padding: 0 1rem 0 2rem;
-  }
 }
 
 @media screen and (min-width: 62.5em) {
@@ -14796,13 +14783,6 @@ body {
   }
 }
 
-@media screen and (min-width: 60em) {
-  .round-top-section .vendor-logos {
-    text-align: unset;
-    padding-top: 1.25rem;
-  }
-}
-
 @media print, screen and (min-width: 40em) {
   .round-top-section .logo-wrap {
     margin-bottom: 0;
@@ -14819,12 +14799,6 @@ body {
   }
 }
 
-@media screen and (min-width: 60em) {
-  .round-top-section .logo-wrap#round-top-compound {
-    padding: 0 2rem 0 0;
-  }
-}
-
 .round-top-section .logo-wrap#bader-ranch {
   margin-bottom: 4rem;
 }
@@ -14838,7 +14812,7 @@ body {
 
 @media screen and (min-width: 60em) {
   .round-top-section .logo-wrap#bader-ranch {
-    padding: 0 2rem 0 0;
+    padding: 0 2rem;
   }
 }
 
