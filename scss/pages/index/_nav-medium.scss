@@ -1,16 +1,29 @@
 .top-bar#main-menu {
-	@include breakpoint(medium only) {
+	@include breakpoint(medium) {
+		height: 50px;
+
 		ul {
 			background-color: transparent;
 		}
 
 		.logo-wrap {
-			position: absolute;
-			top: 0;
-			left: 0;
+			// position: absolute;
+			// top: 0;
+			// left: 0;
 
 			img.logo-pot {
-				max-width: 55px;
+				width: 55px;
+				// margin-top: 40px;
+				// float: left;
+				position: absolute;
+				top: 0;
+				left: 0;
+
+				@include breakpoint(720) {
+					position: unset;
+					float: left;
+					margin-top: 40px;
+				}
 			}
 
 			.wordmark {
@@ -26,6 +39,13 @@
 				@include breakpoint(720) {
 					display: block;
 					visibility: visible;
+				}
+
+				@include breakpoint(750) {
+					position: unset;
+					float: left;
+					padding-top: rem-calc(50);
+					margin-left: rem-calc(-40);
 				}
 			}
 		}

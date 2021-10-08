@@ -48,7 +48,7 @@ body-class: index
 			<button class="menu-icon" type="button" data-toggle="main-menu"></button>
 		</div>
 
-		<div class="top-bar align-right text-right" id="main-menu">
+		<div class="top-bar align-right text-right" id="main-menu" style="padding-right: env(safe-area-inset-right); padding-left: env(safe-area-inset-left);">
 			<div class="top-bar-left show-for-medium">
 				<div class="logo-wrap" data-magellan>
 					<a class="magellan-link" href="#small-splash"><img src="/img/assets/logo/logo.png" class="logo-pot" alt="Jardin de France Logo Icon"></a>
