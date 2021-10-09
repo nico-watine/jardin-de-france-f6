@@ -177,6 +177,12 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/dist" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/dist",
+      "oF" : 0
+    },
     "\/fonts\/parisienne\/parisienne-v8\/parisienne.woff" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1600,7 +1606,7 @@
     },
     "\/img\/vendors\/the-round-top-compound-logo.png" : {
       "ft" : 32768,
-      "iS" : 18325,
+      "iS" : 21394,
       "oA" : 1,
       "oAP" : "\/img\/vendors\/the-round-top-compound-logo.png",
       "oF" : 0,
@@ -1673,6 +1679,17 @@
       "mi" : 0,
       "oA" : 0,
       "oAP" : "\/js\/vendor\/jquery\/3-4-1\/jquery-min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/js\/vendor\/jquery\/3-6-0\/jquery-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/js\/jquery-min-min.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
