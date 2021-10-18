@@ -89,7 +89,7 @@ body-class: index
 				<h2 class="h1 cursive">Location</h2>
 				<p class="h4 mb-32">We are conveniently located 2 blocks south of Washington Ave on Durham&nbsp;Dr</p>
 				<div class="contact-info p-16">
-					<address class="h4"><strong><a href="https://goo.gl/maps/5k7xXNuaiW9oCo1L6" target="_blank">4819 Blossom St.<br>
+					<address class="h4"><strong><a href="https://goo.gl/maps/5k7xXNuaiW9oCo1L6">4819 Blossom St.<br>
 					Houston, TX <br>
 					77007</a></strong></address>
 					<span class="h4 display-block"><strong>Tue - Sat | 10 - 5</strong></span>
