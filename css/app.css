@@ -14825,11 +14825,11 @@ body {
 }
 
 .location-section {
-  padding-top: 2.5rem;
+  padding-top: 5rem;
   padding-bottom: 5rem;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(105, 123, 153, 0.5)), to(rgba(105, 123, 153, 0.5))), url("/img/index/location/_ignores/shop-draft.jpg") center/cover no-repeat;
-  background: -webkit-linear-gradient(rgba(105, 123, 153, 0.5), rgba(105, 123, 153, 0.5)), url("/img/index/location/_ignores/shop-draft.jpg") center/cover no-repeat;
-  background: linear-gradient(rgba(105, 123, 153, 0.5), rgba(105, 123, 153, 0.5)), url("/img/index/location/_ignores/shop-draft.jpg") center/cover no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(105, 123, 153, 0.5)), to(rgba(105, 123, 153, 0.5))), url("/img/index/location/facade-draft/facade-draft.jpg") center/cover no-repeat;
+  background: -webkit-linear-gradient(rgba(105, 123, 153, 0.5), rgba(105, 123, 153, 0.5)), url("/img/index/location/facade-draft/facade-draft.jpg") center/cover no-repeat;
+  background: linear-gradient(rgba(105, 123, 153, 0.5), rgba(105, 123, 153, 0.5)), url("/img/index/location/facade-draft/facade-draft.jpg") center/cover no-repeat;
 }
 
 @media print, screen and (min-width: 64em) {
