@@ -6,4 +6,16 @@
 	rgba(105,123,153,0.50),
 	rgba(105,123,153,0.50)
 	), url('/img/index/location/facade-draft/facade-draft-a60.jpg') center/cover no-repeat;
+
+	.heading-wrap {
+		text-align: center;
+		padding-left: rem-calc(10);
+		padding-right: rem-calc(10);
+		margin-bottom: rem-calc(12);
+
+		@include breakpoint(large) {
+			text-align: left;
+			padding: 0;
+		}
+	}
 }

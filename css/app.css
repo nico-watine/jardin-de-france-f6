@@ -14832,6 +14832,20 @@ body {
   background: linear-gradient(rgba(105, 123, 153, 0.5), rgba(105, 123, 153, 0.5)), url("/img/index/location/facade-draft/facade-draft-a60.jpg") center/cover no-repeat;
 }
 
+.location-section .heading-wrap {
+  text-align: center;
+  padding-left: 0.625rem;
+  padding-right: 0.625rem;
+  margin-bottom: 0.75rem;
+}
+
+@media print, screen and (min-width: 64em) {
+  .location-section .heading-wrap {
+    text-align: left;
+    padding: 0;
+  }
+}
+
 .round-top-section {
   background: #eff0f8;
 }
