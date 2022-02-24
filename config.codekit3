@@ -185,6 +185,12 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/dist" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/dist",
+      "oF" : 0
+    },
     "\/fonts\/parisienne\/parisienne-v8\/parisienne.woff" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1133,6 +1139,19 @@
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/index\/location\/_ignores\/location.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/index\/location\/_ignores\/shop-draft.jpg" : {
+      "ft" : 16384,
+      "iS" : 159535,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/index\/location\/_ignores\/shop-draft.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
