@@ -8,3 +8,15 @@ og-image: /img/social-media/milieu/og-image.png
 body-id: index
 body-class: index
 ---
+<!-- Location Section -->
+<section class="location-section" id="location" data-magellan-target="location">
+	<div class="row">
+		<div class="medium-11 columns medium-push-1">
+			<div class="prose" style="max-width: 460px; width: 100%; padding-left: 20px; padding-right: 20px;">
+				<h2 style="line-height:  1;font-size: 60px;letter-spacing: -0.2px;text-align: center;" class="h1 ff-parisienne">Houston Location</h2>
+				<p>Local construction on Shepherd and Durham Dr has made our parking and access very limited. Because of this, our Houston location will be temporarily closing as of Saturday, February 26, until Fall 2022. We will be taking advantage of this time to remodel.</p>
+				<p>During our closure, private appointments will be available. Simply call ahead and we will schedule a day dedicated to your visit. Additionally, we can always be visited at our Round Top locations. For more information, we are only a call away. We greatly apologize for the inconvenience.</p>
+			</div>
+		</div>
+	</div>
+</section>
