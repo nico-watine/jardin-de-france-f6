@@ -14832,6 +14832,14 @@ body {
   background: linear-gradient(rgba(105, 123, 153, 0.5), rgba(105, 123, 153, 0.5)), url("/img/index/location/facade-draft/facade-draft-a60.jpg") center/cover no-repeat;
 }
 
+@media print, screen and (min-width: 64em) {
+  .location-section {
+    -webkit-background-size: contain;
+            background-size: contain;
+    background-color: #fff;
+  }
+}
+
 .location-section .heading-wrap {
   text-align: center;
   padding-left: 0.625rem;
@@ -14839,10 +14847,44 @@ body {
   margin-bottom: 0.75rem;
 }
 
+.location-section .heading-wrap h2 {
+  line-height: 1;
+  font-size: 3.75rem;
+  letter-spacing: -0.0125rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .location-section .heading-wrap h2 {
+    font-size: 5rem;
+  }
+}
+
 @media print, screen and (min-width: 64em) {
   .location-section .heading-wrap {
     text-align: left;
     padding: 0;
+  }
+  .location-section .heading-wrap h2 {
+    font-size: 6.875rem;
+  }
+  .location-section .heading-wrap h3 {
+    padding-left: 8.75rem;
+    margin-bottom: -1.25rem;
+  }
+}
+
+.location-section .prose {
+  max-width: 460px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media print, screen and (min-width: 64em) {
+  .location-section .prose {
+    max-width: none;
+  }
+  .location-section .prose p {
+    font-size: 1.25rem;
   }
 }
 
