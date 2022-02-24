@@ -1198,6 +1198,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/index\/location\/facade-draft\/facade-draft.jpg" : {
+      "ft" : 16384,
+      "iS" : 45241,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/index\/location\/facade-draft\/facade-draft.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/index\/location\/location.jpg" : {
       "ft" : 16384,
       "iS" : 243274,
