@@ -92,7 +92,9 @@ body-class: index
 				</div>
 				<div class="prose float-center">
 					<p>Local construction on Shepherd and Durham Dr has made our parking and access very limited. Because of this, our Houston location will be temporarily closing as of Saturday, February 26, until Fall 2022. We will be taking advantage of this time to remodel.</p>
-					<p>During our closure, private appointments will be available. Simply call ahead and we will schedule a day dedicated to your visit. Additionally, we can always be visited at our Round Top locations. For more information, we are only a call away. We greatly apologize for the inconvenience.</p>
+					<p style="margin-bottom: 40px;">During our closure, private appointments will be available. Simply call ahead and we will schedule a day dedicated to your visit. Additionally, we can always be visited at our Round Top locations. For more information, we are only a call away. We greatly apologize for the inconvenience.</p>
+					<h3 class="ff-museo-500">832-651-3136 <br>
+					shop@jdftx.com</h3>
 				</div>
 			</div>
 		</div>
