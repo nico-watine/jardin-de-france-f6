@@ -14930,7 +14930,7 @@ body {
 
 @media screen and (min-width: 68.75em) {
   .round-top-section .prose-wrap {
-    padding: 0 2rem;
+    padding: 0 0 0 2rem;
   }
 }
 
