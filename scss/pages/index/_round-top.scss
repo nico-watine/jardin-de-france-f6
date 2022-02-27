@@ -2,11 +2,7 @@
 	background: #eff0f8;
 
 	.h3 {
-		font-size: $h3;
-
-		@include breakpoint(520) {
-			font-size: $h3-medium;
-		}
+		font-size: $h3-medium;
 	}
 
 	.p {

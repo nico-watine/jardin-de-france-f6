@@ -14893,13 +14893,7 @@ body {
 }
 
 .round-top-section .h3 {
-  font-size: 1.375rem;
-}
-
-@media screen and (min-width: 32.5em) {
-  .round-top-section .h3 {
-    font-size: 1.75rem;
-  }
+  font-size: 1.75rem;
 }
 
 .round-top-section .p {
