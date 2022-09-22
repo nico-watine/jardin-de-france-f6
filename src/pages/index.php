@@ -82,7 +82,7 @@ body-class: index
 </section>
 
 <!-- Location Section -->
-<section class="location-section" id="location" data-magellan-target="location">
+<!-- <section class="location-section" id="location" data-magellan-target="location">
 	<div class="row">
 		<div class="large-11 columns large-push-1">
 			<div class="prose-wrap">
@@ -99,8 +99,8 @@ body-class: index
 			</div>
 		</div>
 	</div>
-</section>
-<!-- <section class="location-banner" id="location" data-magellan-target="location">
+</section> -->
+<section class="location-banner" id="location" data-magellan-target="location">
 	<div class="row">
 		<div class="medium-11 columns medium-push-1">
 			<div class="prose white" style="max-width: 400px; width: 100%;">
@@ -117,7 +117,7 @@ body-class: index
 			</div>
 		</div>
 	</div>
-</section> -->
+</section>
 
 <!-- Round Top Banner -->
 <section class="round-top-section py-40" data-magellan-target="round-top" id="round-top">
