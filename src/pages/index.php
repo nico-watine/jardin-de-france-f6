@@ -125,7 +125,7 @@ body-class: index
 		<div class="grid-x grid-padding-x">
 			<div class="cell">
 				<div class="prose-wrap">
-					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2022 <br>Spring Show <br>Dates &amp; Locations</h3>
+					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2022 <br>Fall Show <br>Dates &amp; Locations</h3>
 					<p class="p float-center">We will be at Excess Field 2 and Bader Ranch between March 10 and April 2. Additionally, we will be at The Compound starting March 19, and staying until April 2. We hope to see you in Round Top!</p>
 				</div>
 				<div class="vendor-logos">
