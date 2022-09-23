@@ -1672,6 +1672,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/vendors\/The-Compound-Antique-Show-Logo.png" : {
+      "ft" : 32768,
+      "iS" : 81825,
+      "oA" : 1,
+      "oAP" : "\/img\/vendors\/The-Compound-Antique-Show-Logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/vendors\/the-round-top-compound-logo.png" : {
       "ft" : 32768,
       "iS" : 21394,
