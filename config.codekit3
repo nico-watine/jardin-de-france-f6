@@ -1521,6 +1521,19 @@
       "oAP" : "\/img\/index\/splash\/splash.webm",
       "oF" : 0
     },
+    "\/img\/og-img\/general-og-img.jpg" : {
+      "ft" : 16384,
+      "iS" : 578660,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/og-img\/general-og-img.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/sharing\/facebook.png" : {
       "ft" : 32768,
       "iS" : 1843,
