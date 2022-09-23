@@ -18,7 +18,11 @@
 	}
 
 	.prose-wrap {
-		margin-bottom: rem-calc(32);
+		margin-bottom: rem-calc(48);
+
+		@include breakpoint(medium) {
+			margin-bottom: rem-calc(32);
+		}
 
 		@include breakpoint(large) {
 			float: left;
@@ -55,6 +59,10 @@
 		@include breakpoint(medium) {
 			margin-bottom: 0;
 		}
+
+		// @include breakpoint(large) {
+		// 	padding: 0 rem-calc(16) 0 0;
+		// }
 	}
 
 	.logo-wrap#bader-ranch {
@@ -101,18 +109,28 @@
 
 		@include breakpoint(large) {
 			max-width: 220px;
+			padding-left: 12px;
 		}
 
 		@include breakpoint(1200) {
 			max-width: 240px;
+			padding-left: 0;
 		}
 	}
 
 	img.round-top-compound-logo {
-		max-width: 220px;
+		max-width: 400px;
+		width: 100%;
+		margin-bottom: rem-calc(20);
+		padding: 0 16px;
+
+		@include breakpoint(medium) {
+			padding: 0;
+			max-width: 300px;
+		}
 
 		@include breakpoint(large) {
-			max-width: 200px;
+			max-width: 220px;
 		}
 
 		@include breakpoint(1200) {
