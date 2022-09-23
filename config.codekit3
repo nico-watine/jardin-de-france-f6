@@ -1672,6 +1672,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/vendors\/The-Compound-Antique-Show-Logo-2.png" : {
+      "ft" : 32768,
+      "iS" : 16297,
+      "oA" : 1,
+      "oAP" : "\/img\/vendors\/The-Compound-Antique-Show-Logo-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/vendors\/The-Compound-Antique-Show-Logo-3.png" : {
+      "ft" : 32768,
+      "iS" : 69749,
+      "oA" : 1,
+      "oAP" : "\/img\/vendors\/The-Compound-Antique-Show-Logo-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/vendors\/The-Compound-Antique-Show-Logo.png" : {
       "ft" : 32768,
       "iS" : 81825,
