@@ -15053,7 +15053,6 @@ body {
 
 @media print, screen and (min-width: 64em) {
   .round-top-section img.round-top-compound-logo {
-    max-width: 200px;
     max-width: 220px;
   }
 }
