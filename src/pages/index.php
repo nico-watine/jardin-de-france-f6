@@ -62,7 +62,7 @@ body-class: index
 				<li><a class="magellan-link" href="#conservatory"><span>The </span>Conservatory</a></li>
 				<li><a class="magellan-link" href="#interior-gallery"><span>The </span>Interior Gallery</a></li>
 				<li><a class="magellan-link" href="#about">Our Story</a></li>
-				<li class="hide-for-medium"><a href="tel:832-651-3136">832-651-3136</a></li>
+				<li class="hide-for-medium"><a href="tel:281-813-5306">281-813-5306</a></li>
 			</ul>
 		</div>
 	</div>
@@ -112,7 +112,7 @@ body-class: index
 					77007</a></strong></address>
 					<span class="h4 display-block"><strong>Tue - Sat | 10 - 5</strong></span>
 					<p class="h4"><strong><a href="mailto:shop@jdftx.com">Shop@JDFTX.com</a></strong></p>
-					<span class="h4"><strong>832-651-3136</strong></span>
+					<span class="h4"><strong>281-813-5306</strong></span>
 				</div>
 			</div>
 		</div>
