@@ -253,7 +253,7 @@ body-class: index
 	<br>
 	<h2 class="h2 text-center cursive my-32">In the Media</h2>
 	<br>
-	<div id="masonryGrid" class=" row small-up-2 medium-up-3">
+	<div id="masonryGrid" class="row small-up-2 medium-up-3">
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<a href="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" title="Milieu Mag – Fall 2019"><img title="Milieu Mag – Fall 2019" src="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" alt="Milieu Mag – Fall 2019"></a>
