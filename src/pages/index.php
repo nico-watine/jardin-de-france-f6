@@ -253,10 +253,10 @@ body-class: index
 	<br>
 	<h2 class="h2 text-center cursive my-32">In the Media</h2>
 	<br>
-	<div id="masonryGrid" class=" row small-up-2 medium-up-3">
+	<div id="masonryGrid" class="row small-up-2 medium-up-3">
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" title="Milieu Mag – Fall 2019"><img title="Milieu Mag – Fall 2019" src="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" title="Milieu Mag – Fall 2019"><img title="Milieu Mag – Fall 2019" src="/img/in-the-media/JardinDeFrance-Fall-2019.jpg" alt="Milieu Mag – Fall 2019"></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu Mag – Fall 2019</p>
 				</div>
@@ -264,7 +264,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" title="Milieu Mag – Fall 2020"><img title="Milieu Mag – Fall 2020" src="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" title="Milieu Mag – Fall 2020"><img title="Milieu Mag – Fall 2020" src="/img/in-the-media/JardinDeFrance-Fall-2020.jpg" alt="Milieu Mag – Fall 2020"></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu Mag – Fall 2020</p>
 				</div>
@@ -272,7 +272,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" title="Milieu Mag – Fall 2021"><img title="Milieu Mag – Fall 2021" src="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" title="Milieu Mag – Fall 2021"><img title="Milieu Mag – Fall 2021" src="/img/in-the-media/JardinDeFrance-Fall-2021.jpg" alt="Milieu Mag – Fall 2021"></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu Mag – Fall 2021</p>
 				</div>
@@ -280,7 +280,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" title="Milieu Mag – Spring 2019"><img title="Milieu Mag – Spring 2019" src="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" title="Milieu Mag – Spring 2019"><img title="Milieu Mag – Spring 2019" src="/img/in-the-media/JardinDeFrance-Spring-2019.jpg" alt="Milieu Mag – Spring 2019"></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu Mag – Spring 2019</p>
 				</div>
@@ -288,7 +288,7 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" title="Milieu Mag – Spring 2020"><img title="Milieu Mag – Spring 2020" src="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" title="Milieu Mag – Spring 2020"><img title="Milieu Mag – Spring 2020" src="/img/in-the-media/JardinDeFrance-Spring-2020.jpg" alt="Milieu Mag – Spring 2020"></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu Mag – Spring 2020</p>
 				</div>
@@ -296,9 +296,25 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" title="Milieu Mag – Spring 2021"><img title="Milieu Mag – Spring 2021" src="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" alt=""></a>
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" title="Milieu Mag – Spring 2021"><img title="Milieu Mag – Spring 2021" src="/img/in-the-media/JardinDeFrance-Spring-2021.jpg" alt="Milieu Mag – Spring 2021"></a>
 				<div class="p-16">
 					<p class="margin-0">Milieu Mag – Spring 2021</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2022.jpg" title="Milieu Mag – Spring 2022"><img title="Milieu Mag – Spring 2022" src="/img/in-the-media/JardinDeFrance-Spring-2022.jpg" alt="Milieu Mag – Spring 2022"></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Spring 2022</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2022.jpg" title="Milieu Mag – Fall 2022"><img title="Milieu Mag – Fall 2022" src="/img/in-the-media/JardinDeFrance-Fall-2022.jpg" alt="Milieu Mag – Fall 2022"></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Fall 2022</p>
 				</div>
 			</div>
 		</div>
