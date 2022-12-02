@@ -42,9 +42,9 @@
 			max-width: none;
 		}
 
-		@include breakpoint(large) {
-			text-align: unset;
-		}
+		// @include breakpoint(large) {
+		// 	text-align: unset;
+		// }
 	}
 
 	.logo-wrap {
