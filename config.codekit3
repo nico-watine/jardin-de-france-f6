@@ -595,6 +595,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/in-the-media\/JardinDeFrance-Fall-2022.jpg" : {
+      "ft" : 16384,
+      "iS" : 428543,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/in-the-media\/JardinDeFrance-Fall-2022.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/in-the-media\/JardinDeFrance-Spring-2019.jpg" : {
       "ft" : 16384,
       "iS" : 79400,
@@ -627,6 +640,19 @@
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/in-the-media\/JardinDeFrance-Spring-2021.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/in-the-media\/JardinDeFrance-Spring-2022.jpg" : {
+      "ft" : 16384,
+      "iS" : 511961,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/in-the-media\/JardinDeFrance-Spring-2022.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
