@@ -302,6 +302,22 @@ body-class: index
 				</div>
 			</div>
 		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Spring-2022.jpg" title="Milieu Mag – Spring 2022"><img title="Milieu Mag – Spring 2022" src="/img/in-the-media/JardinDeFrance-Spring-2022.jpg" alt=""></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Spring 2022</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/in-the-media/JardinDeFrance-Fall-2022.jpg" title="Milieu Mag – Fall 2022"><img title="Milieu Mag – Fall 2022" src="/img/in-the-media/JardinDeFrance-Fall-2022.jpg" alt=""></a>
+				<div class="p-16">
+					<p class="margin-0">Milieu Mag – Fall 2022</p>
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
 
