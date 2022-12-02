@@ -125,8 +125,8 @@ body-class: index
 		<div class="grid-x grid-padding-x">
 			<div class="cell">
 				<div class="prose-wrap">
-					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2022 <br>Fall Show <br>Dates &amp; Locations</h3>
-					<p class="p float-center">We will be at Bader Ranch, The Compound Antique Show, and Excess Field 2 between October 8 and October 31. We hope to see you in Round Top!</p>
+					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2023 <br>Spring Show <br>Dates &amp; Locations</h3>
+					<p class="p float-center">We will be at Bader Ranch and The Compound Antique Show for the Spring 2023 festival. We hope to see you in Round Top!</p>
 				</div>
 				<div class="vendor-logos">
 					<div class="display-inline-block text-center logo-wrap" id="round-top-compound">
