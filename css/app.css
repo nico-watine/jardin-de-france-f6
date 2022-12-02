@@ -14946,12 +14946,6 @@ body {
   }
 }
 
-@media print, screen and (min-width: 64em) {
-  .round-top-section .vendor-logos {
-    text-align: unset;
-  }
-}
-
 @media print, screen and (min-width: 40em) {
   .round-top-section .logo-wrap {
     margin-bottom: 0;
@@ -14994,28 +14988,6 @@ body {
 @media screen and (min-width: 75em) {
   .round-top-section .logo-wrap#bader-ranch {
     padding: 0 2rem;
-  }
-}
-
-.round-top-section .logo-wrap#excess-field {
-  margin-bottom: 2rem;
-}
-
-@media print, screen and (min-width: 40em) {
-  .round-top-section .logo-wrap#excess-field {
-    margin-bottom: 0;
-    padding-top: 2.5rem;
-  }
-}
-
-.round-top-section img.excess-field-logo {
-  max-width: 200px;
-  margin-bottom: 1.25rem;
-}
-
-@media print, screen and (min-width: 40em) {
-  .round-top-section img.excess-field-logo {
-    margin-bottom: 2rem;
   }
 }
 

@@ -41,10 +41,6 @@
 		@include breakpoint(medium) {
 			max-width: none;
 		}
-
-		@include breakpoint(large) {
-			text-align: unset;
-		}
 	}
 
 	.logo-wrap {
@@ -83,24 +79,6 @@
 
 		@include breakpoint(1200) {
 			padding: 0 rem-calc(32);
-		}
-	}
-
-	.logo-wrap#excess-field {
-		margin-bottom: rem-calc(32);
-
-		@include breakpoint(medium) {
-			margin-bottom: 0;
-			padding-top: rem-calc(40);
-		}
-	}
-
-	img.excess-field-logo {
-		max-width: 200px;
-		margin-bottom: rem-calc(20);
-
-		@include breakpoint(medium) {
-			margin-bottom: rem-calc(32);
 		}
 	}
 

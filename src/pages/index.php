@@ -3,7 +3,7 @@ url: /
 title: Jardin de France | l’Esprit Français for the Home & Garden
 description: Bringing to Houston the beauty of original French Country antiques, curated for the home and garden
 og-title: Jardin de France - featured in MILIEU-MAG.com
-og-description: Come visit us in Round Top at Excess 2 and Bader Ranch!
+og-description: Come visit us in Round Top at Bader Ranch and The Compound Antique Show!
 og-image: /img/og-img/general-og-img.jpg
 body-id: index
 body-class: index
@@ -125,8 +125,8 @@ body-class: index
 		<div class="grid-x grid-padding-x">
 			<div class="cell">
 				<div class="prose-wrap">
-					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2022 <br>Fall Show <br>Dates &amp; Locations</h3>
-					<p class="p float-center">We will be at Bader Ranch, The Compound Antique Show, and Excess Field 2 between October 8 and October 31. We hope to see you in Round Top!</p>
+					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2023 <br>Spring Show <br>Dates &amp; Locations</h3>
+					<p class="p float-center">We will be at Bader Ranch and The Compound Antique Show for the Spring 2023 festival. We hope to see you in Round Top!</p>
 				</div>
 				<div class="vendor-logos">
 					<div class="display-inline-block text-center logo-wrap" id="round-top-compound">
@@ -138,11 +138,6 @@ body-class: index
 						<img class="display-block bader-ranch-logo mb-16" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Bader Ranch Logo">
 						<!-- <a href="https://www.roundtopvendors.com" class="large button ff-museo-500">Location Info</a> -->
 						<a href="https://goo.gl/maps/GzRYnQRtXnGazxSY8" class="large button ff-museo-500">Directions</a>
-					</div>
-					<div class="display-inline-block text-center logo-wrap" id="excess-field">
-						<img class="display-block excess-field-logo" src="/img/vendors/excess-field-logo.png" alt="Excess Field Logo" title="Excess Field Logo">
-						<!-- <a href="https://excessfield.com" class="large button ff-museo-500">Location Info</a> -->
-						<a href="https://goo.gl/maps/ZioJvo87NtoQZBa5A" class="large button ff-museo-500">Directions</a>
 					</div>
 				</div>
 			</div>
