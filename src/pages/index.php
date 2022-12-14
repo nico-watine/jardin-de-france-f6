@@ -82,36 +82,18 @@ body-class: index
 </section>
 
 <!-- Location Section -->
-<!-- <section class="location-section" id="location" data-magellan-target="location">
-	<div class="row">
-		<div class="large-11 columns large-push-1">
-			<div class="prose-wrap">
-				<div class="heading-wrap">
-					<h3 class="ff-museo-500">Important Update</h3>
-					<h2 class="h1 ff-parisienne">Houston Location</h2>
-				</div>
-				<div class="prose float-center">
-					<p>Local construction on Shepherd and Durham Dr has made our parking and access very limited. Because of this, our Houston location will be temporarily closing as of Saturday, February 26, until Fall 2022. We will be taking advantage of this time to remodel.</p>
-					<p style="margin-bottom: 40px;">During our closure, private appointments will be available. Simply call ahead and we will schedule a day dedicated to your visit. Additionally, we can always be visited at our Round Top locations. For more information, we are only a call away. We greatly apologize for the inconvenience.</p>
-					<h3 class="ff-museo-500">832-651-3136 <br>
-					shop@jdftx.com</h3>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
 <section class="location-banner" id="location" data-magellan-target="location">
 	<div class="row">
 		<div class="medium-11 columns medium-push-1">
-			<div class="prose white" style="max-width: 400px; width: 100%;">
+			<div class="prose white px-16">
 				<h2 class="h1 cursive">Location</h2>
-				<p class="h4 mb-32">Our Houston store is conveniently located 2 blocks south of Washington Ave on Durham&nbsp;Dr</p>
-				<div class="contact-info p-16">
+				<p class="h4 mb-32" style="max-width: 570px; width: 100%;">Our Houston store is conveniently located 2 blocks south of Washington Ave at the corner of Durham Dr and Blossom St. Due to local construction, please access Blossom St via Sheperd Dr, as the Durham intersection is currently blocked.</p>
+				<div class="contact-info p-16" style="max-width: 400px; width: 100%;">
 					<address class="h4"><strong><a href="https://goo.gl/maps/5k7xXNuaiW9oCo1L6">4819 Blossom St.<br>
 					Houston, TX <br>
 					77007</a></strong></address>
 					<span class="h4 display-block"><strong>Tue - Sat | 10 - 5</strong></span>
-					<p class="h4"><strong><a href="mailto:shop@jdftx.com">Shop@JDFTX.com</a></strong></p>
+					<p class="h4"><strong><a href="mailto:shop@jdftx.com">shop@jdftx.com</a></strong></p>
 					<span class="h4"><strong>281-813-5306</strong></span>
 				</div>
 			</div>

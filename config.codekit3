@@ -43,6 +43,29 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/_ignores\/construction-location\/_construction-location.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/_ignores\/css\/_construction-location.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/_ignores\/construction-location\/construction-location.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/_ignores\/construction-location\/construction-location.html",
+      "oF" : 0
+    },
     "\/_ignores\/htaccess\/force-https.txt" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1863,7 +1886,7 @@
       "sct" : 1
     },
     "\/scss\/app.scss" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "co" : 0,
       "dP" : 10,
