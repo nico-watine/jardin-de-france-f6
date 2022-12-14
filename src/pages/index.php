@@ -93,7 +93,7 @@ body-class: index
 					Houston, TX <br>
 					77007</a></strong></address>
 					<span class="h4 display-block"><strong>Tue - Sat | 10 - 5</strong></span>
-					<p class="h4"><strong><a href="mailto:shop@jdftx.com">Shop@JDFTX.com</a></strong></p>
+					<p class="h4"><strong><a href="mailto:shop@jdftx.com">shop@jdftx.com</a></strong></p>
 					<span class="h4"><strong>281-813-5306</strong></span>
 				</div>
 			</div>
