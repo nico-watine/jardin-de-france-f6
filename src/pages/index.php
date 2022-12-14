@@ -85,10 +85,10 @@ body-class: index
 <section class="location-banner" id="location" data-magellan-target="location">
 	<div class="row">
 		<div class="medium-11 columns medium-push-1">
-			<div class="prose white" style="max-width: 400px; width: 100%;">
+			<div class="prose white px-16">
 				<h2 class="h1 cursive">Location</h2>
-				<p class="h4 mb-32">Our Houston store is conveniently located 2 blocks south of Washington Ave at the corner of Durham Dr and Blossom St. Due to local construction, please access Blossom St via Sheperd Dr, as the Durham intersection is currently blocked.</p>
-				<div class="contact-info p-16">
+				<p class="h4 mb-32" style="max-width: 570px; width: 100%;">Our Houston store is conveniently located 2 blocks south of Washington Ave at the corner of Durham Dr and Blossom St. Due to local construction, please access Blossom St via Sheperd Dr, as the Durham intersection is currently blocked.</p>
+				<div class="contact-info p-16" style="max-width: 400px; width: 100%;">
 					<address class="h4"><strong><a href="https://goo.gl/maps/5k7xXNuaiW9oCo1L6">4819 Blossom St.<br>
 					Houston, TX <br>
 					77007</a></strong></address>
