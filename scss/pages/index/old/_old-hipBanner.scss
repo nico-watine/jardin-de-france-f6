@@ -1,0 +1,26 @@
+.hipBanner {
+	padding: 60px 0;
+}
+
+.hipBanner .prose {
+	max-width: 770px;
+	margin: 0 auto;
+}
+
+.hipBanner .prose .button {
+	font-size: 16px;
+	padding: 12px 16px;
+}
+
+@media only screen and (min-width : 380px) {
+	.hipBanner .prose .button {
+		font-size: 18px;
+		padding: 16px 32px;
+	}
+}
+
+@media only screen and (min-width : 420px) {
+	.hipBanner .prose .button {
+		font-size: 20px;
+	}
+}
