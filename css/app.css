@@ -12590,6 +12590,33 @@ img.mfp-img {
   }
 }
 
+.hipBanner {
+  padding: 60px 0;
+}
+
+.hipBanner .prose {
+  max-width: 770px;
+  margin: 0 auto;
+}
+
+.hipBanner .prose .button {
+  font-size: 16px;
+  padding: 12px 16px;
+}
+
+@media only screen and (min-width: 380px) {
+  .hipBanner .prose .button {
+    font-size: 18px;
+    padding: 16px 32px;
+  }
+}
+
+@media only screen and (min-width: 420px) {
+  .hipBanner .prose .button {
+    font-size: 20px;
+  }
+}
+
 body {
   background: url("/img/assets/backgrounds/linen.jpg") repeat;
 }
@@ -12622,6 +12649,62 @@ body {
     width: 100%;
     height: auto;
     max-width: 100%;
+  }
+}
+
+.roundTop-section {
+  background: linear-gradient(rgba(105, 123, 153, 0.8), rgba(105, 123, 153, 0.8)), url("/img/index/round-top/2018/spring/marburger-farms/background.jpg") center/cover no-repeat;
+}
+
+.roundTop-section .prose {
+  max-width: 500px;
+  padding: 50px 0;
+}
+
+@media only screen and (min-width: 40em) {
+  .roundTop-section h2 {
+    font-size: 70px;
+  }
+}
+
+.roundTop-section #masonry-grid .tile img {
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+  border-radius: 4px;
+  border: 4px solid #fefefe;
+}
+
+#index.index .gardensSection {
+  border-top: 20px solid #fefefe;
+}
+
+#index.index .gardensSection .header {
+  padding: 60px 0;
+  background: linear-gradient(rgba(105, 123, 153, 0.7), rgba(105, 123, 153, 0.7)), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center center/cover no-repeat;
+}
+
+#index.index .gardensSection .gallery img {
+  border-radius: 3px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+  border: 4px solid #fefefe;
+  margin-bottom: 30px;
+  max-width: 340px;
+  width: 100%;
+}
+
+#index.index .gardensSection .imageBanner {
+  background: #697b99;
+}
+
+#index.index .gardensSection .imageBanner img {
+  border: 4px solid #fefefe;
+}
+
+@media only screen and (min-width: 40em) {
+  #index.index .gardensSection .header {
+    padding: 90px 0;
+  }
+  #index.index .gardensSection .imageBanner {
+    padding-bottom: 20px;
   }
 }
 
@@ -12718,89 +12801,6 @@ body {
   }
   .interiorGallery .yellow-bar {
     margin: 50px 0;
-  }
-}
-
-.roundTop-section {
-  background: linear-gradient(rgba(105, 123, 153, 0.8), rgba(105, 123, 153, 0.8)), url("/img/index/round-top/2018/spring/marburger-farms/background.jpg") center/cover no-repeat;
-}
-
-.roundTop-section .prose {
-  max-width: 500px;
-  padding: 50px 0;
-}
-
-@media only screen and (min-width: 40em) {
-  .roundTop-section h2 {
-    font-size: 70px;
-  }
-}
-
-.roundTop-section #masonry-grid .tile img {
-  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
-  border-radius: 4px;
-  border: 4px solid #fefefe;
-}
-
-#index.index .gardensSection {
-  border-top: 20px solid #fefefe;
-}
-
-#index.index .gardensSection .header {
-  padding: 60px 0;
-  background: linear-gradient(rgba(105, 123, 153, 0.7), rgba(105, 123, 153, 0.7)), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center center/cover no-repeat;
-}
-
-#index.index .gardensSection .gallery img {
-  border-radius: 3px;
-  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
-  border: 4px solid #fefefe;
-  margin-bottom: 30px;
-  max-width: 340px;
-  width: 100%;
-}
-
-#index.index .gardensSection .imageBanner {
-  background: #697b99;
-}
-
-#index.index .gardensSection .imageBanner img {
-  border: 4px solid #fefefe;
-}
-
-@media only screen and (min-width: 40em) {
-  #index.index .gardensSection .header {
-    padding: 90px 0;
-  }
-  #index.index .gardensSection .imageBanner {
-    padding-bottom: 20px;
-  }
-}
-
-.hipBanner {
-  padding: 60px 0;
-}
-
-.hipBanner .prose {
-  max-width: 770px;
-  margin: 0 auto;
-}
-
-.hipBanner .prose .button {
-  font-size: 16px;
-  padding: 12px 16px;
-}
-
-@media only screen and (min-width: 380px) {
-  .hipBanner .prose .button {
-    font-size: 18px;
-    padding: 16px 32px;
-  }
-}
-
-@media only screen and (min-width: 420px) {
-  .hipBanner .prose .button {
-    font-size: 20px;
   }
 }
 
