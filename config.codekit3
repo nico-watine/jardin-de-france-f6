@@ -620,7 +620,7 @@
     },
     "\/img\/in-the-media\/JardinDeFrance-Fall-2022.jpg" : {
       "ft" : 16384,
-      "iS" : 428543,
+      "iS" : 416611,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/in-the-media\/JardinDeFrance-Fall-2022.jpg",
@@ -1572,7 +1572,7 @@
     },
     "\/img\/og-img\/general-og-img.jpg" : {
       "ft" : 16384,
-      "iS" : 578660,
+      "iS" : 554557,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/og-img\/general-og-img.jpg",
@@ -2425,6 +2425,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/index\/old\/_old-gardens.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/index\/css\/_old-gardens.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/old\/_old-header.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -2440,6 +2455,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/index\/old\/_old-hipBanner.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/index\/css\/_old-hipBanner.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/old\/_old-index.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -2450,6 +2480,36 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/pages\/index\/css\/_old-index.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/pages\/index\/old\/_old-interiorGallery.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/index\/css\/_old-interiorGallery.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/pages\/index\/old\/_old-roundTop.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/index\/css\/_old-roundTop.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -2495,9 +2555,9 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/TODO",
-      "oF" : 1
+      "oF" : 0
     },
     "\/yarn.lock" : {
       "cB" : 0,
