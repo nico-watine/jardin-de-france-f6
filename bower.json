@@ -1,0 +1,19 @@
+{
+  "name": "jardin-de-france-f6",
+  "author": [
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
+  ],
+  "description": "Jardin de France website built on Foundation 6",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "foundation-sites": "6.7.5",
+    "jquery": "^3.6.0",
+    "motion-ui": "latest",
+    "what-input": "^5.2.10"
+  }
+}
