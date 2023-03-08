@@ -31,7 +31,7 @@ PATHS:
   # Paths to JavaScript libraries, which are compined into one file
   javascript:
     # Libraries requried by Foundation
-    # - "node_modules/jquery/dist/jquery.js" # <- alternatively utilize Google jQuery CDN
+    - "node_modules/jquery/dist/jquery.js"
     - "node_modules/what-input/dist/what-input.js"
 
     # Core Foundation files
