@@ -28,10 +28,14 @@
 
 	.h3 {
 		font-size: $h3-medium;
+		color: #fff;
+		text-shadow: 0 0 20px #000;
 	}
 
 	.p {
 		max-width: rem-calc(320);
+		color: #fff;
+		text-shadow: 0 0 20px #000;
 
 		@include breakpoint(520) {
 			max-width: rem-calc(420);
@@ -44,8 +48,8 @@
 
 	.prose-wrap {
 		margin-bottom: rem-calc(48);
-		color: #fff;
-		text-shadow: 0 0 20px #000;
+		// color: #fff;
+		// text-shadow: 0 0 20px #000;
 
 		@include breakpoint(medium) {
 			margin-bottom: rem-calc(32);
@@ -60,6 +64,18 @@
 		}
 	}
 
+	.location-card {
+		// color: #fff;
+		// text-shadow: 0 0 20px #000;
+		margin: auto;
+		backdrop-filter: blur(2px);
+		// background: rgba(255,255,255,.5);
+		background: rgba(239,240,248,0.80);
+		padding: rem-calc(12);
+		margin-bottom: rem-calc(32);
+		border-radius: 16px;
+	}
+
 	.vendor-logos {
 		max-width: 400px;
 		margin: 0 auto;
@@ -72,15 +88,15 @@
 
 	.logo-wrap {
 		@include breakpoint(medium) {
-			margin-bottom: 0;
+			// margin-bottom: 0;
 		}
 	}
 
 	.logo-wrap#round-top-compound {
-		margin-bottom: rem-calc(64);
+		// margin-bottom: rem-calc(64);
 
 		@include breakpoint(medium) {
-			margin-bottom: 0;
+			// margin-bottom: 0;
 		}
 
 		// @include breakpoint(large) {
@@ -89,10 +105,10 @@
 	}
 
 	.logo-wrap#bader-ranch {
-		margin-bottom: rem-calc(64);
+		// margin-bottom: rem-calc(64);
 
 		@include breakpoint(medium) {
-			margin-bottom: 0;
+			// margin-bottom: 0;
 			padding: 0 rem-calc(32);
 		}
 
