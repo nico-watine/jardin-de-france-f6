@@ -97,6 +97,7 @@
 
 		@include breakpoint(medium) {
 			// margin-bottom: 0;
+			margin-right: rem-calc(32);
 		}
 
 		// @include breakpoint(large) {
@@ -109,19 +110,19 @@
 
 		@include breakpoint(medium) {
 			// margin-bottom: 0;
-			padding: 0 rem-calc(32);
+			// padding: 0 rem-calc(32);
 		}
 
 		@include breakpoint(960) {
-			padding: 0 rem-calc(32);
+			// padding: 0 rem-calc(32);
 		}
 
 		@include breakpoint(large) {
-			padding: 0 rem-calc(16) 0 0;
+			// padding: 0 rem-calc(16) 0 0;
 		}
 
 		@include breakpoint(1200) {
-			padding: 0 rem-calc(32);
+			// padding: 0 rem-calc(32);
 		}
 	}
 

@@ -13263,26 +13263,8 @@ body {
 }
 
 @media print, screen and (min-width: 40em) {
-  .round-top-section .logo-wrap#bader-ranch {
-    padding: 0 2rem;
-  }
-}
-
-@media screen and (min-width: 60em) {
-  .round-top-section .logo-wrap#bader-ranch {
-    padding: 0 2rem;
-  }
-}
-
-@media print, screen and (min-width: 64em) {
-  .round-top-section .logo-wrap#bader-ranch {
-    padding: 0 1rem 0 0;
-  }
-}
-
-@media screen and (min-width: 75em) {
-  .round-top-section .logo-wrap#bader-ranch {
-    padding: 0 2rem;
+  .round-top-section .logo-wrap#round-top-compound {
+    margin-right: 2rem;
   }
 }
 
