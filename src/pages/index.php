@@ -113,7 +113,7 @@ body-class: index
 					<div class="pt-16 location-card" id="jdf-showroom" style="width: 280px;">
 						<h4 style="text-shadow: 0 0 13px #fff;" class="h4 mb-16 text-center float-center ff-museo-500">Jardin&nbsp;de&nbsp;France <br>Round&nbsp;Top&nbsp;Showroom</h4>
 						<div class="text-center">
-							<a href="https://goo.gl/maps/LgLp2WmisixiJHni8" class="large button ff-museo-500">Directions</a>
+							<a href="https://goo.gl/maps/NubeZCLfYEECzHhN7" class="large button ff-museo-500">Directions</a>
 						</div>
 					</div>
 				</div>
