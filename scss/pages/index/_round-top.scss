@@ -1,17 +1,7 @@
 .round-top-section {
-	// background: #eff0f8;
-	// background: linear-gradient(
-	// rgba(102,102,102,0.85),
-	// rgba(102,102,102,0.85)
-	// ), url('/img/jdf-showroom/jdf-showroom.jpg') center center/cover no-repeat;
-
-	// margin-top: 20px;
 	border-top: 20px solid #fefefe;
 	padding: 100px 0;
-	background: #fff url('/img/jdf-showroom/jdf-showroom.jpg') center/cover no-repeat;
-	background: #fff url('/img/jdf-showroom/jdf-showroom-2.jpg') center/cover no-repeat;
-	// color: #fff;
-	// text-align: center;
+	background: #eff0f8 url('/img/jdf-showroom/jdf-showroom-2.jpg') center/cover no-repeat;
 	position: relative;
 
 	&:after {
@@ -23,7 +13,6 @@
 		height: 100%;
 		background: rgba(102,102,102,.85);
 		mix-blend-mode: multiply;
-		// z-index: -10;
 	}
 
 	.h3 {
