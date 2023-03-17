@@ -48,8 +48,6 @@
 
 	.prose-wrap {
 		margin-bottom: rem-calc(48);
-		// color: #fff;
-		// text-shadow: 0 0 20px #000;
 
 		@include breakpoint(medium) {
 			margin-bottom: rem-calc(32);
@@ -65,8 +63,6 @@
 	}
 
 	.location-card {
-		// color: #fff;
-		// text-shadow: 0 0 20px #000;
 		margin: auto;
 		backdrop-filter: blur(2px);
 		// background: rgba(255,255,255,.5);
@@ -86,43 +82,10 @@
 		}
 	}
 
-	.logo-wrap {
-		@include breakpoint(medium) {
-			// margin-bottom: 0;
-		}
-	}
-
 	.logo-wrap#round-top-compound {
-		// margin-bottom: rem-calc(64);
 
 		@include breakpoint(medium) {
-			// margin-bottom: 0;
 			margin-right: rem-calc(32);
-		}
-
-		// @include breakpoint(large) {
-		// 	padding: 0 rem-calc(16) 0 0;
-		// }
-	}
-
-	.logo-wrap#bader-ranch {
-		// margin-bottom: rem-calc(64);
-
-		@include breakpoint(medium) {
-			// margin-bottom: 0;
-			// padding: 0 rem-calc(32);
-		}
-
-		@include breakpoint(960) {
-			// padding: 0 rem-calc(32);
-		}
-
-		@include breakpoint(large) {
-			// padding: 0 rem-calc(16) 0 0;
-		}
-
-		@include breakpoint(1200) {
-			// padding: 0 rem-calc(32);
 		}
 	}
 
