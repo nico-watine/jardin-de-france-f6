@@ -1,12 +1,30 @@
 .round-top-section {
-	background: #eff0f8;
+	border-top: 20px solid #fefefe;
+	padding: 100px 0;
+	background: #eff0f8 url('/img/jdf-showroom/jdf-showroom-2.jpg') center/cover no-repeat;
+	position: relative;
+
+	&:after {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(102,102,102,.85);
+		mix-blend-mode: multiply;
+	}
 
 	.h3 {
 		font-size: $h3-medium;
+		color: #fff;
+		text-shadow: 0 0 20px #000;
 	}
 
 	.p {
 		max-width: rem-calc(320);
+		color: #fff;
+		text-shadow: 0 0 20px #000;
 
 		@include breakpoint(520) {
 			max-width: rem-calc(420);
@@ -33,6 +51,16 @@
 		}
 	}
 
+	.location-card {
+		margin: auto;
+		backdrop-filter: blur(2px);
+		// background: rgba(255,255,255,.5);
+		background: rgba(239,240,248,0.80);
+		padding: rem-calc(12);
+		margin-bottom: rem-calc(32);
+		border-radius: 16px;
+	}
+
 	.vendor-logos {
 		max-width: 400px;
 		margin: 0 auto;
@@ -43,42 +71,10 @@
 		}
 	}
 
-	.logo-wrap {
-		@include breakpoint(medium) {
-			margin-bottom: 0;
-		}
-	}
-
 	.logo-wrap#round-top-compound {
-		margin-bottom: rem-calc(64);
 
 		@include breakpoint(medium) {
-			margin-bottom: 0;
-		}
-
-		// @include breakpoint(large) {
-		// 	padding: 0 rem-calc(16) 0 0;
-		// }
-	}
-
-	.logo-wrap#bader-ranch {
-		margin-bottom: rem-calc(64);
-
-		@include breakpoint(medium) {
-			margin-bottom: 0;
-			padding: 0 rem-calc(32);
-		}
-
-		@include breakpoint(960) {
-			padding: 0 rem-calc(32);
-		}
-
-		@include breakpoint(large) {
-			padding: 0 rem-calc(16) 0 0;
-		}
-
-		@include breakpoint(1200) {
-			padding: 0 rem-calc(32);
+			margin-right: rem-calc(32);
 		}
 	}
 
