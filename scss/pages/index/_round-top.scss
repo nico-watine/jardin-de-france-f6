@@ -42,11 +42,8 @@
 
 	.prose-wrap {
 		margin-bottom: rem-calc(48);
-
-		// * {
-			color: #fff;
-			text-shadow: 0 0 20px #000;
-		// }
+		color: #fff;
+		text-shadow: 0 0 20px #000;
 
 		@include breakpoint(medium) {
 			margin-bottom: rem-calc(32);
