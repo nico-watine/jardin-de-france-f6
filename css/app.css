@@ -13179,8 +13179,7 @@ body {
 .round-top-section {
   border-top: 20px solid #fefefe;
   padding: 100px 0;
-  background: #fff url("/img/jdf-showroom/jdf-showroom.jpg") center/cover no-repeat;
-  background: #fff url("/img/jdf-showroom/jdf-showroom-2.jpg") center/cover no-repeat;
+  background: #eff0f8 url("/img/jdf-showroom/jdf-showroom-2.jpg") center/cover no-repeat;
   position: relative;
 }
 
@@ -13197,10 +13196,14 @@ body {
 
 .round-top-section .h3 {
   font-size: 1.75rem;
+  color: #fff;
+  text-shadow: 0 0 20px #000;
 }
 
 .round-top-section .p {
   max-width: 20rem;
+  color: #fff;
+  text-shadow: 0 0 20px #000;
 }
 
 @media screen and (min-width: 32.5em) {
@@ -13217,8 +13220,6 @@ body {
 
 .round-top-section .prose-wrap {
   margin-bottom: 3rem;
-  color: #fff;
-  text-shadow: 0 0 20px #000;
 }
 
 @media print, screen and (min-width: 40em) {
@@ -13239,6 +13240,15 @@ body {
   }
 }
 
+.round-top-section .location-card {
+  margin: auto;
+  backdrop-filter: blur(2px);
+  background: rgba(239, 240, 248, 0.8);
+  padding: 0.75rem;
+  margin-bottom: 2rem;
+  border-radius: 16px;
+}
+
 .round-top-section .vendor-logos {
   max-width: 400px;
   margin: 0 auto;
@@ -13252,47 +13262,8 @@ body {
 }
 
 @media print, screen and (min-width: 40em) {
-  .round-top-section .logo-wrap {
-    margin-bottom: 0;
-  }
-}
-
-.round-top-section .logo-wrap#round-top-compound {
-  margin-bottom: 4rem;
-}
-
-@media print, screen and (min-width: 40em) {
   .round-top-section .logo-wrap#round-top-compound {
-    margin-bottom: 0;
-  }
-}
-
-.round-top-section .logo-wrap#bader-ranch {
-  margin-bottom: 4rem;
-}
-
-@media print, screen and (min-width: 40em) {
-  .round-top-section .logo-wrap#bader-ranch {
-    margin-bottom: 0;
-    padding: 0 2rem;
-  }
-}
-
-@media screen and (min-width: 60em) {
-  .round-top-section .logo-wrap#bader-ranch {
-    padding: 0 2rem;
-  }
-}
-
-@media print, screen and (min-width: 64em) {
-  .round-top-section .logo-wrap#bader-ranch {
-    padding: 0 1rem 0 0;
-  }
-}
-
-@media screen and (min-width: 75em) {
-  .round-top-section .logo-wrap#bader-ranch {
-    padding: 0 2rem;
+    margin-right: 2rem;
   }
 }
 

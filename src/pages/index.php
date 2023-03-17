@@ -106,22 +106,24 @@ body-class: index
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x">
 			<div class="cell">
-				<div class="prose-wrap position-relative" style="z-index: 10;">
+				<div class="prose-wrap position-relative" style="z-index: 1;">
 					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2023 <br>Spring Show <br>Dates &amp; Locations</h3>
 					<!-- <p class="p float-center">We will be at Bader Ranch and The Compound Antique Show for the Spring 2023 festival. We hope to see you in Round Top!</p> -->
 					<p class="p float-center">We are proud to announce the opening of our new Round Top Showroom! In addition to our new location, we will also be at Bader Ranch and The Compound Antique Show for the Spring 2023 festival. We hope to see you in Round Top!</p>
-					<h4 class="h4 mb-16 text-center float-center ff-museo-500">Jardin&nbsp;de&nbsp;France <br>Round&nbsp;Top&nbsp;Showroom</h4>
-					<div class="text-center">
-						<a href="https://goo.gl/maps/LgLp2WmisixiJHni8" class="large button ff-museo-500">Directions</a>
+					<div class="pt-16 location-card" id="jdf-showroom" style="width: 280px;">
+						<h4 style="text-shadow: 0 0 13px #fff;" class="h4 mb-16 text-center float-center ff-museo-500">Jardin&nbsp;de&nbsp;France <br>Round&nbsp;Top&nbsp;Showroom</h4>
+						<div class="text-center">
+							<a href="https://goo.gl/maps/LgLp2WmisixiJHni8" class="large button ff-museo-500">Directions</a>
+						</div>
 					</div>
 				</div>
-				<div class="vendor-logos position-relative" style="z-index: 10;">
-					<div class="display-inline-block text-center logo-wrap" id="round-top-compound">
+				<div class="vendor-logos position-relative" style="z-index: 1;">
+					<div class="display-inline-block text-center logo-wrap location-card" id="round-top-compound">
 						<img class="display-block round-top-compound-logo" src="/img/vendors/The-Compound-Antique-Show-Logo.png" alt="The White Barn Logo" title="The White Barn Logo">
 						<!-- <a href="http://roundtopcompound.com/" class="large button ff-museo-500">Location Info</a> -->
 						<a href="https://goo.gl/maps/caVpUHQ4ko98JC4HA" class="large button ff-museo-500">Directions</a>
 					</div>
-					<div class="display-inline-block text-center logo-wrap" id="bader-ranch">
+					<div class="display-inline-block text-center logo-wrap location-card" id="bader-ranch">
 						<img class="display-block bader-ranch-logo mb-16" src="/img/vendors/bader-ranch-logo.png" alt="Bader Ranch Logo" title="Bader Ranch Logo">
 						<!-- <a href="https://www.roundtopvendors.com" class="large button ff-museo-500">Location Info</a> -->
 						<a href="https://goo.gl/maps/GzRYnQRtXnGazxSY8" class="large button ff-museo-500">Directions</a>
