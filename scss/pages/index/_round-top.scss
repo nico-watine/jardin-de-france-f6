@@ -1,5 +1,28 @@
 .round-top-section {
-	background: #eff0f8;
+	// background: #eff0f8;
+	// background: linear-gradient(
+	// rgba(102,102,102,0.85),
+	// rgba(102,102,102,0.85)
+	// ), url('/img/jdf-showroom/jdf-showroom.jpg') center center/cover no-repeat;
+
+	margin-top: 80px;
+	padding: 100px 0;
+	background: #fff url('/img/jdf-showroom/jdf-showroom.jpg') center/cover no-repeat;
+	// color: #fff;
+	// text-align: center;
+	position: relative;
+
+	&:after {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(102,102,102,.85);
+		mix-blend-mode: multiply;
+		// z-index: -10;
+	}
 
 	.h3 {
 		font-size: $h3-medium;
@@ -19,6 +42,11 @@
 
 	.prose-wrap {
 		margin-bottom: rem-calc(48);
+
+		// * {
+			color: #fff;
+			text-shadow: 0 0 20px #000;
+		// }
 
 		@include breakpoint(medium) {
 			margin-bottom: rem-calc(32);

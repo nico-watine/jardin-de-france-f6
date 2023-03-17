@@ -106,7 +106,7 @@ body-class: index
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x">
 			<div class="cell">
-				<div class="prose-wrap">
+				<div class="prose-wrap position-relative" style="z-index: 10;">
 					<h3 class="h3 ff-museo-500 text-center mb-20">Round Top 2023 <br>Spring Show <br>Dates &amp; Locations</h3>
 					<!-- <p class="p float-center">We will be at Bader Ranch and The Compound Antique Show for the Spring 2023 festival. We hope to see you in Round Top!</p> -->
 					<p class="p float-center">We are proud to announce the opening of our new Round Top Showroom! In addition to our new location, we will also be at Bader Ranch and The Compound Antique Show for the Spring 2023 festival. We hope to see you in Round Top!</p>
@@ -115,7 +115,7 @@ body-class: index
 						<a href="https://goo.gl/maps/LgLp2WmisixiJHni8" class="large button ff-museo-500">Directions</a>
 					</div>
 				</div>
-				<div class="vendor-logos">
+				<div class="vendor-logos position-relative" style="z-index: 10;">
 					<div class="display-inline-block text-center logo-wrap" id="round-top-compound">
 						<img class="display-block round-top-compound-logo" src="/img/vendors/The-Compound-Antique-Show-Logo.png" alt="The White Barn Logo" title="The White Barn Logo">
 						<!-- <a href="http://roundtopcompound.com/" class="large button ff-museo-500">Location Info</a> -->

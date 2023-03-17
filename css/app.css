@@ -13177,7 +13177,21 @@ body {
 }
 
 .round-top-section {
-  background: #eff0f8;
+  margin-top: 80px;
+  padding: 100px 0;
+  background: #fff url("/img/jdf-showroom/jdf-showroom.jpg") center/cover no-repeat;
+  position: relative;
+}
+
+.round-top-section:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(102, 102, 102, 0.85);
+  mix-blend-mode: multiply;
 }
 
 .round-top-section .h3 {
@@ -13202,6 +13216,8 @@ body {
 
 .round-top-section .prose-wrap {
   margin-bottom: 3rem;
+  color: #fff;
+  text-shadow: 0 0 20px #000;
 }
 
 @media print, screen and (min-width: 40em) {
