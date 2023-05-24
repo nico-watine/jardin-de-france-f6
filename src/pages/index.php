@@ -111,8 +111,9 @@ body-class: index
 					<!-- <p class="p float-center">We will be at Bader Ranch and The Compound Antique Show for the Spring 2023 festival. We hope to see you in Round Top!</p> -->
 					<p class="p float-center">We are proud to announce the opening of our new Round Top Showroom! In addition to our new location, we will also be at Bader Ranch and The Compound Antique Show for the Spring 2023 festival. We hope to see you in Round Top!</p>
 					<div class="pt-16 location-card" id="jdf-showroom" style="width: 280px;">
-						<h4 style="text-shadow: 0 0 13px #fff;" class="h4 mb-16 text-center float-center ff-museo-500">Jardin&nbsp;de&nbsp;France <br>Round&nbsp;Top&nbsp;Showroom</h4>
+						<h4 style="text-shadow: 0 0 13px #fff;" class="h4 text-center float-center ff-museo-500">Jardin&nbsp;de&nbsp;France <br>Round&nbsp;Top&nbsp;Showroom</h4>
 						<div class="text-center">
+							<p>Open seasonally or by private appointment</p>
 							<a href="https://goo.gl/maps/NubeZCLfYEECzHhN7" class="large button ff-museo-500">Directions</a>
 						</div>
 					</div>
